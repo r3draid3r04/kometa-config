@@ -1,0 +1,9 @@
+metadata:
+  363998: # TVDB id for Pandora. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26764
+    url_poster: https://api.mediux.pro/assets/382552e4-83a2-43de-bdce-a7a0a874fb42
+    url_background: https://api.mediux.pro/assets/ee50cc05-a6db-48bd-8152-a4d9890a4420
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/468f1578-52d3-44d5-9e57-9197b50ab9be
+      2:
+        url_poster: https://api.mediux.pro/assets/2d5c3c89-584e-4d03-bb92-5c27135ea642

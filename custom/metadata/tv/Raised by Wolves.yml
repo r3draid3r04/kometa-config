@@ -1,0 +1,51 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20650
+  "Raised by Wolves (2020)":
+    year: 2020
+    title: "Raised by Wolves (2020)"
+    match:
+      mapping_id: 368643
+    url_poster: https://api.mediux.pro/assets/121e2644-a8ae-4928-88e4-f6fa4a8253c4
+    url_background: https://api.mediux.pro/assets/6618215d-4147-406b-9423-c2fbacf863f2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/449f4fb8-5633-4fe0-ab50-4d240dfd1220
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e57874af-0cfe-4f9e-bdcc-5f1d2c8e057e
+          2:
+            url_poster: https://api.mediux.pro/assets/ecda6958-0bb5-4e5a-b7b8-b00ffdb6af95
+          3:
+            url_poster: https://api.mediux.pro/assets/2ae9b7e7-c1ce-4e78-b22a-a707a9ab4da8
+          4:
+            url_poster: https://api.mediux.pro/assets/5aeaed4c-b21b-4a85-8af6-7542603bcdf9
+          5:
+            url_poster: https://api.mediux.pro/assets/67b53699-d872-4905-ad11-64e0785414bd
+          6:
+            url_poster: https://api.mediux.pro/assets/e1899309-b932-46be-b39c-e12b6d950381
+          7:
+            url_poster: https://api.mediux.pro/assets/7f633b70-9c8b-425b-9db4-5d5b57010cb9
+          8:
+            url_poster: https://api.mediux.pro/assets/91bc8acd-38db-45e5-8aea-efdd719c8bd7
+          9:
+            url_poster: https://api.mediux.pro/assets/62ea4c11-3d31-4892-a4b1-70bee816fd19
+          10:
+            url_poster: https://api.mediux.pro/assets/3741ea31-cbbe-4ba7-8f3c-d8e47506edcd
+      2:
+        url_poster: https://api.mediux.pro/assets/98bf73b9-cebf-4f0f-9165-80158a23ea44
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0542ccf3-6968-4275-9cd8-8b70967069a9
+          2:
+            url_poster: https://api.mediux.pro/assets/1ec1e9c3-b365-4895-8b73-fe36e57adc56
+          3:
+            url_poster: https://api.mediux.pro/assets/0e206218-89cb-463e-8994-bc8f7c35d240
+          4:
+            url_poster: https://api.mediux.pro/assets/ea2289fa-e8a3-43ba-b30e-19427691299d
+          5:
+            url_poster: https://api.mediux.pro/assets/362859b5-9276-48af-83af-07f804b46289
+          6:
+            url_poster: https://api.mediux.pro/assets/ae392e1e-4fab-404c-a067-ceebc417ae4b
+          7:
+            url_poster: https://api.mediux.pro/assets/b25d139c-2aa8-416e-bf83-5f566e4165f3
+          8:
+            url_poster: https://api.mediux.pro/assets/ea70b4dd-95ab-4c49-b0d1-a7beb5e8c072

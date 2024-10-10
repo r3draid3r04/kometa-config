@@ -1,0 +1,52 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/10738
+# Title cards by edmondantes32 on MediUX. https://mediux.pro/sets/17526
+metadata:
+  "Altered Carbon":
+    year: 2018
+    title: "Altered Carbon"
+    url_poster: https://api.mediux.pro/assets/a0bdfa41-669c-423b-b46f-01a945b4c44a
+    url_background: https://api.mediux.pro/assets/1505f768-dd24-4f60-b79c-ee8f7f2696aa
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/66b10305-3d82-4d5b-b2ca-2923a14ac5b8
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/20a9f5f5-2c17-4fe8-875b-d5442c267ddc
+          2:
+            url_poster: https://api.mediux.pro/assets/45c30d5b-e02a-4228-b485-7d77b3002667
+          3:
+            url_poster: https://api.mediux.pro/assets/c9c907e4-c895-4d45-a9c1-9aec83158462
+          4:
+            url_poster: https://api.mediux.pro/assets/5ec2cfe2-ddd4-40cc-a7e5-12667ce0f145
+          5:
+            url_poster: https://api.mediux.pro/assets/beb43757-cc02-41ea-bf01-3478dbffd677
+          6:
+            url_poster: https://api.mediux.pro/assets/e57df91a-35eb-4ad5-a2af-81f44bdc50ac
+          7:
+            url_poster: https://api.mediux.pro/assets/38ba0e11-24d5-4916-a87b-16d7a7e5fcb3
+          8:
+            url_poster: https://api.mediux.pro/assets/68a3c021-3a48-4d88-baa4-7500c71aa6e3
+          9:
+            url_poster: https://api.mediux.pro/assets/452e5ad6-3f57-41ff-8036-1cbddab7164a
+          10:
+            url_poster: https://api.mediux.pro/assets/ee3981ea-62d9-4624-be38-0b08f281c634
+      2:
+        url_poster: https://api.mediux.pro/assets/e669336c-1cd7-4fb7-a91a-6caaff474d95
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ebff0f1f-9798-41f2-bda4-5e2db1845545
+          2:
+            url_poster: https://api.mediux.pro/assets/33ed7bde-f569-4cca-915f-6420b8e7bf95
+          3:
+            url_poster: https://api.mediux.pro/assets/d82e4718-3164-4f80-806c-b393410b8514
+          4:
+            url_poster: https://api.mediux.pro/assets/974d2d6e-cc83-47ea-886f-f1d5c2d6ee29
+          5:
+            url_poster: https://api.mediux.pro/assets/f47887f0-a459-44b8-9437-88d28f1c6a75
+          6:
+            url_poster: https://api.mediux.pro/assets/f5f70e3f-c311-434d-874b-f2627338579c
+          7:
+            url_poster: https://api.mediux.pro/assets/496fcfa6-6fd7-48c8-b5b7-72994eb3c7e1
+          8:
+            url_poster: https://api.mediux.pro/assets/be54427f-b2b6-48a5-832b-56f5f258f88f
+

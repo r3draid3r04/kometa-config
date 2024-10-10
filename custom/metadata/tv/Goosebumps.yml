@@ -1,0 +1,9 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Goosebumps (2023)":
+    year: 2023
+    title: "Goosebumps (2023)"
+    url_poster: https://theposterdb.com/api/assets/419747
+    file_background: "config/assets/tv/Goosebumps (2023)/background.png"
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/419748

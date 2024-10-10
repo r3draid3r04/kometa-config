@@ -1,0 +1,25 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/22303
+# Title cards by Koltom on MediUX. https://mediux.pro/sets/761
+metadata:
+  "The English":
+    year: 2022
+    title: "The English"
+    url_poster: https://api.mediux.pro/assets/85ec08ba-d905-4fe2-9339-18838988438a
+    url_background: https://api.mediux.pro/assets/f1d5a36e-5278-49cf-bb75-e6bd65b1d955
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/41e4a940-bd56-45fc-9c9a-a3bad7c6767a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/56e21b94-800d-4248-9619-6f7e28cc9791
+          2:
+            url_poster: https://api.mediux.pro/assets/09647719-1dbe-4937-a2d9-730e3aaf2faf
+          3:
+            url_poster: https://api.mediux.pro/assets/41b3fc2b-6005-4eec-9d18-3e72b4a35030
+          4:
+            url_poster: https://api.mediux.pro/assets/9d4f79d7-7841-4bb7-bda2-8e6ba08afae9
+          5:
+            url_poster: https://api.mediux.pro/assets/1e10e7bb-9630-4a4b-9f7f-e6124b1f5451
+          6:
+            url_poster: https://api.mediux.pro/assets/75229824-37d2-460b-87ed-41589671a02e
+

@@ -1,0 +1,22 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19371
+  "Knuckles":
+    year: 2024
+    title: "Knuckles"
+    url_poster: https://api.mediux.pro/assets/e8734d27-6873-4dd8-bfd4-30640ff502e7
+    url_background: https://api.mediux.pro/assets/37df7189-f986-483f-9aad-e01969ed4c83
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6caf349c-945d-4938-a6cb-dfe026df2103
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/962b577e-2881-4cfa-870b-375ae59622bb
+          2:
+            url_poster: https://api.mediux.pro/assets/4fb26565-f75c-4e86-b659-0dea22b0967f
+          3:
+            url_poster: https://api.mediux.pro/assets/2b0890cc-65aa-449e-a6ec-1f69129e1408
+          4:
+            url_poster: https://api.mediux.pro/assets/174c7330-e5d6-4e54-8d69-bc4b85874c92
+          5:
+            url_poster: https://api.mediux.pro/assets/5cc727cc-2f93-449d-87b8-1eec02cca673
+          6:
+            url_poster: https://api.mediux.pro/assets/15fcc760-68b7-4e2b-b52f-f104deb79d8c

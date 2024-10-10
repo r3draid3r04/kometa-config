@@ -1,0 +1,16 @@
+# Posters by SwaffelSmurf on MediUX. https://mediux.pro/sets/24807
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/25137
+metadata:
+  "Agatha All Along":
+    year: 2024
+    title: "Agatha All Along"
+    url_poster: https://api.mediux.pro/assets/73d2fe38-3e80-40a1-a954-bc247ff01d56
+    url_background: https://api.mediux.pro/assets/403b589e-5af2-4f26-af00-9c732ab8df72
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3aa96249-4cbf-48f0-84d8-750c1918c63d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8c9abd11-c0d8-4720-a4e3-cace1e87f78a
+          2:
+            url_poster: https://api.mediux.pro/assets/89f7a7af-7b1e-4729-bcf2-9a6f6fb6bd61

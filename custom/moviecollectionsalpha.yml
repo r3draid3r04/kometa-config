@@ -1,0 +1,19 @@
+#########################################################################
+#                            Movie Collections                          #
+#  Collection Artwork from https://theposterdb.com/user/musikmann2000   #
+#########################################################################
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: alpha
+
+collections:
+  "Star Wars":
+    template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/68500}
+    summary: "The Complete Saga Of Star Wars"

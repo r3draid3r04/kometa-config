@@ -1,0 +1,9 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20261
+  "Knight Rider (2008)":
+    year: 2008
+    title: "Knight Rider (2008)"
+    url_poster: https://api.mediux.pro/assets/7688bf99-6620-4db2-8ec6-9aa8908a5b90
+    url_background: https://api.mediux.pro/assets/4d312229-4948-4838-8e04-809ee088155f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f04f6fbe-d079-4d39-8f79-525d2c162ae2

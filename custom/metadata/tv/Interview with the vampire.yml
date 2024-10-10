@@ -1,0 +1,26 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Interview with the Vampire":
+    year: 2022
+    title: "Interview with the Vampire"
+    url_poster: https://api.mediux.pro/assets/faf3e495-d36b-4d3a-801e-2c4af818f1d2
+    url_background: https://api.mediux.pro/assets/7873add5-b388-42cd-b9ec-3b42e64f1de2
+    Seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e9f041e6-9b57-452f-b1bb-a0ebe032eea3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/76b312f9-100b-43d6-b42e-3145200eb2db
+          2:
+            url_poster: https://api.mediux.pro/assets/7805ff7a-959b-468c-bfbc-18fe128e487b
+          3:
+            url_poster: https://api.mediux.pro/assets/857ef8a2-ab94-48f3-878f-40b1aab22447
+          4:
+            url_poster: https://api.mediux.pro/assets/164679dd-c339-4f88-9afa-41285e159eba
+          5:
+            url_poster: https://api.mediux.pro/assets/6e905bef-663d-486b-9645-be55363fc298
+          6:
+            url_poster: https://api.mediux.pro/assets/3f8b7eb5-13bc-4d45-bd56-d8bbab2c4af9
+          7:
+            url_poster: https://api.mediux.pro/assets/c1c4a7a7-89d0-4337-a385-db52d2c64dbb
+      2:
+        url_poster: https://api.mediux.pro/assets/63735c65-9c02-408e-9f70-5fb5faca7dfe

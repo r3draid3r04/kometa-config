@@ -1,0 +1,28 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/21009
+  "Peacemaker":
+    year: 2022
+    title: "Peacemaker"
+    url_poster: https://api.mediux.pro/assets/bc778f1f-3573-4529-88c1-10aa8a647d0b
+    url_background: https://api.mediux.pro/assets/17e7586e-9b2a-4e85-bfb6-2ceb86a01a7a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/5a5c5804-8bbb-4022-9629-79c0fe69f36e
+      1:
+        url_poster: https://api.mediux.pro/assets/0d7eafa5-31ca-465e-8e18-a970de8b7d29
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/77bc2289-0903-4f8f-a0d2-4a1a0d3a64e8
+          2:
+            url_poster: https://api.mediux.pro/assets/0a20cf65-6ec5-4609-a088-b35129dc5afd
+          3:
+            url_poster: https://api.mediux.pro/assets/b44054f8-7172-435b-aff5-a8c6421d09c9
+          4:
+            url_poster: https://api.mediux.pro/assets/c6fd00aa-1afa-43fd-83a7-30fdd40a26d7
+          5:
+            url_poster: https://api.mediux.pro/assets/d16b4d23-e107-40fb-aa91-edd4c12e0b93
+          6:
+            url_poster: https://api.mediux.pro/assets/7cb58a5d-0c6c-408e-80a5-a4b7b7173290
+          7:
+            url_poster: https://api.mediux.pro/assets/cead0bb2-27c1-4cf4-b215-c8905c18213f
+          8:
+            url_poster: https://api.mediux.pro/assets/847fbb82-1920-468d-8f01-45de8786155c

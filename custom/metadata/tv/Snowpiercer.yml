@@ -1,0 +1,81 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20799
+  "Snowpiercer":
+    year: 2020
+    title: "Snowpiercer"
+    url_poster: https://api.mediux.pro/assets/7e1f28e5-ae35-484b-aa6d-2eaf67dd2999
+    url_background: https://api.mediux.pro/assets/618c9324-e4eb-4bb0-ae95-45fcd6d2200e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fc26298c-8686-45ac-93c0-6380cafdf8eb
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cf45fb32-b96d-480e-900a-4ce5fe247fa6
+          2:
+            url_poster: https://api.mediux.pro/assets/246cea45-c6fb-49fc-b711-e26bc7f8ee08
+          3:
+            url_poster: https://api.mediux.pro/assets/fffb23d0-4c5e-462e-8d07-f64b1496d8c7
+          4:
+            url_poster: https://api.mediux.pro/assets/8191c4a4-6ee5-40f8-9546-fec05f922066
+          5:
+            url_poster: https://api.mediux.pro/assets/21ee8abd-7264-407c-b480-dd00c533e63f
+          6:
+            url_poster: https://api.mediux.pro/assets/0e656c44-223b-44bb-9673-b41fdbc2c792
+          7:
+            url_poster: https://api.mediux.pro/assets/a3124596-3ab7-4a84-bc07-b4a5398430ac
+          8:
+            url_poster: https://api.mediux.pro/assets/cae62cc6-ad5d-4fbc-9b15-49bbde52157e
+          9:
+            url_poster: https://api.mediux.pro/assets/7f6a788c-0eab-439a-ac9c-3e972f911d08
+          10:
+            url_poster: https://api.mediux.pro/assets/fc60693f-622b-467d-bb15-22a7f7df46d2
+      2:
+        url_poster: https://api.mediux.pro/assets/728f0608-f57b-40a0-8783-04d7b8313434
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/876a6184-c729-434e-b5d5-f3e758e8d569
+          2:
+            url_poster: https://api.mediux.pro/assets/c7f2343c-349c-4b1b-a827-8cf291b8b5ca
+          3:
+            url_poster: https://api.mediux.pro/assets/fa2db60b-5ef3-4442-a78e-c04f87d02314
+          4:
+            url_poster: https://api.mediux.pro/assets/d11fb74e-36e6-40f7-8126-82e354248f46
+          5:
+            url_poster: https://api.mediux.pro/assets/a7f92fcd-9be7-4994-87be-5e1b295add4b
+          6:
+            url_poster: https://api.mediux.pro/assets/8e9b14e3-904a-4a78-b988-9550957735dd
+          7:
+            url_poster: https://api.mediux.pro/assets/753540e0-b7e1-4273-b7c8-db6b2d19e235
+          8:
+            url_poster: https://api.mediux.pro/assets/50781a30-1802-47c5-85a4-65b8f096d204
+          9:
+            url_poster: https://api.mediux.pro/assets/063e4d1e-ee3b-4861-9e52-2b9fc99d1ebb
+          10:
+            url_poster: https://api.mediux.pro/assets/2d1789eb-298e-484b-bbb7-44067dfb7f6a
+      3:
+        url_poster: https://api.mediux.pro/assets/74db1d47-9b66-47b8-ab36-81d0fd694505
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f9d58be7-a0e2-4972-8d80-e1c230ce6cf7
+          2:
+            url_poster: https://api.mediux.pro/assets/93e52ee9-4cf3-4ba3-9d70-c1d944dea7ed
+          3:
+            url_poster: https://api.mediux.pro/assets/2d2ec73d-d683-48cb-b2da-ae54caca90bd
+          4:
+            url_poster: https://api.mediux.pro/assets/2fc5261a-ead0-46a4-8f6b-27562b274fed
+          5:
+            url_poster: https://api.mediux.pro/assets/2a660a24-63d8-43f1-b033-456cd72bff6b
+          6:
+            url_poster: https://api.mediux.pro/assets/b77ee17c-f69c-4bc2-b99a-4341bf08a337
+          7:
+            url_poster: https://api.mediux.pro/assets/52982622-cb6a-4452-adb8-a9f5dd7f3e24
+          8:
+            url_poster: https://api.mediux.pro/assets/de693b30-d73e-4064-be9c-9ca222f5c49f
+          9:
+            url_poster: https://api.mediux.pro/assets/dcbe753b-6d2f-41a1-ac6e-b9f05f254a6b
+          10:
+            url_poster: https://api.mediux.pro/assets/74fad13e-6687-4b03-a5b6-aa5a375b0e54
+      4:
+        url_poster: https://api.mediux.pro/assets/f7c9db7a-4474-4675-bef3-bb86bd2f1948
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fe42013e-7a63-47df-8b92-466a7569d435

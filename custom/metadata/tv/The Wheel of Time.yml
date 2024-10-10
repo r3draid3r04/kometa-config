@@ -1,0 +1,45 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/21005
+  "The Wheel of Time":
+    year: 2021
+    title: "The Wheel of Time"
+    url_poster: https://api.mediux.pro/assets/ba984b0e-5f2f-4e5c-a102-cf3c0cd241ed
+    url_background: https://api.mediux.pro/assets/2cb79f7e-74b0-4a6d-b173-e6462dfc5356
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3693a213-019b-4e43-85d3-b571aedf3cbd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/51f24102-2531-4be6-9703-028f8eb45a39
+          2:
+            url_poster: https://api.mediux.pro/assets/9e1869bd-fcd9-4950-9385-81435d7771c9
+          3:
+            url_poster: https://api.mediux.pro/assets/222465ea-04f1-44a2-ab2d-7967e51c5a55
+          4:
+            url_poster: https://api.mediux.pro/assets/3570cc7c-be6e-451a-a37f-342c1fdaa862
+          5:
+            url_poster: https://api.mediux.pro/assets/1433f432-090e-4459-9c72-074453f64435
+          6:
+            url_poster: https://api.mediux.pro/assets/70b9d2f4-3428-4643-8549-54cda62e5822
+          7:
+            url_poster: https://api.mediux.pro/assets/a5860289-6e57-46f8-a1b1-cc015b4e2381
+          8:
+            url_poster: https://api.mediux.pro/assets/3c05e692-dd07-4ae6-b178-9b8f18808979
+      2:
+        url_poster: https://api.mediux.pro/assets/e8f58b9f-6efc-436e-ae9c-c949b778b6ce
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/289a52c3-a163-4bd9-abd2-375032712738
+          2:
+            url_poster: https://api.mediux.pro/assets/85e6b1ec-7426-4f52-a5d5-474a0cbbbc7e
+          3:
+            url_poster: https://api.mediux.pro/assets/66582862-1de1-477b-a494-4f48621162e5
+          4:
+            url_poster: https://api.mediux.pro/assets/0f91b0f9-cf54-4d87-bf76-48b97a617abd
+          5:
+            url_poster: https://api.mediux.pro/assets/fc33ffb8-f323-49c6-a3ec-e08422027bb8
+          6:
+            url_poster: https://api.mediux.pro/assets/66022bb2-2003-4670-81b4-d8f1b0e4c355
+          7:
+            url_poster: https://api.mediux.pro/assets/7fb4607d-e9b9-4bc8-b53a-4ebe9e3c800e
+          8:
+            url_poster: https://api.mediux.pro/assets/cfb139fd-2c40-4f4d-92e4-8ddbf2e4f1e0

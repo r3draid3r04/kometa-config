@@ -1,0 +1,57 @@
+###########################################################################
+#                            TV Show Collections                          #
+#  Collection Artwork from https://theposterdb.com/user/r3draid3r04       #
+###########################################################################
+templates:
+  Collection:
+    optional:
+      - collection
+      - show
+    tmdb_collection_details: <<collection>>
+    tmdb_show: <<show>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: release
+
+collections:
+  Star Wars:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls521555455/
+    url_poster: https://theposterdb.com/api/assets/68500
+    summary: "The Complete Saga Of Star Wars"
+
+  Arrowverse:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls025550628/
+    url_poster: https://theposterdb.com/api/assets/409020
+    summary: "The Complete Arrowverse"
+
+  Stargate:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls521556800/
+    url_poster: https://theposterdb.com/api/assets/409021
+    summary: "The Complete Stargate Tv Universe"
+
+  Yellowstone:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls521552181/
+    url_poster: https://theposterdb.com/api/assets/409022
+    summary: "The Complete Yellowstone Collection"
+  
+  "Star Trek: Complete Collection":
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls521552452/
+    url_poster: https://theposterdb.com/api/assets/67377
+    summary: "The Complete Star Trek Collection of TV Shows and Movies"
+
+  Walking Dead:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls521554337/
+    url_poster: https://theposterdb.com/api/assets/409033
+    summary: "The Complete Arrowverse"
+
+  Marvel Cinematic Universe:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls044674698/
+    url_poster: https://theposterdb.com/api/assets/68505
+    summary: The Marvel Cinematic Universeis a collection of movies and television series that tell a singular narrative related to Marvel characters, settings and stories. The MCU is a product from Disney and Marvel that brings us heroes from Black Panther and Doctor Strange to Spider-Man and Iron Man

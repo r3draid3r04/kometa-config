@@ -1,0 +1,79 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/21018
+  "Pennyworth: The Origin of Batman's Butler":
+    year: 2019
+    match:
+      mapping_id: 363008
+    title: "Pennyworth: The Origin of Batman's Butler"
+    url_poster: https://api.mediux.pro/assets/e0d6b635-19b3-4dd5-aac4-0ede19e6ca2a
+    url_background: https://api.mediux.pro/assets/90c299c3-5ec3-465b-8257-159a1f53276d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a2290004-a1cb-4446-9409-e6ff20f650d3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/3bae0b3f-859c-4735-bd39-3940645f9ace
+          2:
+            url_poster: https://api.mediux.pro/assets/8a8b1c07-4b96-4007-bcce-2e9a93045910
+          3:
+            url_poster: https://api.mediux.pro/assets/c65ee374-0d8c-4939-a6c0-2f1ba821711c
+          4:
+            url_poster: https://api.mediux.pro/assets/15b5ec25-d4df-41de-8209-69b8960b1745
+          5:
+            url_poster: https://api.mediux.pro/assets/0d83b857-ebb6-44a2-9b3a-716243fe41ad
+          6:
+            url_poster: https://api.mediux.pro/assets/5b4b6635-945a-45fc-9611-0c168551cd2a
+          7:
+            url_poster: https://api.mediux.pro/assets/9e8f4834-9130-417e-999f-5c8667212a09
+          8:
+            url_poster: https://api.mediux.pro/assets/08d83b56-36fb-4c98-9d0d-fab4765344bd
+          9:
+            url_poster: https://api.mediux.pro/assets/611b724f-0716-4b17-8a06-b0da37e29146
+          10:
+            url_poster: https://api.mediux.pro/assets/2049296c-d895-41f6-b367-3c443d668c92
+      2:
+        url_poster: https://api.mediux.pro/assets/b179a414-79dc-4add-8e1d-eec4c7926da1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5bf0e29e-cf00-4c06-a967-d945b47c9de5
+          2:
+            url_poster: https://api.mediux.pro/assets/59b957ad-d405-4bef-b59e-127706a58370
+          3:
+            url_poster: https://api.mediux.pro/assets/6ba48a28-ffa4-4eed-992e-3f50602d4cb0
+          4:
+            url_poster: https://api.mediux.pro/assets/1be61563-c9ec-4eb8-8421-ba59db5a36d9
+          5:
+            url_poster: https://api.mediux.pro/assets/e2cc8c30-4973-4afa-9b6c-857158fe02d4
+          6:
+            url_poster: https://api.mediux.pro/assets/16b95840-5927-447d-a3e7-79f9a3886aeb
+          7:
+            url_poster: https://api.mediux.pro/assets/d83f8d15-6ebb-4e60-8ba8-60ffe6134c32
+          8:
+            url_poster: https://api.mediux.pro/assets/5f69cfa9-0095-49df-8549-88011d9e4976
+          9:
+            url_poster: https://api.mediux.pro/assets/ed8fff3b-175a-42d7-927f-d5b0c3562c01
+          10:
+            url_poster: https://api.mediux.pro/assets/25e2bf35-68f4-4a2b-94f4-601dfaa61d49
+      3:
+        url_poster: https://api.mediux.pro/assets/bf0be620-9a4a-45a7-9759-74c1b4302544
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9188f0ac-a931-45c2-83e8-e12f8dd9cd87
+          2:
+            url_poster: https://api.mediux.pro/assets/e36ae305-e0e3-448f-aec4-ba36a0e40ce6
+          3:
+            url_poster: https://api.mediux.pro/assets/4a7499ef-8e1a-45bc-bf08-13c8681669ae
+          4:
+            url_poster: https://api.mediux.pro/assets/2228a331-af22-4061-955f-fa4f2af41c35
+          5:
+            url_poster: https://api.mediux.pro/assets/b7bcb2df-8348-471e-a887-ef3a5693e56c
+          6:
+            url_poster: https://api.mediux.pro/assets/0fb5f925-66ed-41f5-b068-d20d620e30c7
+          7:
+            url_poster: https://api.mediux.pro/assets/538b9d7c-3f26-441d-a674-40a67a34a557
+          8:
+            url_poster: https://api.mediux.pro/assets/14cd394b-e1c4-4284-a342-51da64a50bc7
+          9:
+            url_poster: https://api.mediux.pro/assets/9324c385-30ec-415a-be19-05e60084986e
+          10:
+            url_poster: https://api.mediux.pro/assets/d6c32db2-8484-4fcc-b49c-fc3c3a01e466
+

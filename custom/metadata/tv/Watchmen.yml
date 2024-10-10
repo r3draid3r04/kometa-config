@@ -1,0 +1,29 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Watchmen":
+    year: 2019
+    title: "Watchmen"
+    url_poster: https://api.mediux.pro/assets/3aa66a1d-8260-4380-9b80-6299fef09c4d
+    url_background: https://api.mediux.pro/assets/43375644-e038-450b-97b4-5a49bd73ae4e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb0139a4-a3a0-4031-994a-b600a2de534e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d8b0961f-9236-4d90-8c34-4efc6adefd41
+          2:
+            url_poster: https://api.mediux.pro/assets/dfec0d57-20b9-4ebf-8839-3c50367d0779
+          3:
+            url_poster: https://api.mediux.pro/assets/67e43f81-63e4-4aee-bc92-ea92e241dc89
+          4:
+            url_poster: https://api.mediux.pro/assets/1713c9bb-4cd4-4dfe-8689-f4454f53b728
+          5:
+            url_poster: https://api.mediux.pro/assets/4d15ddeb-097f-40ac-a475-9e872de3f29b
+          6:
+            url_poster: https://api.mediux.pro/assets/d1d8c9f8-c72a-4e97-b065-4fbd55b13632
+          7:
+            url_poster: https://api.mediux.pro/assets/1ee7236c-3e0b-4cee-a514-648eb7091305
+          8:
+            url_poster: https://api.mediux.pro/assets/e6708497-65d0-4a56-b549-9ab361ccb8e3
+          9:
+            url_poster: https://api.mediux.pro/assets/16ac5ba7-91bc-4f96-994e-89c688d0e19c
+

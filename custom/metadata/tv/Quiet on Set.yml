@@ -1,0 +1,24 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/21343
+# Title cards by Kwickflix on MediUX. https://mediux.pro/sets/17430
+metadata:
+  "Quiet on Set: The Dark Side of Kids TV":
+    year: 2024
+    match:
+      mapping_id: 445906
+    title: "Quiet on Set: The Dark Side of Kids TV"
+    url_poster: https://api.mediux.pro/assets/739e2272-745d-4739-a74e-4337bdde38f8
+    url_background: https://api.mediux.pro/assets/9be50a7f-c40a-4380-b576-8d128896282b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/badc2829-17a9-4b4a-a559-a72b91ba0036
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/4144639f-df99-4c5b-a1cb-13bad242f20a
+          2:
+            url_poster: https://api.mediux.pro/assets/4e4de0a8-df40-4675-aaba-bf5ba0b3745a
+          3:
+            url_poster: https://api.mediux.pro/assets/d508ba2a-1617-4c24-b541-97d21d81c5e1
+          4:
+            url_poster: https://api.mediux.pro/assets/98311fe6-9095-4132-bbfe-5e2f9dfb4b7e
+          5:
+            url_poster: https://api.mediux.pro/assets/f254262a-0995-4ae5-aa0c-bb8c3e1e2c9c

@@ -1,0 +1,76 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/10837
+# Title cards by willtong93 on MediUX. https://mediux.pro/sets/15520
+metadata:
+  "American Crime Story":
+    year: 2016
+    title: "American Crime Story"
+    url_poster: https://api.mediux.pro/assets/e6af437d-2c23-4091-b043-1d9658bc0420
+    url_background: https://api.mediux.pro/assets/e3fdfc54-ce89-4b55-9b87-d549711ff016
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6ad0448f-e0da-4463-8cf2-f61db2ebb780
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a055e46d-dfe6-4a89-845a-4e9a42b23c76
+          2:
+            url_poster: https://api.mediux.pro/assets/04be3833-49aa-4b84-b14b-0aa3bd5ede93
+          3:
+            url_poster: https://api.mediux.pro/assets/a1e087e0-f2c7-4e50-a3bc-d8ff43e05cad
+          4:
+            url_poster: https://api.mediux.pro/assets/5af2770b-c589-48f6-bb3b-ac7e562bbfd3
+          5:
+            url_poster: https://api.mediux.pro/assets/052d9933-699d-4100-83e7-22a80ab2d26e
+          6:
+            url_poster: https://api.mediux.pro/assets/17f7d030-61cc-4a47-a3e8-51c34b97b715
+          7:
+            url_poster: https://api.mediux.pro/assets/d1bbc98c-bae4-4d41-9d1f-6987665aaffa
+          8:
+            url_poster: https://api.mediux.pro/assets/37afffed-296f-44c3-b7d1-4dafc8b4bd78
+          9:
+            url_poster: https://api.mediux.pro/assets/d857ed37-f2c4-484f-aa2e-6b55bc012e0e
+          10:
+            url_poster: https://api.mediux.pro/assets/5112bfea-9dbb-4c1d-b907-fd324b4e2a97
+      2:
+        url_poster: https://api.mediux.pro/assets/849950a5-df62-49f9-9ba1-08657b6b0a53
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/93d09d97-cd23-4edb-81ab-bb582fffa391
+          2:
+            url_poster: https://api.mediux.pro/assets/07fce98e-dfed-4c22-9a4d-990299c083af
+          3:
+            url_poster: https://api.mediux.pro/assets/47a545d0-9645-4fce-8a09-fe81cbff5fb5
+          4:
+            url_poster: https://api.mediux.pro/assets/a64b31e3-3529-42ee-a134-7a04f8f73525
+          5:
+            url_poster: https://api.mediux.pro/assets/e7fde29b-5377-47b0-8eb5-d57e04d00854
+          6:
+            url_poster: https://api.mediux.pro/assets/4d4f85be-78ce-42fa-aa6d-ba05a12557b0
+          7:
+            url_poster: https://api.mediux.pro/assets/08df4037-bf67-4b7c-8fbd-a28a442d6024
+          8:
+            url_poster: https://api.mediux.pro/assets/949ab094-60c7-4b3d-a369-0f8b719f28ef
+          9:
+            url_poster: https://api.mediux.pro/assets/8f0a9bdf-50e1-4938-8c38-c75e4d210cb9
+      3:
+        url_poster: https://api.mediux.pro/assets/b1e904cb-ae42-4006-8c1c-9e76b7b775f0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/1bddea2b-65d9-4dd2-973e-c42971f77a56
+          2:
+            url_poster: https://api.mediux.pro/assets/8bbd96a5-d461-4d84-9523-5e9032c32047
+          3:
+            url_poster: https://api.mediux.pro/assets/3ed7b5a2-cc21-4b21-bdcf-898b5dac1fee
+          4:
+            url_poster: https://api.mediux.pro/assets/0b9c5eb8-1ff4-46eb-b3e8-da8f8532dd75
+          5:
+            url_poster: https://api.mediux.pro/assets/f75fa1f8-2142-48d9-a400-5eb65341391b
+          6:
+            url_poster: https://api.mediux.pro/assets/ab4b8702-505a-4e61-9626-2e28d2931ef1
+          7:
+            url_poster: https://api.mediux.pro/assets/576d7a4b-7a74-4c67-ad17-d77e0d661266
+          8:
+            url_poster: https://api.mediux.pro/assets/38fe000c-566f-49b4-a97e-0b4dc987f149
+          9:
+            url_poster: https://api.mediux.pro/assets/99d57d23-d63e-4029-b655-14170b876a79
+          10:
+            url_poster: https://api.mediux.pro/assets/c1b3143e-96b6-4be8-8fa6-d80579e97038

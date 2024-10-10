@@ -1,0 +1,11 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Marvel's Cloak & Dagger":
+    year: 2018
+    title: "Marvel's Cloak & Dagger"
+    url_poster: https://theposterdb.com/api/assets/33834
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/210765
+      2:
+        url_poster: https://theposterdb.com/api/assets/210766
+

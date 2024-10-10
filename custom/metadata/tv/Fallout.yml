@@ -1,0 +1,9 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19993
+  "Fallout":
+    year: 2024
+    title: "Fallout"
+    url_poster: https://api.mediux.pro/assets/aa59725c-78a9-4d7b-ac12-eacc662ecbc9
+    url_background: https://api.mediux.pro/assets/3e80204b-67eb-4398-86f4-e057ec382aa4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3cf5cc4a-007e-4f9b-a591-bcb4d69d6c6e

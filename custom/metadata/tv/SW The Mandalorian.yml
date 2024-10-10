@@ -1,0 +1,32 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/9150
+# Title cards by willtong93 on MediUX. https://mediux.pro/sets/22594
+metadata:
+  "The Mandalorian":
+    year: 2019
+    title: "The Mandalorian"
+    url_poster: https://api.mediux.pro/assets/187dd734-fbc5-4dc7-a32c-96825ca71e36
+    url_background: https://api.mediux.pro/assets/0a29819f-20c6-4754-a3ac-278e3d7a3511
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/363a044b-744f-45b2-9ec6-fe6a38871a1e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/61f15ef5-a391-41dd-9557-fa8c614bca86
+          2:
+            url_poster: https://api.mediux.pro/assets/ad17cc05-5bee-4b61-9e12-e03d84c24b85
+          3:
+            url_poster: https://api.mediux.pro/assets/3964167d-be8e-4c5a-ab2e-a6ba732f55b8
+          4:
+            url_poster: https://api.mediux.pro/assets/2ed7daa2-9376-4516-b832-dc011669c5ad
+          5:
+            url_poster: https://api.mediux.pro/assets/8fdd98dd-08e4-44e6-bdb9-7ee586d6a09f
+          6:
+            url_poster: https://api.mediux.pro/assets/0e163dd4-49a1-4425-a5b8-e4e8900bd1fe
+          7:
+            url_poster: https://api.mediux.pro/assets/be4a8a19-9246-493c-b15b-1d71692f0282
+          8:
+            url_poster: https://api.mediux.pro/assets/8fe8a60a-3d2a-4b25-87d4-d07abef66333
+      2:
+        url_poster: https://api.mediux.pro/assets/b230bcc3-9664-40f4-8154-eed97ab89d2d
+      3:
+        url_poster: https://api.mediux.pro/assets/ae003fd2-ba05-4096-bf9a-366c00b069aa

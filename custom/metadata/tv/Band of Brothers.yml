@@ -1,0 +1,33 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/11293
+# Title cards by willtong93 on MediUX. https://mediux.pro/sets/8835
+metadata:
+  "Band of Brothers":
+    year: 2001
+    title: "Band of Brothers"
+    url_poster: https://api.mediux.pro/assets/bcc5bbc8-f7cc-4570-aab6-38598bd3f5b3
+    url_background: https://api.mediux.pro/assets/00efdbe0-a132-4bb9-b90c-604b3a30be1b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d246e519-5f85-4fb8-9686-2cef123290ca
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/858f829d-b0ca-4b56-9cb3-d7d7e0d8c939
+          2:
+            url_poster: https://api.mediux.pro/assets/983b61f7-6575-4888-a6f7-d1f3abfb556b
+          3:
+            url_poster: https://api.mediux.pro/assets/eea23640-6711-4683-9968-10f51ca79417
+          4:
+            url_poster: https://api.mediux.pro/assets/36ac34af-c959-49e2-85c2-ef6eef567b75
+          5:
+            url_poster: https://api.mediux.pro/assets/a432dff0-ade1-48cb-8bcd-52b6bf6c15b1
+          6:
+            url_poster: https://api.mediux.pro/assets/986e6898-79a0-44ac-92dd-93eedb3c7c8a
+          7:
+            url_poster: https://api.mediux.pro/assets/772ffbbc-24b9-40d0-a45e-6d656c9e93cd
+          8:
+            url_poster: https://api.mediux.pro/assets/ebcf4144-d280-47c9-b07d-4724d22338ef
+          9:
+            url_poster: https://api.mediux.pro/assets/692bf0a3-4a0d-491c-93b7-03797dabd04a
+          10:
+            url_poster: https://api.mediux.pro/assets/26163425-718a-458b-963d-c5a49b369f67
+

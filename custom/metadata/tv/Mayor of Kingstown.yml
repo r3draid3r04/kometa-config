@@ -1,0 +1,57 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/21107
+# Title Cards 
+metadata:
+  "Mayor of Kingstown":
+    year: 2021
+    title: "Mayor of Kingstown"
+    url_poster: https://api.mediux.pro/assets/7e20f862-92cb-49de-8cfd-10269b8a239f
+    url_background: https://api.mediux.pro/assets/71a3b6ab-8b3b-45ed-8d03-631edb493063
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2185bc45-3e85-49bd-89d5-0f7891bd595d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/30756904-0f20-4f6e-98e1-402ee86328b0
+          2:
+            url_poster: https://api.mediux.pro/assets/62b95d6c-d958-4281-a778-1ca5a2374155
+          3:
+            url_poster: https://api.mediux.pro/assets/d51240ca-8a61-40f0-9bd9-ca2e4e570e4c
+          4:
+            url_poster: https://api.mediux.pro/assets/d9515284-07fa-4340-a8dc-0ab84ffb317b
+          5:
+            url_poster: https://api.mediux.pro/assets/da359dd7-c44c-4efd-9415-807bbb944191
+          6:
+            url_poster: https://api.mediux.pro/assets/1df43554-a41b-41a7-87bf-bb90ff8f7375
+          7:
+            url_poster: https://api.mediux.pro/assets/83cd1dfb-21cf-4cc2-88f9-817f50ff0ec1
+          8:
+            url_poster: https://api.mediux.pro/assets/33cbf1d4-9590-40d6-bcf6-6ead44a1723c
+          9:
+            url_poster: https://api.mediux.pro/assets/3d3cf969-c54f-4420-915c-73e70148ba9e
+          10:
+            url_poster: https://api.mediux.pro/assets/f88d8f3d-4e1d-4610-8d07-3ac342271a77
+      2:
+        url_poster: https://api.mediux.pro/assets/703cc1e2-5e58-4362-a041-e782c3549ed5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/343ded58-e9e6-4d00-b7ea-d7c8db6f87f5
+          2:
+            url_poster: https://api.mediux.pro/assets/4f2aa908-5839-460e-9c6c-886ec7c85dfa
+          3:
+            url_poster: https://api.mediux.pro/assets/2df27079-e223-453e-ac29-84e52e8b91cd
+          4:
+            url_poster: https://api.mediux.pro/assets/6e9b6960-8686-464d-ae5e-446531ac3f7e
+          5:
+            url_poster: https://api.mediux.pro/assets/28a5ec9b-bbde-4f57-a964-0160cae1dc9d
+          6:
+            url_poster: https://api.mediux.pro/assets/00de8a97-6f27-4ec0-8922-5effca65b580
+          7:
+            url_poster: https://api.mediux.pro/assets/e1b991ae-1ec9-41b1-9ce1-0c11d8efe7d2
+          8:
+            url_poster: https://api.mediux.pro/assets/980e203e-cf2e-4913-a66e-364dfe6a66b7
+          9:
+            url_poster: https://api.mediux.pro/assets/3c845594-f3ba-4033-8bba-7dcff1820da8
+          10:
+            url_poster: https://api.mediux.pro/assets/9bdd0d3b-5500-498d-a41c-37e6ad1edfab
+      3:
+        url_poster: https://api.mediux.pro/assets/b20de9dc-a561-4b78-8167-bcc56d56066b

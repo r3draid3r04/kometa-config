@@ -1,0 +1,24 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/19992
+# Title cards by Kwickflix on MediUX. https://mediux.pro/sets/21062
+metadata:     # Set by r3draid3r04 on MediUX.
+  "Dark Matter (2024)":
+    year: 2024
+    title: "Dark Matter (2024)"
+    url_poster: https://api.mediux.pro/assets/3609a763-805c-43f5-8ef6-e0ecadd1f8ce
+    url_background: https://api.mediux.pro/assets/a02c93b9-03ea-4ef4-9923-9238bbd6a217
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/881be914-fdca-488b-b0ed-402a94c67715
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7ec42c5f-b459-4cc1-adb4-7e315e9cd03f
+          2:
+            url_poster: https://api.mediux.pro/assets/11e0ee1f-4d4c-43c7-ae93-5940aedf2d35
+          3:
+            url_poster: https://api.mediux.pro/assets/dab479af-34e5-4b38-b1db-d56be7cc8455
+          4:
+            url_poster: https://api.mediux.pro/assets/7b1c5865-62fe-44a3-b620-4e71687efb8c
+          5:
+            url_poster: https://api.mediux.pro/assets/380771d7-1f33-4679-89c0-aa3a5ff2ab03
+          6:
+            url_poster: https://api.mediux.pro/assets/8ea82d77-3904-4e2a-8347-16d10520d581

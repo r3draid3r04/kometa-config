@@ -1,0 +1,27 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/13706
+# Title cards by Kwickflix on MediUX. https://mediux.pro/sets/24015
+metadata:
+  "Hijack":
+    year: 2023
+    title: "Hijack"
+    url_poster: https://api.mediux.pro/assets/43530b25-f60e-4c97-b5d6-8e084b70a227
+    url_background: https://api.mediux.pro/assets/ebf2f372-30b0-428b-a58b-e593ca5a4d4c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/73910438-0baf-4467-9af8-0d496753d718
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ca8c6c62-503d-461b-be61-4ad028780716
+          2:
+            url_poster: https://api.mediux.pro/assets/7cff7961-3532-425f-862e-61a4e28ff13c
+          3:
+            url_poster: https://api.mediux.pro/assets/91af797f-e72c-41c3-9491-78b0d91878b1
+          4:
+            url_poster: https://api.mediux.pro/assets/c183d605-9a7b-4fbc-b358-c2cf957680ae
+          5:
+            url_poster: https://api.mediux.pro/assets/a836c82c-9ddc-4fb0-8301-e02ed9a25a0b
+          6:
+            url_poster: https://api.mediux.pro/assets/4c2aa25f-d6dd-4bfd-a3a2-e2398b9a4610
+          7:
+            url_poster: https://api.mediux.pro/assets/e83ec2b7-8d04-43d2-8822-77a3ddeab69e
+

@@ -1,0 +1,7 @@
+metadata:
+  78984: # TVDB id for Legend of Earthsea. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26678
+    url_poster: https://api.mediux.pro/assets/c8036555-0f01-469b-86aa-6099780a22aa
+    url_background: https://api.mediux.pro/assets/f57596bc-2f5a-4966-a932-3ece336cfc63
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1667233e-cc35-4f54-abd6-e7ab31515620

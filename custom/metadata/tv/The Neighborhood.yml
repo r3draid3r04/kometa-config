@@ -1,0 +1,19 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19426
+  "The Neighborhood":
+    year: 2018
+    title: "The Neighborhood"
+    url_poster: https://api.mediux.pro/assets/00728cf7-aa52-4dd5-9f66-f8765ba48762
+    url_background: https://api.mediux.pro/assets/eb5f5949-d9b0-41e0-9f73-7f7374aec3b8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d92461f9-c3fc-4945-9b3f-e1769f96046c
+      2:
+        url_poster: https://api.mediux.pro/assets/56a74cb9-0313-43e3-98fd-a39de4a1bb06
+      3:
+        url_poster: https://api.mediux.pro/assets/bcf429e4-c269-4d18-a749-bd943153b835
+      4:
+        url_poster: https://api.mediux.pro/assets/c060b259-28b3-4498-86d0-059e8e31c91b
+      5:
+        url_poster: https://api.mediux.pro/assets/e59ce558-00c3-4921-81c8-dd5bae57d15a
+      6:
+        url_poster: https://api.mediux.pro/assets/93f7e3f6-e875-45a8-bc86-4d24f66daf2d

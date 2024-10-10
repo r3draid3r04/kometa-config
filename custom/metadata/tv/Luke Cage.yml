@@ -1,0 +1,11 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Marvel's Luke Cage":
+    year: 2016
+    title: "Marvel's Luke Cage"
+    url_poster: https://theposterdb.com/api/assets/33825
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/210781
+      2:
+        url_poster: https://theposterdb.com/api/assets/210782
+

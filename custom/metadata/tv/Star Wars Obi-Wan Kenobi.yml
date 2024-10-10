@@ -1,0 +1,22 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Obi-Wan Kenobi":
+    year: 2022
+    title: "Obi-Wan Kenobi"
+    url_poster: https://theposterdb.com/api/assets/232846
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/238370
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fecc87d8-e8f2-4856-ae26-b3c916d75b4b
+          2:
+            url_poster: https://api.mediux.pro/assets/83511035-287c-4b30-ac39-1d887984e3b3
+          3:
+            url_poster: https://api.mediux.pro/assets/50be109a-a02d-4776-a10e-192a3bd7f6c4
+          4:
+            url_poster: https://api.mediux.pro/assets/a45894f1-c0ff-4fce-8295-606ce778e4f5
+          5:
+            url_poster: https://api.mediux.pro/assets/e965ec36-0184-4075-a3a7-e4e5dcac1849
+          6:
+            url_poster: https://api.mediux.pro/assets/d5302961-f1cc-41d1-a314-a9ec342eca01
+

@@ -1,0 +1,56 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/12086
+  "Bridgerton":
+    year: 2020
+    title: "Bridgerton"
+    url_poster: https://api.mediux.pro/assets/2b1e4c5b-3b67-4088-84be-3a2c198e6ede
+    url_background: https://api.mediux.pro/assets/d0aee6c3-dfa9-4da7-821e-e8cd7518a464
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7ef532da-a12b-4367-b06e-426a9b87aa5f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f24fcc12-7a0a-4344-be12-feb00d0861a2
+          2:
+            url_poster: https://api.mediux.pro/assets/7d8d0495-82d0-4970-b156-f0697ac4f1ba
+          3:
+            url_poster: https://api.mediux.pro/assets/6ac04e3a-a80b-4bca-bb65-27ccc7cbd86c
+          4:
+            url_poster: https://api.mediux.pro/assets/3b149f20-c1c5-4918-9d74-d75628510531
+          5:
+            url_poster: https://api.mediux.pro/assets/e00426c1-5a15-4299-8a44-cd31998a6240
+          6:
+            url_poster: https://api.mediux.pro/assets/40f37d63-d1f4-490e-9175-ef5cea47b2a7
+          7:
+            url_poster: https://api.mediux.pro/assets/04355485-f95c-4f9b-80d9-cf86092efca9
+          8:
+            url_poster: https://api.mediux.pro/assets/0ae806e5-4084-4bb1-a141-0c67863597c1
+      2:
+        url_poster: https://api.mediux.pro/assets/d35c4f95-05b4-4837-aff5-706966490e0a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5b33308f-a09e-4d12-a961-bc13a6ce8ba9
+          2:
+            url_poster: https://api.mediux.pro/assets/7c8adf8a-a870-41d3-9559-e4290f5e72b5
+          3:
+            url_poster: https://api.mediux.pro/assets/f9ce2ac8-a88b-47c6-944b-2e140767ae11
+          4:
+            url_poster: https://api.mediux.pro/assets/b8997497-889f-4bc9-92f8-f4e416be1685
+          5:
+            url_poster: https://api.mediux.pro/assets/fb6da90d-3370-47ba-ae73-2745758e16b1
+          6:
+            url_poster: https://api.mediux.pro/assets/a878c274-2759-4cf5-8cf3-eac014ab2347
+          7:
+            url_poster: https://api.mediux.pro/assets/4eddb84f-25da-4043-a85c-7efb88859fee
+          8:
+            url_poster: https://api.mediux.pro/assets/c29c8efc-1677-4c44-8d3b-7be87ff1f9f5
+      3:
+        url_poster: https://api.mediux.pro/assets/7c9c1e18-6577-4e9c-8cd1-fa75beeb021f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5b36ac9e-1825-4965-8e9c-e41a79b6b998
+          2:
+            url_poster: https://api.mediux.pro/assets/ed7b126a-d173-4cb4-b8c7-0f686ec14750
+          3:
+            url_poster: https://api.mediux.pro/assets/77f74d70-5427-4e6e-a2aa-3a53a84d16f0
+          4:
+            url_poster: https://api.mediux.pro/assets/e5ba6512-8074-4981-bb7f-da72d5de9ce1

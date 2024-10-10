@@ -1,0 +1,17 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/26638
+metadata:
+  "The Penguin":
+    year: 2024
+    title: "The Penguin"
+    url_poster: https://api.mediux.pro/assets/292672d0-b7ad-474d-ae4e-c842c8b5df00
+    url_background: https://api.mediux.pro/assets/5f97d88b-9e48-4c3f-a1a0-9f41f8202257
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/797c38f6-d9f4-4ec7-8857-5a4643ca02fd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/baabd164-0de9-40dd-b34a-adcb9188e7ac
+          2:
+            url_poster: https://api.mediux.pro/assets/6d69837c-d598-497c-bf67-8e41fb497494
+          3:
+            url_poster: https://api.mediux.pro/assets/efb4e364-7861-4d38-a71c-fc6d7d1a436b

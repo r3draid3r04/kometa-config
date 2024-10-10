@@ -1,0 +1,64 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/13704
+# Title cards by Koltom on MediUX. https://mediux.pro/sets/707
+metadata:
+  "His Dark Materials":
+    year: 2019
+    title: "His Dark Materials"
+    url_poster: https://api.mediux.pro/assets/7774a11e-6d63-4373-870d-42b4bf1f27be
+    url_background: https://api.mediux.pro/assets/5d500155-0afe-4189-9b01-14cfdd3832f4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/24fcd098-ec50-4e5d-bcc7-617f8dc3f995
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7b3882c5-fb97-4ddf-854e-56673ad6bb32
+          2:
+            url_poster: https://api.mediux.pro/assets/e11b8b8e-3f56-4d2a-96b0-2bbb70ff73c2
+          3:
+            url_poster: https://api.mediux.pro/assets/116ccd2d-438a-4e73-8390-a27448a99f26
+          4:
+            url_poster: https://api.mediux.pro/assets/795d28fd-cf7f-48bc-b55f-d78d776d18cc
+          5:
+            url_poster: https://api.mediux.pro/assets/a3cd8349-03a0-4b01-bed9-d606017cd1d4
+          6:
+            url_poster: https://api.mediux.pro/assets/c315d2ad-6de6-48d3-9c61-fce93710cedd
+          7:
+            url_poster: https://api.mediux.pro/assets/dce46bc6-44f0-4b4e-9926-b368f9564f82
+          8:
+            url_poster: https://api.mediux.pro/assets/ff169624-80d1-4410-8db1-127058ae19ff
+      2:
+        url_poster: https://api.mediux.pro/assets/9aa0c41a-e34d-479e-9d24-01add88cb85d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/32f506b2-59f0-4967-93d5-9b4009491d79
+          2:
+            url_poster: https://api.mediux.pro/assets/4040a8ec-b9cc-4bef-8fdb-9ee3321f6e5c
+          3:
+            url_poster: https://api.mediux.pro/assets/2f24e807-d031-4b50-b1cf-d44982d1cf1e
+          4:
+            url_poster: https://api.mediux.pro/assets/5a9e4dce-7445-406d-8af2-c26b8a65bb6b
+          5:
+            url_poster: https://api.mediux.pro/assets/3442cd22-e07d-4310-b5eb-2f472f005793
+          6:
+            url_poster: https://api.mediux.pro/assets/5d1d9317-1c5e-46ef-8910-94d7caec5a4b
+          7:
+            url_poster: https://api.mediux.pro/assets/ee7a638d-42db-4296-9905-c644121d93c5
+      3:
+        url_poster: https://api.mediux.pro/assets/e7c904c4-55d3-4d44-9a18-82d8d3ddd218
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ca16e8f7-2e6d-423b-bc18-7a649461e94f
+          2:
+            url_poster: https://api.mediux.pro/assets/d52513af-1a97-45b6-b94f-5ae951afa52a
+          3:
+            url_poster: https://api.mediux.pro/assets/36ac82dc-1380-4ded-a522-36da5be08791
+          4:
+            url_poster: https://api.mediux.pro/assets/d4c4b43f-e0df-4cb9-b3d4-0b77503cae5b
+          5:
+            url_poster: https://api.mediux.pro/assets/717c52e1-fac9-42d8-96de-a1e2c68a18cd
+          6:
+            url_poster: https://api.mediux.pro/assets/bb170023-21fd-4b9d-b15b-59ac21134820
+          7:
+            url_poster: https://api.mediux.pro/assets/dcbc977d-0f8d-40f2-95cc-6f9b6d55411d
+          8:
+            url_poster: https://api.mediux.pro/assets/0b61fd0b-31b0-47db-a4fa-1179e8c41914

@@ -1,0 +1,20 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19582
+  "Echo":
+    year: 2024
+    title: "Echo"
+    url_poster: https://api.mediux.pro/assets/3efd357f-99dd-4135-afc6-f7618e6a68ea
+    url_background: https://api.mediux.pro/assets/8fbeec17-2004-49a5-889e-7649f4a064cc
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e38dfd85-82dd-4350-abb5-5e185d22ec02
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cce40b62-ed8a-4091-b803-ace4fcc5c389
+          2:
+            url_poster: https://api.mediux.pro/assets/dc0aae6f-0c77-430c-8779-ae9bd3e4ec21
+          3:
+            url_poster: https://api.mediux.pro/assets/5af76d0f-42a9-43a0-bb2a-25f457051799
+          4:
+            url_poster: https://api.mediux.pro/assets/a1a7e984-3575-4618-a1d1-bc828c72f4d4
+          5:
+            url_poster: https://api.mediux.pro/assets/b2d09c76-2f43-4327-b2a7-9edd691927d7

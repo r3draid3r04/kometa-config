@@ -1,0 +1,23 @@
+metadata:
+  76156: # TVDB id for Scrubs. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26441
+    url_poster: https://api.mediux.pro/assets/2d5f737d-98dd-4066-8e77-e2ab8c612306
+    url_background: https://api.mediux.pro/assets/61d6f0a2-f8d3-4082-9c46-8c5daae794b5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c6825bbf-501a-4b1e-809b-b63ef88be8fa
+      2:
+        url_poster: https://api.mediux.pro/assets/afb9dfb5-ee1e-4659-a319-cea4294d8a9f
+      3:
+        url_poster: https://api.mediux.pro/assets/45570c5f-301e-40b6-8e07-7dee6eeb423d
+      4:
+        url_poster: https://api.mediux.pro/assets/ccaee30d-3027-4a25-a64a-54f05eb4452f
+      5:
+        url_poster: https://api.mediux.pro/assets/5ce0f8e9-aa2e-4786-802c-77722ce6b66b
+      6:
+        url_poster: https://api.mediux.pro/assets/0e76c1f0-cc0a-4b1b-b796-3d808848dac3
+      7:
+        url_poster: https://api.mediux.pro/assets/7a316072-65f5-41ba-a96b-5a3fc8620bef
+      8:
+        url_poster: https://api.mediux.pro/assets/c3ce1826-ac61-4cfc-92e6-35989bc5a17f
+      9:
+        url_poster: https://api.mediux.pro/assets/e4ed75f5-69f2-480a-b3ae-77049e173efd

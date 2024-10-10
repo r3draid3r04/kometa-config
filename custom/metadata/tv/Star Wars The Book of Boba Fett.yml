@@ -1,0 +1,26 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/22202
+# Title cards by willtong93 on MediUX. https://mediux.pro/sets/10485
+metadata:
+  "The Book of Boba Fett":
+    year: 2021
+    title: "The Book of Boba Fett"
+    url_poster: https://api.mediux.pro/assets/cb74fb81-47d0-4195-8adc-b628242c82d0
+    url_background: https://api.mediux.pro/assets/7f7a5e63-6de1-4686-a81f-e0a03e3d1b14
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f0e01cf8-70d2-4ada-986b-ac4270994e72
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5e77eb33-9e27-4963-98b3-7e90557fb284
+          2:
+            url_poster: https://api.mediux.pro/assets/6ab3d2c1-345a-4c44-9a32-1594a8c4fe5f
+          3:
+            url_poster: https://api.mediux.pro/assets/b4c3557c-120c-403f-b0a5-b9e3680d02f9
+          4:
+            url_poster: https://api.mediux.pro/assets/cc843320-d305-4af0-9516-82843b1ae3e6
+          5:
+            url_poster: https://api.mediux.pro/assets/9933d509-fc6f-44f3-a54b-74d889da0548
+          6:
+            url_poster: https://api.mediux.pro/assets/72c7af0a-2793-445b-a36e-6b6c590ad429
+          7:
+            url_poster: https://api.mediux.pro/assets/fa4bfce2-dacb-4327-b3b1-cb5103b5d60a

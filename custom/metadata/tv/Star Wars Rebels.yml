@@ -1,0 +1,14 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Star Wars Rebels":
+    year: 2014
+    title: "Star Wars Rebels"
+    url_poster: https://theposterdb.com/api/assets/40752
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/409219
+      2:
+        url_poster: https://theposterdb.com/api/assets/409220
+      3:
+        url_poster: https://theposterdb.com/api/assets/409221
+      4:
+        url_poster: https://theposterdb.com/api/assets/409222

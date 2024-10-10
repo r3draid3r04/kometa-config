@@ -1,0 +1,14 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Only Murders in the Building":
+    year: 2021
+    title: "Only Murders in the Building"
+    url_poster: https://theposterdb.com/api/assets/171065
+    file_background: "config/assets/tv/Only Murders in the Building (2021)/background.png"
+    Seasons:
+      1:
+        file_poster: "config/assets/tv/Only Murders in the Building (2021)/Season01.png"
+      2:
+        file_poster: "config/assets/tv/Only Murders in the Building (2021)/Season02.png"
+      3:
+        file_poster: "config/assets/tv/Only Murders in the Building (2021)/Season03.png"
+

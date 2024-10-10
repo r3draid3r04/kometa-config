@@ -1,0 +1,11 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Marvel's Agent Carter":
+    year: 2015
+    title: "Marvel's Agent Carter"
+    url_poster: https://theposterdb.com/api/assets/33829
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/210752
+      2:
+        url_poster: https://theposterdb.com/api/assets/210753
+

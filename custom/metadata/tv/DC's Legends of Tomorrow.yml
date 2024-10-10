@@ -1,0 +1,21 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20993
+  "DC's Legends of Tomorrow":
+    year: 2016
+    title: "DC's Legends of Tomorrow"
+    url_poster: https://api.mediux.pro/assets/fec2f8a0-5817-4da3-9bba-f5d45fda536d
+    url_background: https://api.mediux.pro/assets/7da36625-8898-4f7e-ac45-4f9d1593ae22
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9c7c5229-3075-40a7-92c2-5bf5e926f05e
+      2:
+        url_poster: https://api.mediux.pro/assets/cf064975-4c65-473e-8544-9f5a834d4c50
+      3:
+        url_poster: https://api.mediux.pro/assets/33817dca-06a1-4ca6-8ef6-d9f03a88de70
+      4:
+        url_poster: https://api.mediux.pro/assets/d1860845-b55e-4972-b34f-4ca7b4f302fc
+      5:
+        url_poster: https://api.mediux.pro/assets/c7c8d818-10ff-4d05-acb1-9ae82bf5871b
+      6:
+        url_poster: https://api.mediux.pro/assets/318428eb-6b7b-49ca-a9c4-7d296445a16b
+      7:
+        url_poster: https://api.mediux.pro/assets/43048476-32f1-4277-8f9c-32497c00c9f1

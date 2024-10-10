@@ -1,0 +1,13 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20107
+  "Siren (2018)":
+    year: 2018
+    title: "Siren (2018)"
+    url_poster: https://api.mediux.pro/assets/0bd98464-0408-4579-94a6-8cd92078494c
+    url_background: https://api.mediux.pro/assets/a05344a6-c86a-4300-b0b9-e6408cfbebf9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/baf66d31-5dd5-4797-83f1-d73967006e06
+      2:
+        url_poster: https://api.mediux.pro/assets/7cbbf4dd-8d8c-47b3-87a8-f2022055f35f
+      3:
+        url_poster: https://api.mediux.pro/assets/2d6280e8-42b9-4f83-b382-98c92790b440

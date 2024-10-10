@@ -1,0 +1,13 @@
+metadata:
+  269640: # TVDB id for The Night Shift. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26767
+    url_poster: https://api.mediux.pro/assets/95e8edd0-3f25-43cd-9b5e-faeff2c1efb6
+    url_background: https://api.mediux.pro/assets/8bdbacaf-0a3c-4174-9818-79fd24cc5f05
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/367f5968-2025-48d8-b50d-f4e752d0b86c
+      2:
+        url_poster: https://api.mediux.pro/assets/3ba05dc0-af03-4f06-8dd9-f42b04762430
+      3:
+        url_poster: https://api.mediux.pro/assets/2dfb0bf1-09d1-4fc1-8d8d-245eaff2385d
+      4:
+        url_poster: https://api.mediux.pro/assets/7cbdaa76-8e8f-463a-8da5-2649b6733b81

@@ -1,0 +1,24 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/22345
+# Title cards by Olivier_286 on MediUX. https://mediux.pro/sets/736
+metadata:
+  "The Falcon and The Winter Soldier":
+    year: 2021
+    title: "The Falcon and The Winter Soldier"
+    url_poster: https://api.mediux.pro/assets/9de2e45a-edd1-4bdb-b84e-ad5797b7be49
+    url_background: https://api.mediux.pro/assets/6b816475-6a95-4055-94bd-a63e1918d86d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ffa97392-4522-4d25-ab57-5e76921787b5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8b596901-b5ea-4bac-8fd3-e9500ffc7091
+          2:
+            url_poster: https://api.mediux.pro/assets/d77bb7b7-70bc-4628-a0f4-c3d20f87a97b
+          3:
+            url_poster: https://api.mediux.pro/assets/32a40a97-f8ac-4c9b-baf3-43f85e86d164
+          4:
+            url_poster: https://api.mediux.pro/assets/c688f030-022e-4cbb-bbb1-e20eefb1e117
+          5:
+            url_poster: https://api.mediux.pro/assets/d79e5433-2a72-4b28-ad74-29622dc825cb
+          6:
+            url_poster: https://api.mediux.pro/assets/08bb9ad2-dc28-425c-98c0-ec4bba1c5959

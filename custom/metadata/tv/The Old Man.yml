@@ -1,0 +1,39 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/25601
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/25582
+metadata:
+  "The Old Man":
+    year: 2022
+    title: "The Old Man"
+    url_poster: https://api.mediux.pro/assets/ae0cf46e-4cf9-47bc-a446-4cb3079342db
+    url_background: https://api.mediux.pro/assets/3608540a-8e3c-4157-a159-3529a9884798
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fe11123f-4f60-48d8-afe6-2165a272a92e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/46a711b2-25b9-4fec-a4f8-6014e13b2f92
+          2:
+            url_poster: https://api.mediux.pro/assets/3d062132-dfed-4041-81a9-62b58e072ac2
+          3:
+            url_poster: https://api.mediux.pro/assets/24de91a2-7398-4008-af70-cbf9271f0e1d
+          4:
+            url_poster: https://api.mediux.pro/assets/1e5f3428-e182-4d33-b390-0b11f2ffb35a
+          5:
+            url_poster: https://api.mediux.pro/assets/bcdead25-7431-450a-8faa-bc77b340282b
+          6:
+            url_poster: https://api.mediux.pro/assets/d432d6eb-5381-4c5b-9dd3-3d2c4a428350
+          7:
+            url_poster: https://api.mediux.pro/assets/7f9d05e8-e9e4-4d08-8a75-790b00c054d4
+      2:
+        url_poster: https://api.mediux.pro/assets/e419d0b7-8dcb-4c3f-8d0c-7a74093e1d80
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cf67a360-cdde-4464-acbe-6557bb80fc6a
+          2:
+            url_poster: https://api.mediux.pro/assets/274c4a22-e06e-4cc9-92d9-a7b7d6d783c8
+          3:
+            url_poster: https://api.mediux.pro/assets/d3d895bb-e43d-432c-acca-6da6601f451a
+          4:
+            url_poster: https://api.mediux.pro/assets/d427ee0b-8495-47ab-84cd-f0a90709bfde
+          5:
+            url_poster: https://api.mediux.pro/assets/223db0a1-577f-44e4-8738-c89f60909b52

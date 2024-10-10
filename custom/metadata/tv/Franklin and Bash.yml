@@ -1,0 +1,15 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20256
+  "Franklin & Bash":
+    year: 2011
+    title: "Franklin & Bash"
+    url_poster: https://api.mediux.pro/assets/ee7bb399-be80-482b-bd98-69482f122afd
+    url_background: https://api.mediux.pro/assets/881ba7e1-4148-4ce1-a54e-601911428c46
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0d648077-3c54-4836-b367-c15fa9b81cb0
+      2:
+        url_poster: https://api.mediux.pro/assets/4a2fa792-cdf9-4a73-a8ec-62977f8adf89
+      3:
+        url_poster: https://api.mediux.pro/assets/30cc8f4a-f948-4ed6-9436-df2145a7b7a9
+      4:
+        url_poster: https://api.mediux.pro/assets/6895428e-5b11-417d-a6d9-e8b2584aee60

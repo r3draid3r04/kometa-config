@@ -1,0 +1,15 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20001
+  "Charmed (2018)":
+    year: 2018
+    title: "Charmed (2018)"
+    url_poster: https://api.mediux.pro/assets/03abef31-9238-4574-84c7-516798853190
+    url_background: https://api.mediux.pro/assets/899c6936-6896-4259-a8c8-82aa292c20dd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5fbebaf3-3cda-428e-b00a-c2adbe68abfc
+      2:
+        url_poster: https://api.mediux.pro/assets/af69e778-8639-4c5b-bdf4-e80255da7f7c
+      3:
+        url_poster: https://api.mediux.pro/assets/eead5530-aadd-497b-9eb7-aeb41da30bdd
+      4:
+        url_poster: https://api.mediux.pro/assets/50b1f056-76d1-4ed5-8cd8-7feccde92569

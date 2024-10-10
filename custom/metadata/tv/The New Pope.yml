@@ -1,0 +1,9 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "The New Pope":
+    year: 2020
+    title: "The New Pope"
+    url_poster: https://theposterdb.com/api/assets/118721
+    file_background: "config/assets/tv/The New Pope (2020)/background.png"
+    Seasons:
+      1:
+        file_poster: "config/assets/tv/The New Pope (2020)/Season01.png"

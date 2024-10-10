@@ -1,0 +1,13 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/21019
+  "Shadowhunters":
+    year: 2016
+    title: "Shadowhunters"
+    url_poster: https://api.mediux.pro/assets/93e478fd-3769-43d3-9991-20d6ab3b0992
+    url_background: https://api.mediux.pro/assets/ae45c3e7-bbea-46d2-b128-f6e5db2238e6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bc20f330-df49-47da-a9fd-77297f71df87
+      2:
+        url_poster: https://api.mediux.pro/assets/0ec44cd2-3b25-41a3-b657-ee094ffdcabd
+      3:
+        url_poster: https://api.mediux.pro/assets/58d037f8-8b2a-4595-ae13-d5a96ff24111

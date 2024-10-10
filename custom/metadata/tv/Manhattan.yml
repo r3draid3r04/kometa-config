@@ -1,0 +1,59 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20136
+  "Manhattan":   
+    year: 2014
+    title: "Manhattan"
+    url_poster: https://api.mediux.pro/assets/e77007b3-b2a9-4055-b07f-22f00f17580b
+    url_background: https://api.mediux.pro/assets/c3629632-958a-47db-839a-351497e852c4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1b09e993-dd39-44a1-9433-7b0e0b636304
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b03df959-1ed4-46c7-831c-40fa45613343
+          2:
+            url_poster: https://api.mediux.pro/assets/8871f050-e91b-44e1-9413-8c5696084715
+          3:
+            url_poster: https://api.mediux.pro/assets/c41918dd-1eef-42ab-953c-60131f1c9c4f
+          4:
+            url_poster: https://api.mediux.pro/assets/87865426-de02-4b24-8506-d1d76675344a
+          5:
+            url_poster: https://api.mediux.pro/assets/6b9e4a3e-bab1-43fa-aedc-c627c81d8d93
+          6:
+            url_poster: https://api.mediux.pro/assets/55a59444-4d25-4739-8352-9f66c9f3abe2
+          7:
+            url_poster: https://api.mediux.pro/assets/4196bc26-0c38-4d30-9d65-9d44748b9985
+          8:
+            url_poster: https://api.mediux.pro/assets/99bd2373-19af-49db-bc46-aa5bb84c8bd1
+          9:
+            url_poster: https://api.mediux.pro/assets/568c5bc5-b9ce-47b0-bdf9-07d47f2c75c7
+          10:
+            url_poster: https://api.mediux.pro/assets/0974c98a-41e4-48dc-83f7-134672305a33
+          11:
+            url_poster: https://api.mediux.pro/assets/34dce1ee-0461-4d7d-b6f9-c5b6486dc82c
+          12:
+            url_poster: https://api.mediux.pro/assets/6aa05b1b-e07c-40cc-8cae-1afe4a9b2a7b
+          13:
+            url_poster: https://api.mediux.pro/assets/354fc80d-39e0-4f75-b498-772d77163aed
+      2:
+        url_poster: https://api.mediux.pro/assets/b2b1cdbd-7511-4274-963b-06d3f54b0bb8
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/52318798-bf19-4738-8cf1-0af278f80d0f
+          2:
+            url_poster: https://api.mediux.pro/assets/46eab255-219c-4daf-abc2-9385205a998b
+          3:
+            url_poster: https://api.mediux.pro/assets/29e616a5-c948-4ede-8c34-da3e55d349e7
+          4:
+            url_poster: https://api.mediux.pro/assets/9e86fed3-9ea6-43cb-bc1a-ee0263ed48c3
+          5:
+            url_poster: https://api.mediux.pro/assets/5ebec269-d2ce-4788-b536-3891ea92bb46
+          6:
+            url_poster: https://api.mediux.pro/assets/051fbc8e-aacd-4ef7-92b5-89ec1f7b40c2
+          7:
+            url_poster: https://api.mediux.pro/assets/028cbd77-4368-409d-90c6-dcda6a214aa7
+          8:
+            url_poster: https://api.mediux.pro/assets/2aecf7b2-97e5-4d17-81ad-ec7eee987a63
+          9:
+            url_poster: https://api.mediux.pro/assets/e98a3747-4ecf-4ca4-badb-210829b101cd
+          10:
+            url_poster: https://api.mediux.pro/assets/ccd62fb5-bb15-4f79-83f0-1374e94f2723  

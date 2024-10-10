@@ -1,0 +1,9 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20290
+  "The Winter King":
+    year: 2023
+    title: "The Winter King"
+    url_poster: https://api.mediux.pro/assets/5678e068-4b9e-4ec2-b683-328f6720840f
+    url_background: https://api.mediux.pro/assets/d017965e-06e7-454e-94c6-d646058c0134
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bb93dbd4-0376-4841-b2fb-79872c5f77b3

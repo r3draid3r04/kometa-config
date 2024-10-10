@@ -1,0 +1,23 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Once Upon a Time (2011)":
+    year: 2011
+    title: "Once Upon a Time (2011)"
+    url_poster: https://theposterdb.com/api/assets/34616
+    Seasons:
+      #0:
+      #  file_poster: "config/assets/tv/Once Upon a Time (2011)/Season00.png"
+      1:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season01.png"
+      2:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season02.png"
+      3:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season03.png"
+      4:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season04.png"
+      5:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season05.png"
+      6:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season06.png"
+      7:
+        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season07.png"
+

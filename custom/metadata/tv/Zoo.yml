@@ -1,0 +1,13 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Zoo":
+    year: 2015
+    title: "Zoo"
+    url_poster: https://theposterdb.com/api/assets/416643
+    file_background: "config/assets/tv/Zoo (2015)/background.png"
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/416644
+      2:
+        url_poster: https://theposterdb.com/api/assets/416645
+      3:
+        url_poster: https://theposterdb.com/api/assets/416646

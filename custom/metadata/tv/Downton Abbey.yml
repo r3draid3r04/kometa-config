@@ -1,0 +1,19 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20821
+  "Downton Abbey":
+    year: 2010
+    title: "Downton Abbey"
+    url_poster: https://api.mediux.pro/assets/7d023094-8509-47f3-bcc1-2f886fc8f9ad
+    url_background: https://api.mediux.pro/assets/bf749965-9a21-4386-af11-902af8ceb0f1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cc561855-0a5c-4248-b404-c702d5f70f9f
+      2:
+        url_poster: https://api.mediux.pro/assets/bb086078-6c7d-48e9-a33a-0de6f2d82ca7
+      3:
+        url_poster: https://api.mediux.pro/assets/d8cb0e38-a28a-44a3-8306-122a2c263bf4
+      4:
+        url_poster: https://api.mediux.pro/assets/638d2119-3dbf-4f5c-a820-d557c252865a
+      5:
+        url_poster: https://api.mediux.pro/assets/04903d34-c824-4a52-b0b5-d9e414d60b2b
+      6:
+        url_poster: https://api.mediux.pro/assets/fbeb7604-ddbd-4a03-b3f7-77c9e4ea5e41

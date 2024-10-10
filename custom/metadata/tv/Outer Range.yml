@@ -1,0 +1,43 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20337
+  "Outer Range":
+    year: 2022
+    title: "Outer Range"
+    url_poster: https://api.mediux.pro/assets/850327a4-de36-491c-8ada-74e1c6d1bfb6
+    url_background: https://api.mediux.pro/assets/cdb94996-1b49-44dd-b9df-680b61fac8c0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2d03fc1e-02c0-49bf-bd97-80bf9b58db0b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/db6fada1-a76e-469f-be7a-724bf90caa08
+          2:
+            url_poster: https://api.mediux.pro/assets/28a7a8bb-ca7a-4920-b0da-cc22d69cffde
+          3:
+            url_poster: https://api.mediux.pro/assets/77e38492-4286-4780-a10d-979812212149
+          4:
+            url_poster: https://api.mediux.pro/assets/56d8d6ba-928a-44f5-a01a-d688fb26bdb8
+          5:
+            url_poster: https://api.mediux.pro/assets/97f552fa-3a6c-4534-9b77-d6a2ce595228
+          6:
+            url_poster: https://api.mediux.pro/assets/7e31e713-f914-4ab5-91ff-e1e3c380c8f4
+          7:
+            url_poster: https://api.mediux.pro/assets/a66b1ba5-d039-4990-8249-70fd17a0a925
+          8:
+            url_poster: https://api.mediux.pro/assets/d090b5d3-923b-4795-9f9e-6794b1c21147
+      2:
+        url_poster: https://api.mediux.pro/assets/52b8d925-1760-45d3-8a60-e7bf278c0683
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7f7c28da-ba1f-4635-914a-5486095760b0
+          2:
+            url_poster: https://api.mediux.pro/assets/5ca8a53e-863a-4618-97c5-86973d98d515
+          3:
+            url_poster: https://api.mediux.pro/assets/1fc7474b-eddb-44f8-bb69-6e623756232a
+          4:
+            url_poster: https://api.mediux.pro/assets/263bd508-8314-42d0-986e-2737de3ac19b
+          5:
+            url_poster: https://api.mediux.pro/assets/3da80e0c-ef17-4b96-9a1a-9f4cf0c619cc
+          6:
+            url_poster: https://api.mediux.pro/assets/95a04640-47cd-4276-a2bb-b1d40df44f42
+          7:
+            url_poster: https://api.mediux.pro/assets/98a790ec-f382-480d-8cb0-c7aa47d33ce1

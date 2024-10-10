@@ -1,0 +1,28 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/21136
+# Title cards by tallinex on MediUX. https://mediux.pro/sets/21163
+metadata:
+  "The Acolyte":
+    year: 2024
+    title: "The Acolyte"
+    url_poster: https://api.mediux.pro/assets/87c3b902-74c4-4010-9ef8-2bc5025df306
+    url_background: https://api.mediux.pro/assets/e3eea79e-0d45-43f4-ad09-ad3dbc34c6cd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cdde010d-43cc-478e-92f4-68568ea6da6c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e57b4f8c-a7aa-465b-8d2d-658af4007cd4
+          2:
+            url_poster: https://api.mediux.pro/assets/9b1408d5-3b4f-469a-b83e-0201560889ca
+          3:
+            url_poster: https://api.mediux.pro/assets/62683972-31a5-478f-92d7-6f29a5642830
+          4:
+            url_poster: https://api.mediux.pro/assets/d05d595b-51b7-43d1-9eb0-aa03f7f9e298
+          5:
+            url_poster: https://api.mediux.pro/assets/deaf6779-6ea1-45d8-a481-4c4967313072
+          6:
+            url_poster: https://api.mediux.pro/assets/54cad580-51b2-4440-b6a0-81b89f84807f
+          7:
+            url_poster: https://api.mediux.pro/assets/d8c7fed3-fc27-4427-9d09-9dbf103a5795
+          8:
+            url_poster: https://api.mediux.pro/assets/c7d39cdf-e56c-4e08-b8e9-4a323da899a3

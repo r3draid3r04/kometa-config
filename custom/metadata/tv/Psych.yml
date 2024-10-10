@@ -1,0 +1,21 @@
+metadata:
+  79335: # TVDB id for Psych. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26733
+    url_poster: https://api.mediux.pro/assets/77149528-7965-4cc7-aab9-804d22f57077
+    url_background: https://api.mediux.pro/assets/2ca44fdb-0df0-40bf-ad26-6e6c3469d439
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7e5e580b-6309-4cac-b823-6953963e53ff
+      2:
+        url_poster: https://api.mediux.pro/assets/0820ba6f-a64c-4356-8281-c5bfcfbcd23b
+      3:
+        url_poster: https://api.mediux.pro/assets/943b8c17-782f-4fef-8a0e-5acc78ef053d
+      4:
+        url_poster: https://api.mediux.pro/assets/d1b04077-0e14-46ac-8310-4f77e5a1ef7f
+      5:
+        url_poster: https://api.mediux.pro/assets/7feeb380-63dc-4f46-8b94-9aa23e854b33
+      6:
+        url_poster: https://api.mediux.pro/assets/d91f15b8-cc1b-4487-bf59-8f214501e74e
+      7:
+        url_poster: https://api.mediux.pro/assets/b1ab01d5-1774-4992-b6dd-3d84d9ea2571
+      8:
+        url_poster: https://api.mediux.pro/assets/7c4403a5-9c62-49da-82a4-8c3b598c30b9

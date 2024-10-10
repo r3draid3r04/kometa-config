@@ -1,0 +1,10 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Frasier (2023)":
+    year: 2023
+    match:
+      mapping_id: 425711
+    title: "Fraiser (2023)"
+    url_poster: https://theposterdb.com/api/assets/440140
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/440141

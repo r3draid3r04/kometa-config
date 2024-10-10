@@ -1,0 +1,69 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/8265
+# Title cards by willtong93 on MediUX. https://mediux.pro/sets/15199
+metadata:
+  "The Newsroom (2012)":
+    year: 2012
+    title: "The Newsroom (2012)"
+    url_poster: https://api.mediux.pro/assets/a770a8c9-765e-40ac-9908-b2eb376eea88
+    url_background: https://api.mediux.pro/assets/bd40161a-3119-4485-b356-b5540f0714c1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8aed774f-950c-4c65-adf2-147ed2115f81
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/13ce1f7f-2b72-40ef-ac61-631138372a48
+          2:
+            url_poster: https://api.mediux.pro/assets/461e45fe-646a-4a78-811f-9c5160fc3b80
+          3:
+            url_poster: https://api.mediux.pro/assets/adbcddb4-9987-496b-a81f-99af6000caa6
+          4:
+            url_poster: https://api.mediux.pro/assets/bcc21f4b-e7e6-4a61-877d-69503d216d3c
+          5:
+            url_poster: https://api.mediux.pro/assets/7ef6c0ba-7442-4ebf-aa9e-121b1f064e68
+          6:
+            url_poster: https://api.mediux.pro/assets/5491e1c9-004b-4bd4-b631-7ce07c0e973f
+          7:
+            url_poster: https://api.mediux.pro/assets/d642fac2-1dc6-4a50-be82-193ba3a22c01
+          8:
+            url_poster: https://api.mediux.pro/assets/6e1b4214-c9f6-4571-9136-58482d9e82c4
+          9:
+            url_poster: https://api.mediux.pro/assets/f7ceaa99-6e88-43e2-884f-5ac8b7aa596c
+          10:
+            url_poster: https://api.mediux.pro/assets/1013782a-4757-445c-b468-51f46f858714
+      2:
+        url_poster: https://api.mediux.pro/assets/301a5a6f-b629-4a69-bdfe-faffe0976020
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/832aa736-d372-4fb7-83c3-54eb528fb914
+          2:
+            url_poster: https://api.mediux.pro/assets/5896cb26-6db8-487e-a849-82d2f50aef83
+          3:
+            url_poster: https://api.mediux.pro/assets/27f9e27b-7be1-471b-b81a-6a7cfe8c9605
+          4:
+            url_poster: https://api.mediux.pro/assets/8a329046-8f96-4c7a-84f4-84052377c402
+          5:
+            url_poster: https://api.mediux.pro/assets/9ccdd771-2da9-467b-9b7c-9293cb61f804
+          6:
+            url_poster: https://api.mediux.pro/assets/935af20b-f08e-4eed-b966-f9f7eee8cfb9
+          7:
+            url_poster: https://api.mediux.pro/assets/8b79168e-24d6-4217-b1c5-46d630502480
+          8:
+            url_poster: https://api.mediux.pro/assets/52e714ca-9803-40be-b8e3-feed5e4b10e0
+          9:
+            url_poster: https://api.mediux.pro/assets/ced77c78-569c-4b50-97ea-8e190d9d08e5
+      3:
+        url_poster: https://api.mediux.pro/assets/c433f7c6-20e8-4136-9ba5-9489a029e8b8
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fc0b156e-f481-4f1d-8f8a-eb2c912c7a6b
+          2:
+            url_poster: https://api.mediux.pro/assets/9fcea793-a001-4758-9b0c-151a9c92d58e
+          3:
+            url_poster: https://api.mediux.pro/assets/b761fbca-b035-4bd2-8e4b-3e5436b2765e
+          4:
+            url_poster: https://api.mediux.pro/assets/3dcd8cbd-9340-411f-bf23-449e61df6ee7
+          5:
+            url_poster: https://api.mediux.pro/assets/733995bb-42ba-49e9-b36b-586c3ffd20ba
+          6:
+            url_poster: https://api.mediux.pro/assets/5ac3b68b-5cbe-4742-8689-b99a14b3576f
+

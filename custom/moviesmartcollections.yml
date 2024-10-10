@@ -1,0 +1,12 @@
+#########################################################################
+#                            Movie Collections                          #
+#  Collection Artwork from https://theposterdb.com/user/musikmann2000   #
+#########################################################################
+collections:
+  "4K HDR":
+    file_poster: "config/assets/movies/4K HDR/poster.jpg"
+    smart_filter:
+      all:
+        hdr: true
+        resolution: 4k
+      sort_by: release.desc

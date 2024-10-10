@@ -1,0 +1,7 @@
+metadata:
+  79637: # TVDB id for The Lost Room. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26726
+    url_poster: https://api.mediux.pro/assets/7f527252-62ee-44ea-bb9d-b21c80062e8d
+    url_background: https://api.mediux.pro/assets/c0cf8feb-b63e-483b-b947-0c435ba5f48c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cbea1df1-391b-4c65-b306-e8a30c762221

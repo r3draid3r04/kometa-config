@@ -1,0 +1,15 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20994
+  "Black Lightning":
+    year: 2018
+    title: "Black Lightning"
+    url_poster: https://api.mediux.pro/assets/876ecde4-59e8-4a49-a375-8892d7dec7a9
+    url_background: https://api.mediux.pro/assets/a0c007b4-2321-4902-9d36-8ebace4cf196
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b2e9b659-6299-45ba-98a3-445e521ccbf2
+      2:
+        url_poster: https://api.mediux.pro/assets/8e122678-db43-4ada-aead-d0aed09fdd12
+      3:
+        url_poster: https://api.mediux.pro/assets/ccfded3b-7e92-46c7-bc29-c58886259aab
+      4:
+        url_poster: https://api.mediux.pro/assets/31fe873d-0794-47a3-8189-8b1db9697f90

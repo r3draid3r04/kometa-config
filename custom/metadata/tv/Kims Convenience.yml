@@ -1,0 +1,18 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Kim's Convenience":
+    year: 2016
+    match:
+      mapping_id: 315908
+    title: "Kim's Convenience"
+    url_poster: https://api.mediux.pro/assets/88316dc5-05f2-4dea-a96a-b37f1480276a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1b7e2361-207c-4a22-96bb-73b37ea3ffc8
+      2:
+        url_poster: https://api.mediux.pro/assets/1425a110-a35a-46f0-b3b4-2b18112443bc
+      3:
+        url_poster: https://api.mediux.pro/assets/c2fb9ed7-9f1b-4020-b373-badd463478b0
+      4:
+        url_poster: https://api.mediux.pro/assets/d46c3861-b497-4ed4-b4e5-477ef2eb827e
+      5:
+        url_poster: https://api.mediux.pro/assets/f47bb9d3-04b8-4acc-9508-e464a28bfe8d

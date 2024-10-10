@@ -1,0 +1,14 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20995
+  "Batwoman":
+    year: 2019
+    title: "Batwoman"
+    url_poster: https://api.mediux.pro/assets/167d169b-9391-4858-a2c2-8feb36133772
+    url_background: https://api.mediux.pro/assets/b4cbb2cd-42aa-4daf-bddd-ccf9cdd798a1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5224a069-c2f9-485b-a27d-9f91bce0d7a2
+      2:
+        url_poster: https://api.mediux.pro/assets/8c51d742-157a-4b38-a6da-78e82ffd1882
+      3:
+        url_poster: https://api.mediux.pro/assets/83a559d9-d9f3-482d-9f90-a9519b71f6b6
+

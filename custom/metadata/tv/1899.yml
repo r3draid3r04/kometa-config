@@ -1,0 +1,28 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/10398
+# Title cards by Koltom on MediUX. https://mediux.pro/sets/704
+metadata:
+  "1899":
+    year: 2022
+    title: "1899"
+    url_poster: https://api.mediux.pro/assets/05bc2ecd-10fc-4aeb-9547-ec95454d6628
+    url_background: https://api.mediux.pro/assets/79045e1f-348c-4861-a0ca-07dcda4d1ce2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1dfee1fc-8093-46a5-bdbd-ceb0d2219896
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9740b955-5dbb-4d5c-849d-ecc310e8f30f
+          2:
+            url_poster: https://api.mediux.pro/assets/a54d85af-f661-4762-be95-95248f300d6c
+          3:
+            url_poster: https://api.mediux.pro/assets/7f235f17-3b03-4435-ab75-c519274da41a
+          4:
+            url_poster: https://api.mediux.pro/assets/2fa2f7bd-a9e2-45f9-8084-d95737518562
+          5:
+            url_poster: https://api.mediux.pro/assets/ba2c9347-3fbd-4d13-b4c7-53294f9027e2
+          6:
+            url_poster: https://api.mediux.pro/assets/93bf3fc4-b4c6-4bc9-b18c-e8e6b993ce2c
+          7:
+            url_poster: https://api.mediux.pro/assets/e402d0ec-dd92-4658-ba9a-93ce6a34764f
+          8:
+            url_poster: https://api.mediux.pro/assets/628de585-d694-4b67-bd97-73ae0e28892c

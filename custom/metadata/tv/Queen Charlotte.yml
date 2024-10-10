@@ -1,0 +1,9 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20420
+  "Queen Charlotte: A Bridgerton Story":
+    year: 2023
+    title: "Queen Charlotte: A Bridgerton Story"
+    url_poster: https://api.mediux.pro/assets/91a9ddf6-971d-48ec-8507-9cb4e1806882
+    url_background: https://api.mediux.pro/assets/45a91683-6007-484a-9514-a65c9cabfb20
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d117a790-ab69-4c9c-9df2-5feab0329deb

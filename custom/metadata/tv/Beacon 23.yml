@@ -1,0 +1,37 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19541
+  "Beacon 23":
+    year: 2023
+    title: "Beacon 23"
+    url_poster: https://api.mediux.pro/assets/f0f04b63-c4e2-4e7c-96df-490cbfb1f749
+    url_background: https://api.mediux.pro/assets/da8c2ac5-5f4f-4bd6-b123-e7649d305190
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2e33b153-50c4-4d2d-89fc-70d7d080944a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/83e40806-cb35-46f7-91f3-a3d96132b3ec
+          2:
+            url_poster: https://api.mediux.pro/assets/d9e947b9-6be4-4808-8841-7303948534c9
+          3:
+            url_poster: https://api.mediux.pro/assets/3d204828-3d9e-42b0-905d-bd497cca2ab0
+          4:
+            url_poster: https://api.mediux.pro/assets/6f7c92d3-2ff5-4645-93ca-0f3a5bd1a07a
+          5:
+            url_poster: https://api.mediux.pro/assets/748d3389-b04e-4637-ac9f-2fb75da34b18
+          6:
+            url_poster: https://api.mediux.pro/assets/f999dfb9-67bb-4dc8-a83d-b90a8ad69688
+          7:
+            url_poster: https://api.mediux.pro/assets/dbc94d92-2ffd-425c-b788-18734232d060
+          8:
+            url_poster: https://api.mediux.pro/assets/47825b42-bc14-43c5-8814-9b93369962dc
+      2:
+        url_poster: https://api.mediux.pro/assets/0bbbf414-3e4a-4426-9154-0bb038fbe9a1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d8abf405-6283-4398-a02c-abb9232e2504
+          2:
+            url_poster: https://api.mediux.pro/assets/f936bc34-97f9-4b77-ad0c-3f285c6ba286
+          3:
+            url_poster: https://api.mediux.pro/assets/366a5655-d7a9-4442-bde5-116367e5f919
+          4:
+            url_poster: https://api.mediux.pro/assets/05672479-e82b-44b0-a7c7-b8242b29aa05

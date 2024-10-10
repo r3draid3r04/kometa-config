@@ -1,0 +1,30 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20289
+  "The Night Agent":
+    year: 2023
+    title: "The Night Agent"
+    url_poster: https://api.mediux.pro/assets/dae72016-8ebf-4e98-8b74-f1d973691e13
+    url_background: https://api.mediux.pro/assets/030384f8-250d-4b8f-ab1b-74e2a258a9ad
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4660abe4-4861-458d-bb0c-fd5870d5cca0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d741b7f7-04be-4c1f-ac48-73af2106ab96
+          2:
+            url_poster: https://api.mediux.pro/assets/57e0ddca-c563-4047-b946-a6ff2f48f49f
+          3:
+            url_poster: https://api.mediux.pro/assets/ae474bc7-04bc-424a-90ac-4d51e8587c80
+          4:
+            url_poster: https://api.mediux.pro/assets/80443b12-244c-4387-9a48-0217e28555fc
+          5:
+            url_poster: https://api.mediux.pro/assets/3627f611-49b9-4a4b-a074-a66b9b22d924
+          6:
+            url_poster: https://api.mediux.pro/assets/194b6bed-40f3-4870-aeec-3e9318bb9946
+          7:
+            url_poster: https://api.mediux.pro/assets/9731ee34-e4c7-4b97-86b2-b14a987d88ab
+          8:
+            url_poster: https://api.mediux.pro/assets/7e4ad1f1-bd46-4420-9baf-65c361a6745e
+          9:
+            url_poster: https://api.mediux.pro/assets/606f9632-f254-4d84-a794-eda5301195e7
+          10:
+            url_poster: https://api.mediux.pro/assets/3999862a-f8ed-4ceb-906e-17956fdc4653

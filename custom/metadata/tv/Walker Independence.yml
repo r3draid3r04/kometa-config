@@ -1,0 +1,9 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Walker Independence":
+    year: 2022
+    title: "Walker Independence"
+    url_poster: https://theposterdb.com/api/assets/274097
+    file_background: "config/assets/tv/Walker Independence (2022)/background.png"
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/335366

@@ -1,0 +1,55 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/13722
+metadata:
+  "Frontier":
+    year: 2016
+    match:
+      mapping_id: 316517
+    title: "Frontier"
+    url_poster: https://api.mediux.pro/assets/0b08e006-5801-47d4-8f41-102ffaf61f83
+    url_background: https://api.mediux.pro/assets/6a2af632-1774-4bf2-bed0-a39eb8d01977
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0b5753a7-5d73-4899-b9e7-a860c8b3d3d2
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/66dec96d-a735-4905-abf6-d39b46559d96
+          2:
+            url_poster: https://api.mediux.pro/assets/8ea0e974-52dd-4132-b6e2-839269776788
+          3:
+            url_poster: https://api.mediux.pro/assets/1b42aa24-704f-4e9c-bd75-947f7a0a9b5f
+          4:
+            url_poster: https://api.mediux.pro/assets/36ac027d-f12b-4b85-b688-9ffafc27097c
+          5:
+            url_poster: https://api.mediux.pro/assets/ed844757-c92a-4dd2-bf96-3cb8558429ec
+          6:
+            url_poster: https://api.mediux.pro/assets/68439844-f0c3-4a87-86f0-a0b1a5bf478d
+      2:
+        url_poster: https://api.mediux.pro/assets/7124dd32-9f88-4130-bb70-23d4445d8b84
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/56d53de8-26a5-470f-b532-7c939d70042d
+          2:
+            url_poster: https://api.mediux.pro/assets/07efb1f4-ff39-4ee4-a358-97f5f6f15a52
+          3:
+            url_poster: https://api.mediux.pro/assets/031842a5-e873-45c3-bd8a-bb8dda53da72
+          4:
+            url_poster: https://api.mediux.pro/assets/56c7833d-855e-40ca-a214-1e1f41ea5157
+          5:
+            url_poster: https://api.mediux.pro/assets/5070f14a-93fb-46a6-a876-d030c943991e
+          6:
+            url_poster: https://api.mediux.pro/assets/bf9e3d29-1f19-45e1-9fa1-8821938e33d2
+      3:
+        url_poster: https://api.mediux.pro/assets/43a47bd9-c883-46ed-8374-2683958929a5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d379f8fd-82dd-4f15-bda6-1abe8a4ee94d
+          2:
+            url_poster: https://api.mediux.pro/assets/6d01f2cf-abfc-42dd-8c11-5601445b1053
+          3:
+            url_poster: https://api.mediux.pro/assets/b4429d35-4629-4dfb-b638-0f2f949acdc3
+          4:
+            url_poster: https://api.mediux.pro/assets/6eccef61-ea39-41f4-954d-da46dad1b885
+          5:
+            url_poster: https://api.mediux.pro/assets/4582ae94-9ab9-4630-bc8a-6c928515f5da
+          6:
+            url_poster: https://api.mediux.pro/assets/a9a2d7d1-1c8f-4342-8ad4-d1396e8dde2b

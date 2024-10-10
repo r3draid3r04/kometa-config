@@ -1,0 +1,28 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/21379
+# Title cards by Kwickflix on MediUX. https://mediux.pro/sets/21356
+metadata:
+  "Presumed Innocent":
+    year: 2024
+    title: "Presumed Innocent"
+    url_poster: https://api.mediux.pro/assets/d2da6172-f583-4e01-bc84-4013aabcf58e
+    url_background: https://api.mediux.pro/assets/6611757a-a9a7-40bd-b699-b3ba5f9f60d9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/22400c18-5b26-4f19-bdff-f867c654fedd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/14060f09-3d9d-41b5-8d87-1efe75f942fd
+          2:
+            url_poster: https://api.mediux.pro/assets/eef10904-8d9f-4b73-b427-6076f57c2300
+          3:
+            url_poster: https://api.mediux.pro/assets/b248ffe3-57bb-45b7-86de-171410e6e45f
+          4:
+            url_poster: https://api.mediux.pro/assets/710bac90-f0cb-4391-ae1d-658791aaaaad
+          5:
+            url_poster: https://api.mediux.pro/assets/1ba1dec7-23f2-4fbe-aa7f-df4c9b6b2ade
+          6:
+            url_poster: https://api.mediux.pro/assets/3324e1f7-3045-490d-9235-ffbddff7dec3
+          7:
+            url_poster: https://api.mediux.pro/assets/0f1e047f-7eb7-4a3a-9208-947c4c10377d
+          8:
+            url_poster: https://api.mediux.pro/assets/8dc48de1-877b-419a-9a8f-495400e63667

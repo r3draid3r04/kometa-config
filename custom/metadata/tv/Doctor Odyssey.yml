@@ -1,0 +1,8 @@
+metadata:
+  447900: # TVDB id for Doctor Odyssey. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26788
+    url_poster: https://api.mediux.pro/assets/6f37284b-80f7-4cf8-a1c0-49ffc24192ff
+    url_background: https://api.mediux.pro/assets/58d3e7a8-6ca0-4890-8fec-596a56f377e6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a32da865-fbdf-45af-83b8-d4d323ef5896
+

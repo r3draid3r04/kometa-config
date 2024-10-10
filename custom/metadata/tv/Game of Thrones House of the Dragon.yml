@@ -1,0 +1,53 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/21427
+# Title cards by Kwickflix on MediUX. https://mediux.pro/sets/21435
+metadata:
+  "House of the Dragon":
+    year: 2022
+    match:
+      mapping_id: 371572
+    title: "House of the Dragon"
+    url_poster: https://api.mediux.pro/assets/f32c465e-4381-4597-a408-d65afe57a455
+    url_background: https://api.mediux.pro/assets/754d59ae-210b-4909-9990-183ff4bbc8cc
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ea562d72-658f-46a0-94a9-194cee381e1c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/18c6516f-4aae-4bae-8301-5753236e0e7e
+          2:
+            url_poster: https://api.mediux.pro/assets/7403671c-6778-49cf-97e4-3ef0784838a8
+          3:
+            url_poster: https://api.mediux.pro/assets/ff70be20-f247-4e59-9070-b9df8194cc7e
+          4:
+            url_poster: https://api.mediux.pro/assets/a9f3a42f-deaf-478d-8e2d-a084f396a809
+          5:
+            url_poster: https://api.mediux.pro/assets/82410805-9deb-4fe1-ae10-b3b2bc772e6e
+          6:
+            url_poster: https://api.mediux.pro/assets/232fc147-d36d-42ce-b4fe-bd3ada5d3420
+          7:
+            url_poster: https://api.mediux.pro/assets/15d4237c-9099-4122-b58d-f3cbcf101762
+          8:
+            url_poster: https://api.mediux.pro/assets/8e434e22-7c83-4b13-a28b-db8ee7c9541c
+          9:
+            url_poster: https://api.mediux.pro/assets/634df0f2-d1b3-484f-8980-9ab5bba68bae
+          10:
+            url_poster: https://api.mediux.pro/assets/4a094b54-31f9-462e-93d5-10577eaf9a5d
+      2:
+        url_poster: https://api.mediux.pro/assets/3604921f-83a1-46d9-8c6d-5d8998d765ad
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/180813ea-565a-4766-b14b-d162683b1cd8
+          2:
+            url_poster: https://api.mediux.pro/assets/0bc7ef95-c334-461e-8142-da1437c59a51
+          3:
+            url_poster: https://api.mediux.pro/assets/906d74e0-2f95-452e-9973-8db145bb78b9
+          4:
+            url_poster: https://api.mediux.pro/assets/5138ebb5-4c20-471c-8d1d-4280a56c09ab
+          5:
+            url_poster: https://api.mediux.pro/assets/82f5f18c-1aaa-4d34-b30a-b2dfc93c209e
+          6:
+            url_poster: https://api.mediux.pro/assets/789c0754-e228-43c0-aca4-ab273e8d7a45
+          7:
+            url_poster: https://api.mediux.pro/assets/6ce1f698-be83-48d6-aff1-243bb4ad8dff
+          8:
+            url_poster: https://api.mediux.pro/assets/582f47b0-930c-4117-a066-efb6ff930c32

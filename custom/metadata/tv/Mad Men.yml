@@ -1,0 +1,19 @@
+metadata:
+  80337: # TVDB id for Mad Men. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26656
+    url_poster: https://api.mediux.pro/assets/22788380-9de6-475f-a1b3-a6932b6a4318
+    url_background: https://api.mediux.pro/assets/00e1eaf3-10d8-46d6-8ead-811363854120
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/629513cd-6251-4e9d-b153-fad18909cbae
+      2:
+        url_poster: https://api.mediux.pro/assets/b1d5e613-f64f-4d3c-be86-8e1f34176577
+      3:
+        url_poster: https://api.mediux.pro/assets/9f6041f1-e2d9-477d-b2ea-85a9d33a4bc1
+      4:
+        url_poster: https://api.mediux.pro/assets/27839491-58a9-4611-8fcd-c69398829fae
+      5:
+        url_poster: https://api.mediux.pro/assets/56633008-7573-411a-8b6f-5adeec0a64fb
+      6:
+        url_poster: https://api.mediux.pro/assets/cd775154-0f06-4770-bb63-2d7b8b35686e
+      7:
+        url_poster: https://api.mediux.pro/assets/db252211-526d-4086-9745-f32220ce57f0

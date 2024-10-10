@@ -1,0 +1,57 @@
+metadata:
+  75692: # TVDB id for Law & Order: Special Victims Unit. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26416
+    url_poster: https://api.mediux.pro/assets/03f8640c-ebb8-4e0b-bf43-e1307e300e78
+    url_background: https://api.mediux.pro/assets/647a064c-d035-4d3d-ba0a-86993f1a0e4d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e55de8ec-56f8-4138-9af5-1bd7b6cfad67
+      2:
+        url_poster: https://api.mediux.pro/assets/5f73936f-bd39-4cb7-9d1d-eea0ed2f74cd
+      3:
+        url_poster: https://api.mediux.pro/assets/5bf4d4cf-d6ac-47e1-86f9-34a12a51ee6b
+      4:
+        url_poster: https://api.mediux.pro/assets/541c3c70-7458-44ec-860e-835506142a4c
+      5:
+        url_poster: https://api.mediux.pro/assets/3bfa2b66-e40d-4bdf-9f59-8bb07aa89b1e
+      6:
+        url_poster: https://api.mediux.pro/assets/981cbb79-2fd9-4d01-9c8f-edaf32bed424
+      7:
+        url_poster: https://api.mediux.pro/assets/2b95a168-28fd-4d13-9723-aa669a927cf8
+      8:
+        url_poster: https://api.mediux.pro/assets/5a459dbe-53b6-4eda-899f-a20a21ba7f31
+      9:
+        url_poster: https://api.mediux.pro/assets/db3c8552-f5db-43fe-864b-f9e58f2aefee
+      10:
+        url_poster: https://api.mediux.pro/assets/9ad98c4e-11e1-43fd-8ff5-f756cb8af810
+      11:
+        url_poster: https://api.mediux.pro/assets/c78f2cca-8337-4ada-9984-32e6923e0d6e
+      12:
+        url_poster: https://api.mediux.pro/assets/9d0c6b8a-af95-4523-afd8-65daba5d8b04
+      13:
+        url_poster: https://api.mediux.pro/assets/d7c31c05-d1db-4c7b-8b28-fe4991bffdc4
+      14:
+        url_poster: https://api.mediux.pro/assets/e45b93cc-9957-456f-9df0-63b43c4ed8e2
+      15:
+        url_poster: https://api.mediux.pro/assets/fabddda6-04dd-4a02-a6b5-d2c6b44a4f77
+      16:
+        url_poster: https://api.mediux.pro/assets/755ab30b-3ef7-4295-a2ca-853a2b5220e0
+      17:
+        url_poster: https://api.mediux.pro/assets/5be0b20d-f0b1-452a-bca0-ab5a43f58046
+      18:
+        url_poster: https://api.mediux.pro/assets/40f65c2f-e900-4295-8629-b84cf2036c7b
+      19:
+        url_poster: https://api.mediux.pro/assets/320f1fb7-24a9-464f-8b6d-18ffb6a56324
+      20:
+        url_poster: https://api.mediux.pro/assets/925b26cc-01f9-403f-b3ce-b761e05f62f9
+      21:
+        url_poster: https://api.mediux.pro/assets/b04f04aa-f50a-41d6-9290-b14d9431018f
+      22:
+        url_poster: https://api.mediux.pro/assets/f3d9e19d-3b62-4c6c-bb55-3f127d989569
+      23:
+        url_poster: https://api.mediux.pro/assets/2293f323-8371-4e09-971a-c74716ffe3e1
+      24:
+        url_poster: https://api.mediux.pro/assets/4466d5ae-4efe-4e59-a2a0-4eb62217a49b
+      25:
+        url_poster: https://api.mediux.pro/assets/74272387-9fe2-46e0-9f83-7f60a3e221fe
+      26:
+        url_poster: https://api.mediux.pro/assets/952bd4b5-dc21-4d81-8693-435797ca008b

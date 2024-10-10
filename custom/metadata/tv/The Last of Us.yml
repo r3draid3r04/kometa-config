@@ -1,0 +1,30 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/26368
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/22639
+metadata:
+  "The Last of Us":
+    year: 2023
+    title: "The Last of Us"
+    url_poster: https://api.mediux.pro/assets/207475e1-b6ce-4dd5-a5bc-70572596e5a5
+    url_background: https://api.mediux.pro/assets/7b3747fe-a63e-47a0-a4cc-5a8ca88897e9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3757ade0-a608-42fc-82b1-f00c5a62c629
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0b3f0597-29a2-408e-aa3c-1beb8bf3a12f
+          2:
+            url_poster: https://api.mediux.pro/assets/0d32f78a-5355-40e0-ae22-87e60f53c4e0
+          3:
+            url_poster: https://api.mediux.pro/assets/c6e09bc6-061c-43d5-995e-b2c1ac3d9af1
+          4:
+            url_poster: https://api.mediux.pro/assets/2fa64957-a333-412c-8419-1e35db53ec06
+          5:
+            url_poster: https://api.mediux.pro/assets/e37757e6-692f-4342-b279-414c4243cfcf
+          6:
+            url_poster: https://api.mediux.pro/assets/3135ba20-2615-4f7e-93a3-7093049f917d
+          7:
+            url_poster: https://api.mediux.pro/assets/ae2e549c-c0d1-4109-a5a8-8ece1e52de68
+          8:
+            url_poster: https://api.mediux.pro/assets/6c1d5273-23f8-4d0e-9129-ce0aba65e85c
+          9:
+            url_poster: https://api.mediux.pro/assets/a32ccec9-f601-44c8-9ad3-be5a5dce5a94

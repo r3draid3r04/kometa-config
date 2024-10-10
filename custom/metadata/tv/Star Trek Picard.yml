@@ -1,0 +1,76 @@
+# Title cards by codonzero22 on MediUX. https://mediux.pro/sets/24231
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Star Trek: Picard":
+    year: 2020
+    title: "Star Trek: Picard"
+    url_poster: https://theposterdb.com/api/assets/35564
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/320678
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c8543c2c-a932-4303-9172-9edb4630f9e7
+          2:
+            url_poster: https://api.mediux.pro/assets/431ef8ef-bc7d-47e4-8839-456472aa1b30
+          3:
+            url_poster: https://api.mediux.pro/assets/450c9cea-bd9b-4309-a429-24fd45632a39
+          4:
+            url_poster: https://api.mediux.pro/assets/2ad3872e-94c7-4bcc-9389-84b370aef4ed
+          5:
+            url_poster: https://api.mediux.pro/assets/177a8ec7-1cb0-4723-95e1-ba30949c1b08
+          6:
+            url_poster: https://api.mediux.pro/assets/6c77ffff-2e93-479e-a73f-bb9588c21f19
+          7:
+            url_poster: https://api.mediux.pro/assets/edb16597-c2c2-494a-8881-9c0915bf40dd
+          8:
+            url_poster: https://api.mediux.pro/assets/e7dd0787-b5e4-4718-a4cc-5294c47ab59e
+          9:
+            url_poster: https://api.mediux.pro/assets/b93dcc90-7f21-48aa-96de-7934aeb79ba0
+          10:
+            url_poster: https://api.mediux.pro/assets/ee8b335c-6f97-4e8e-8a9c-f33ae5ebfed5
+      2:
+        url_poster: https://theposterdb.com/api/assets/320679
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c8543c2c-a932-4303-9172-9edb4630f9e7
+          2:
+            url_poster: https://api.mediux.pro/assets/431ef8ef-bc7d-47e4-8839-456472aa1b30
+          3:
+            url_poster: https://api.mediux.pro/assets/450c9cea-bd9b-4309-a429-24fd45632a39
+          4:
+            url_poster: https://api.mediux.pro/assets/2ad3872e-94c7-4bcc-9389-84b370aef4ed
+          5:
+            url_poster: https://api.mediux.pro/assets/177a8ec7-1cb0-4723-95e1-ba30949c1b08
+          6:
+            url_poster: https://api.mediux.pro/assets/6c77ffff-2e93-479e-a73f-bb9588c21f19
+          7:
+            url_poster: https://api.mediux.pro/assets/edb16597-c2c2-494a-8881-9c0915bf40dd
+          8:
+            url_poster: https://api.mediux.pro/assets/e7dd0787-b5e4-4718-a4cc-5294c47ab59e
+          9:
+            url_poster: https://api.mediux.pro/assets/b93dcc90-7f21-48aa-96de-7934aeb79ba0
+          10:
+            url_poster: https://api.mediux.pro/assets/ee8b335c-6f97-4e8e-8a9c-f33ae5ebfed5
+      3:
+        url_poster: https://theposterdb.com/api/assets/320680
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/10908ffa-25e0-4f29-b3df-f9b5da1f309f
+          2:
+            url_poster: https://api.mediux.pro/assets/04eeebdd-7b1d-4fb0-b19a-c8d98b6dee76
+          3:
+            url_poster: https://api.mediux.pro/assets/c57782a5-ef53-4252-a6ea-f5c8bf1fc1ae
+          4:
+            url_poster: https://api.mediux.pro/assets/80f47535-9f14-45fd-a2eb-641a4b597c8a
+          5:
+            url_poster: https://api.mediux.pro/assets/665769e0-0047-4f5b-af03-e8b391af0c67
+          6:
+            url_poster: https://api.mediux.pro/assets/e70f9a97-1f15-46c9-9c76-45786b94cca0
+          7:
+            url_poster: https://api.mediux.pro/assets/da96975d-8bea-438e-8ac2-1f168d93f86a
+          8:
+            url_poster: https://api.mediux.pro/assets/351e4446-80c6-4d02-bbd7-57d6ef144c7c
+          9:
+            url_poster: https://api.mediux.pro/assets/7e176946-6ca7-4c50-9e99-d4a81b180f7a
+          10:
+            url_poster: https://api.mediux.pro/assets/d2198d6c-3b67-4e27-958a-4e16e5e5931f

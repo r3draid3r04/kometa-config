@@ -1,0 +1,11 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20255
+  "Dark Angel":
+    year: 2000
+    title: "Dark Angel"
+    url_poster: https://api.mediux.pro/assets/ba0f6403-d4a6-4bba-88d0-e07b1a5cfb18
+    url_background: https://api.mediux.pro/assets/f95881a9-7175-45c6-8b01-3c5ff9443c7b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b6b4bec0-0a67-4a77-b57a-d64b1a0c2078
+      2:
+        url_poster: https://api.mediux.pro/assets/ebe1cdfc-faa2-4c70-88c9-9bf9ebcbe2a6

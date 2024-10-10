@@ -1,0 +1,15 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20109
+  "Sanctuary":
+    year: 2008
+    title: "Sanctuary"
+    url_poster: https://api.mediux.pro/assets/6a08e2a3-c2c6-43f2-8c4c-109ebb01c9c6
+    url_background: https://api.mediux.pro/assets/e5d47604-325f-4d80-ba0c-aa12ff8ff02e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ed06aefb-724f-4882-a0a9-102e9b28eb64
+      2:
+        url_poster: https://api.mediux.pro/assets/91b05689-c073-473e-bc84-ffc8e972a9bd
+      3:
+        url_poster: https://api.mediux.pro/assets/78020e67-4a56-4382-9400-0760f23e80b7
+      4:
+        url_poster: https://api.mediux.pro/assets/8f7a6af6-75eb-4def-a81b-5a90232f1240

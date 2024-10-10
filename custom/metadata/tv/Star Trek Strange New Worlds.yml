@@ -1,0 +1,55 @@
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/8838
+# Title cards by codonzero22 on MediUX. https://mediux.pro/sets/24152
+metadata:
+  "Star Trek: Strange New Worlds":
+    year: 2022
+    title: "Star Trek: Strange New Worlds"
+    url_poster: https://api.mediux.pro/assets/195198e1-907b-4d0b-bd33-5069963159b2
+    url_background: https://api.mediux.pro/assets/901c6da5-941b-4b35-ba8d-35651a20ea72
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f1d5ecc7-3bd8-4795-881b-df74e75e8c66
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0f90ba66-95af-4037-815d-2cf5abc25a69
+          2:
+            url_poster: https://api.mediux.pro/assets/f1c40831-734e-4c74-842c-59b6e6b4ae17
+          3:
+            url_poster: https://api.mediux.pro/assets/3caad527-bde5-4890-9393-2738da690f49
+          4:
+            url_poster: https://api.mediux.pro/assets/bb988577-8509-4d3f-a3d4-13b7c3e3328a
+          5:
+            url_poster: https://api.mediux.pro/assets/63f0d3ce-32ae-4454-b5d1-b703d1b02260
+          6:
+            url_poster: https://api.mediux.pro/assets/f21e3457-b5cb-40e1-a9fc-ffaa22a2d8d3
+          7:
+            url_poster: https://api.mediux.pro/assets/fabb7a1c-f57c-4497-a1ff-532ad98b2cd2
+          8:
+            url_poster: https://api.mediux.pro/assets/368fa5f3-1237-46a1-ae53-4809fc71e28c
+          9:
+            url_poster: https://api.mediux.pro/assets/86d59bbd-c759-444a-b3fc-314dc5b56233
+          10:
+            url_poster: https://api.mediux.pro/assets/9b244447-87fc-4b80-a57b-d2e4f4a823ea
+      2:
+        url_poster: https://api.mediux.pro/assets/6de2d52a-7b73-4ee0-ae67-167bff99fe73
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0f90ba66-95af-4037-815d-2cf5abc25a69
+          2:
+            url_poster: https://api.mediux.pro/assets/f1c40831-734e-4c74-842c-59b6e6b4ae17
+          3:
+            url_poster: https://api.mediux.pro/assets/3caad527-bde5-4890-9393-2738da690f49
+          4:
+            url_poster: https://api.mediux.pro/assets/bb988577-8509-4d3f-a3d4-13b7c3e3328a
+          5:
+            url_poster: https://api.mediux.pro/assets/63f0d3ce-32ae-4454-b5d1-b703d1b02260
+          6:
+            url_poster: https://api.mediux.pro/assets/f21e3457-b5cb-40e1-a9fc-ffaa22a2d8d3
+          7:
+            url_poster: https://api.mediux.pro/assets/fabb7a1c-f57c-4497-a1ff-532ad98b2cd2
+          8:
+            url_poster: https://api.mediux.pro/assets/368fa5f3-1237-46a1-ae53-4809fc71e28c
+          9:
+            url_poster: https://api.mediux.pro/assets/86d59bbd-c759-444a-b3fc-314dc5b56233
+          10:
+            url_poster: https://api.mediux.pro/assets/9b244447-87fc-4b80-a57b-d2e4f4a823ea

@@ -1,0 +1,17 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20262
+  "Haven":
+    year: 2010
+    title: "Haven"
+    url_poster: https://api.mediux.pro/assets/2d02bcac-7235-4c51-892c-4a7df4d9fd60
+    url_background: https://api.mediux.pro/assets/9d045a5b-c000-4bf0-bf0c-a165f3bc9294
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bfe09986-46e1-4099-b523-2735463dca49
+      2:
+        url_poster: https://api.mediux.pro/assets/7c73d0a8-7ada-43f8-b53a-964ffb72efe1
+      3:
+        url_poster: https://api.mediux.pro/assets/f8b5a50a-3246-4098-8e45-daac4217930b
+      4:
+        url_poster: https://api.mediux.pro/assets/4a6d4112-1f94-4016-b08e-c78df8c6e9c0
+      5:
+        url_poster: https://api.mediux.pro/assets/db5d7076-56d3-45c2-9f81-a9cac0cef400

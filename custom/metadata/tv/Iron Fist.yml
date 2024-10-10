@@ -1,0 +1,11 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Marvel's Iron Fist":
+    year: 2017
+    title: "Marvel's Iron Fist"
+    url_poster: https://theposterdb.com/api/assets/33826
+    Seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/210774
+      2:
+        url_poster: https://theposterdb.com/api/assets/210775
+

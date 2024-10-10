@@ -1,0 +1,28 @@
+metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+  "Masters of the Air":
+    year: 2024
+    title: "Masters of the Air"
+    url_poster: https://mediux.pro/_next/image?url=https%3A%2F%2Fapi.mediux.pro%2Fassets%2Fdeeb9a65-6fff-48c4-8b1e-69d3f71b9b67.jpg&w=3840&q=80
+    Seasons:
+      1:
+        url_poster: https://mediux.pro/_next/image?url=https%3A%2F%2Fapi.mediux.pro%2Fassets%2F7cc14ecd-33a8-4331-a971-64d84083aa96.png&w=3840&q=80
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8bc9d9bc-3097-462c-af8b-971ef1e3042c
+          2:
+            url_poster: https://api.mediux.pro/assets/b320e9e8-52d2-4e24-836c-55df74ca8524
+          3:
+            url_poster: https://api.mediux.pro/assets/0bad01ee-b5cf-4044-ba47-dfd8ba720d26
+          4:
+            url_poster: https://api.mediux.pro/assets/882c1a57-ab64-47a8-8b7c-3e85ee7e0909
+          5:
+            url_poster: https://api.mediux.pro/assets/e1030203-6322-4e8a-9631-22d52a52fef1
+          6:
+            url_poster: https://api.mediux.pro/assets/181280a5-0cdf-4db6-8a25-2bbc6d3201a2
+          7:
+            url_poster: https://api.mediux.pro/assets/eec01a85-57ee-43e3-a649-1f50c5b87630
+          8:
+            url_poster: https://api.mediux.pro/assets/c7a7d055-82e6-45b8-bbdb-0074cf8c71f2
+          9:
+            url_poster: https://api.mediux.pro/assets/70b257b1-1f82-4af6-8a11-a4bee75b2364
+

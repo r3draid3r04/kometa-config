@@ -1,0 +1,45 @@
+######################################################
+#                Chart Collections                   #
+######################################################
+templates:
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
+collections:
+  Plex Popular:
+    template: { name: Chart, num: 1 }
+    tautulli_popular:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    tautulli_watched:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    summary: Shows Popular on Plex
+  Trending:
+    template: { name: Chart, num: 2 }
+    trakt_trending: 20
+    tmdb_trending_daily: 20
+    tmdb_trending_weekly: 20
+    summary: Shows Trending across the internet
+  Popular:
+    template: { name: Chart, num: 3 }
+    tmdb_popular: 40
+    imdb_search:
+      type: tv_series, tv_mini_series
+      #sort_by: popularity.asc
+      imdb_top: 40
+    url_poster: https://theposterdb.com/api/assets/408711
+    summary: Popular Shows across the internet
+  Top Rated:
+    template: { name: Chart, num: 4 }
+    imdb_search:
+      type: tv_series, tv_mini_series
+      sort_by: rating.desc
+      #url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&num_votes=20000,&sort=user_rating,desc
+      limit: 100
+    tmdb_top_rated: 100
+    url_poster: https://theposterdb.com/api/assets/408710
+    summary: Top Rated TV across the internet

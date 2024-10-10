@@ -1,0 +1,77 @@
+metadata:     # Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20469
+  "La Brea":
+    year: 2021
+    title: "La Brea"
+    url_poster: https://api.mediux.pro/assets/b9e6bccc-654e-4c1b-ae50-41393393e265
+    url_background: https://api.mediux.pro/assets/2bdb5f71-c864-4514-81e6-14d87777fbc6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/891c54b1-2ba2-46e6-81ef-23e02c2b7768
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/eb1d28fc-0aaf-46d6-96d1-532bbc03a110
+          2:
+            url_poster: https://api.mediux.pro/assets/0b987fe0-4035-4271-a5ac-62e8eca6370d
+          3:
+            url_poster: https://api.mediux.pro/assets/0447e86e-4d1e-44bf-a1f0-980a81c8957f
+          4:
+            url_poster: https://api.mediux.pro/assets/c827c125-3946-487b-9e57-9d54ab9c5568
+          5:
+            url_poster: https://api.mediux.pro/assets/5f86efcb-72c9-4698-a679-f8baeaf207f4
+          6:
+            url_poster: https://api.mediux.pro/assets/12af53ac-6cc7-4438-800f-624d5bb5552a
+          7:
+            url_poster: https://api.mediux.pro/assets/e5b77ea3-b443-497b-a066-795b547f440a
+          8:
+            url_poster: https://api.mediux.pro/assets/a2b2a869-59e3-48d7-ac60-a692d1550bc3
+          9:
+            url_poster: https://api.mediux.pro/assets/ca92b5a6-1f95-47fd-bb5c-5bd16fc3474a
+          10:
+            url_poster: https://api.mediux.pro/assets/86bd598f-67ec-4468-aa4c-072f3d8a21b7
+      2:
+        url_poster: https://api.mediux.pro/assets/7cf9ede2-55e9-45a7-9111-0b4cdb9a1f28
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/92d4635e-57bb-4de6-96ae-73fa6b110254
+          2:
+            url_poster: https://api.mediux.pro/assets/4583563d-e2f6-4f47-9627-5fc155399c24
+          3:
+            url_poster: https://api.mediux.pro/assets/4643c095-ff41-49cb-b0ca-d93cf077ad2e
+          4:
+            url_poster: https://api.mediux.pro/assets/fd0a7371-31c9-4bca-8cc4-bcb281150b60
+          5:
+            url_poster: https://api.mediux.pro/assets/909522ac-6c31-4cc3-be43-dc6c6feff68a
+          6:
+            url_poster: https://api.mediux.pro/assets/4ad1db5b-f826-4f94-9dc4-adf352231ef7
+          7:
+            url_poster: https://api.mediux.pro/assets/de62858d-cb1b-4ef9-ad56-58d9e091c8d7
+          8:
+            url_poster: https://api.mediux.pro/assets/8450275b-0257-4738-915c-7955eb23e6a0
+          9:
+            url_poster: https://api.mediux.pro/assets/bff1ea49-4004-4022-bbdd-c57ce99d5e7b
+          10:
+            url_poster: https://api.mediux.pro/assets/9353fdd3-925f-481d-a9f2-d53a4fd58be9
+          11:
+            url_poster: https://api.mediux.pro/assets/4914a303-2960-415a-ae5c-e6d241844f37
+          12:
+            url_poster: https://api.mediux.pro/assets/f6430e22-a447-4204-a87e-8c27edf0d4cd
+          13:
+            url_poster: https://api.mediux.pro/assets/4e9000d2-738b-4d95-8032-23e094aba2bb
+          14:
+            url_poster: https://api.mediux.pro/assets/d848faf1-079c-439a-a4e6-324ab2f0e275
+      3:
+        url_poster: https://api.mediux.pro/assets/303c040f-d426-420c-b0ca-27d91e501f12
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/46726a46-3656-469e-a052-7fa0b8573638
+          2:
+            url_poster: https://api.mediux.pro/assets/523c9412-3fe5-4704-9151-9f3b835e4bac
+          3:
+            url_poster: https://api.mediux.pro/assets/ee1d861e-61e3-442b-b90f-03ec1d02f133
+          4:
+            url_poster: https://api.mediux.pro/assets/95c6bee4-60d5-438d-8123-d99b7a929142
+          5:
+            url_poster: https://api.mediux.pro/assets/6c554a47-5818-435e-8495-571c9053128c
+          6:
+            url_poster: https://api.mediux.pro/assets/51f9d969-14e1-4303-8ed2-28b761e39ec0
+

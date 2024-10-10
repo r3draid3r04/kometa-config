@@ -1,0 +1,30 @@
+#########################################################################
+#                            Movie Collections                          #
+#  Collection Artwork from https://theposterdb.com/user/musikmann2000   #
+#########################################################################
+templates:
+  Studio:
+    optional:
+      - company
+      - list
+    tmdb_company: <<company>>
+    tmdb_list: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+collections:
+  "Blue Sky Studios":
+    template: {name: Studio, company: 9383, poster: https://theposterdb.com/api/assets/407507}
+  "Walt Disney Animation Studios":
+    template: {name: Studio, company: 6125, poster: https://theposterdb.com/api/assets/68411}
+  Disney Live-Action:
+    template: {name: Studio, poster: https://theposterdb.com/api/assets/68410}
+    imdb_list:
+      -  https://www.imdb.com/list/ls083312980/
+  "Illumination Entertainment":
+    template: {name: Studio, company: 6704, poster: https://theposterdb.com/api/assets/110166}
+  "Dreamworks Entertainment":
+    template: {name: Studio, company: 521, poster: https://theposterdb.com/api/assets/407503}
+  Monty Python:
+    template: {name: Studio, collection: 416, poster: https://theposterdb.com/api/assets/67098}
