@@ -1,0 +1,9 @@
+metadata:
+  369844: # TVDB id for Shadow and Bone. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27759
+    url_poster: https://api.mediux.pro/assets/32d18ea6-d0cb-46e6-960d-de7e1324a9b6
+    url_background: https://api.mediux.pro/assets/8aeba569-8752-4cbb-9952-4975ffec081b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4ed7b6cd-cfc4-4924-863a-7737209e892a
+      2:
+        url_poster: https://api.mediux.pro/assets/ad8df556-359a-44d0-a1ca-8d7bfb46bc3b

@@ -12,6 +12,7 @@ templates:
     sync_mode: sync
     summary: Rotten Tomatoes Best Movies of <<year>>
     smart_label: audience_rating.desc
+    url_poster: <<poster>>
 collections:
   Plex Popular:
    template: { name: Chart, num: 1 }
@@ -30,45 +31,56 @@ collections:
     trakt_trending: 20
     tmdb_trending_daily: 20
     tmdb_trending_weekly: 20
+    url_poster: https://theposterdb.com/api/assets/169001
     summary: Movies Trending across the internet
   Popular:
     template: { name: Chart, num: 3 }
     tmdb_popular: 40
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
+    imdb_search:
+      type: movie
+      sort_by: popularity.desc
       limit: 40
     url_poster: https://theposterdb.com/api/assets/408711
     summary: Popular Movies across the internet
   Top Rated:
     template: { name: Chart, num: 4 }
-    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
-    tmdb_top_rated: 250
+    imdb_search:
+      type: movie
+      release.after: 1950-01-01
+      rating.gte: 5
+      votes.gte: 100000
+      sort_by: rating.desc
+      limit: 250
+    summary: Top Rated Movies on IMDB
     url_poster: https://theposterdb.com/api/assets/408710
-    summary: Top Rated Movies across the internet
   Oscars:
     template: { name: Chart, num: 5 }
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+    imdb_search:
+      type: movie
+      event: oscar_picture
+      sort_by: release.desc
+      limit: 300
     url_poster: https://theposterdb.com/api/assets/408587
     summary: Oscar Winning Movies
   Best of 2014:
-    template: { name: Best of, year: 2014 }
+    template: { name: Best of, year: 2014, poster: https://theposterdb.com/api/assets/199944}
   Best of 2015:
-    template: { name: Best of, year: 2015 }
+    template: { name: Best of, year: 2015, poster: https://theposterdb.com/api/assets/199945}
   Best of 2016:
-    template: { name: Best of, year: 2016 }
+    template: { name: Best of, year: 2016, poster: https://theposterdb.com/api/assets/199946}
   Best of 2017:
-    template: { name: Best of, year: 2017 }
+    template: { name: Best of, year: 2017, poster: https://theposterdb.com/api/assets/136351}
   Best of 2018:
-    template: { name: Best of, year: 2018 }
+    template: { name: Best of, year: 2018, poster: https://theposterdb.com/api/assets/136350}
   Best of 2019:
-    template: { name: Best of, year: 2019 }
+    template: { name: Best of, year: 2019, poster: https://theposterdb.com/api/assets/136349}
   Best of 2020:
-    template: { name: Best of, year: 2020 }
+    template: { name: Best of, year: 2020, poster: https://theposterdb.com/api/assets/136348}
   Best of 2021:
-    template: { name: Best of, year: 2021 }
+    template: { name: Best of, year: 2021, poster: https://theposterdb.com/api/assets/136347}
   Best of 2022:
-    template: { name: Best of, year: 2022 }
+    template: { name: Best of, year: 2022, poster: https://theposterdb.com/api/assets/199947}
   Best of 2023:
-    template: { name: Best of, year: 2023 }
+    template: { name: Best of, year: 2023, poster: https://theposterdb.com/api/assets/329850}
   Best of 2024:
-    template: { name: Best of, year: 2024 }
+    template: { name: Best of, year: 2024, poster: https://theposterdb.com/api/assets/498253}

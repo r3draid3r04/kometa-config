@@ -1,12 +1,12 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "From Dusk Till Dawn: The Series":
-    year: 2014
-    title: "From Dusk Till Dawn: The Series"
-    url_poster: https://theposterdb.com/api/assets/41966
-    Seasons:
+metadata:
+  276312: # TVDB id for From Dusk Till Dawn: The Series. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27048
+    url_poster: https://api.mediux.pro/assets/efcb519c-a270-4298-bf4f-9b35e72c3592
+    url_background: https://api.mediux.pro/assets/54f7a19f-f6bc-4458-b786-b8e14421c635
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/439599
+        url_poster: https://api.mediux.pro/assets/cdc74cfd-36b0-4c37-bb5b-c03201356750
       2:
-        url_poster: https://theposterdb.com/api/assets/439600
+        url_poster: https://api.mediux.pro/assets/0bc60083-568f-4fd3-8d6e-cb85674fa198
       3:
-        url_poster: https://theposterdb.com/api/assets/439601
+        url_poster: https://api.mediux.pro/assets/010539f4-3d44-4727-8329-edde1fc2cc46
+

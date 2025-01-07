@@ -1,0 +1,7 @@
+metadata:
+  443402: # TVDB id for Murder in a Small Town. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26872
+    url_poster: https://api.mediux.pro/assets/2c56b11d-c051-405b-93d3-707c644c8b2a
+    url_background: https://api.mediux.pro/assets/203455b8-1898-49b3-8f0c-2817d265031d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4ec914ed-faa3-4f7f-bdea-16eb76247458

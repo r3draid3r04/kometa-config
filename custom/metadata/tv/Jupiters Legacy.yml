@@ -1,8 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Jupiter's Legacy":
-    year: 2021
-    title: "Jupiter's Legacy"
-    url_poster: https://theposterdb.com/api/assets/151020
-    Seasons:
+metadata:
+  368388: # TVDB id for Jupiter's Legacy. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/29516
+    url_poster: https://api.mediux.pro/assets/cc1525a3-20d7-49cf-b86e-494859ace5eb
+    url_background: https://api.mediux.pro/assets/8d9e170c-9d6a-406e-9f80-b7e95ffc7616
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/442851
+        url_poster: https://api.mediux.pro/assets/565811e1-9e9d-49ee-9df0-9e1adb7713e4

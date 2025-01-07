@@ -1,10 +1,9 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Reaper":
-    year: 2007
-    title: "Reaper"
-    url_poster: https://theposterdb.com/api/assets/43396
-    Seasons:
+metadata:
+  80345: # TVDB id for Reaper. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27054
+    url_poster: https://api.mediux.pro/assets/22e82890-b088-44ac-930f-96ff83631afa
+    url_background: https://api.mediux.pro/assets/decd451c-cdc7-462e-a2dc-0613793cc74f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/130164
+        url_poster: https://api.mediux.pro/assets/fea88957-d90d-4c83-b05c-1d76ecae3b28
       2:
-        url_poster: https://theposterdb.com/api/assets/130165
+        url_poster: https://api.mediux.pro/assets/e793a2df-57d5-46af-acc0-8983ecc318d0

@@ -1,15 +1,15 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Tudors":
-    year: 2007
-    title: "The Tudors"
-    url_poster: https://theposterdb.com/api/assets/46203
-    Seasons:
+metadata:
+  79925: # TVDB id for The Tudors. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27668
+    url_poster: https://api.mediux.pro/assets/be21d4af-7ce4-4e26-a3b2-e199d64512f1
+    url_background: https://api.mediux.pro/assets/6bdb23d7-a6b3-4caf-8c2f-a5c111e92c3b
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/406307
+        url_poster: https://api.mediux.pro/assets/71051c2e-658d-40de-98f0-850c6c9215e1
       2:
-        url_poster: https://theposterdb.com/api/assets/406308
+        url_poster: https://api.mediux.pro/assets/616a248d-50b2-4074-84bc-6845ec5cf071
       3:
-        url_poster: https://theposterdb.com/api/assets/406309
+        url_poster: https://api.mediux.pro/assets/64c51b1d-d807-4aed-b6f6-a2a2e6be07fb
       4:
-        url_poster: https://theposterdb.com/api/assets/406310
+        url_poster: https://api.mediux.pro/assets/7fec1578-d3b3-463f-b658-10d85a662e06
+
 

@@ -1,0 +1,65 @@
+metadata:
+
+  49521: # Man of Steel (2013) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29534
+    url_poster: https://api.mediux.pro/assets/f23e97bb-26d7-4b5e-bfd2-3dfbbf9b692c
+    url_background: https://api.mediux.pro/assets/6e50cdbf-e692-4b44-b621-81af08d4de8a
+
+  209112: # Batman v Superman: Dawn of Justice (2016) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29535
+    url_poster: https://api.mediux.pro/assets/2d058825-51d6-42d4-93b8-465111e3c8d4
+    url_background: https://api.mediux.pro/assets/898df0b8-060f-4a54-803a-20d904f6ea1f
+
+  297802: # Aquaman (2018) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29547
+    url_poster: https://api.mediux.pro/assets/26bb4dc3-5f4b-4e0a-ac1e-a5f4d0413ea3
+    url_background: https://api.mediux.pro/assets/5a0d3bc9-4903-490c-ab54-49d2a06d73f2
+
+  287947: # Shazam! (2019) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29545
+    url_poster: https://api.mediux.pro/assets/5bf1e66d-59b4-44a8-abd0-eeb301a1b245
+    url_background: https://api.mediux.pro/assets/7713d8f3-807a-49d6-a660-50ca9e8b7088
+
+  297762: # Wonder Woman (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29541
+    url_poster: https://api.mediux.pro/assets/e9f05018-d948-4490-8585-b7fc9586f4fc
+    url_background: https://api.mediux.pro/assets/ddfd3b21-8a19-4e61-901c-39daaba29dad
+
+  464052: # Wonder Woman 1984 (2020) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29548
+    url_poster: https://api.mediux.pro/assets/3fa1f50a-ab3b-41e4-8bb9-7a48c45af1c0
+    url_background: https://api.mediux.pro/assets/aaa753f3-8a76-4d7b-8bc8-31736d39f7de
+
+  141052: # Justice League (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29542
+    url_poster: https://api.mediux.pro/assets/376f5138-1543-40d3-8256-4d60bf2d49d1
+    url_background: https://api.mediux.pro/assets/a800cf2c-2783-46e4-b86a-a16bbb4e53d7
+
+  297761: # Suicide Squad (2016) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29546
+    url_poster: https://api.mediux.pro/assets/01cc1305-9bf4-4af8-b7f8-5643e658b5de
+    url_background: https://api.mediux.pro/assets/ff5d1ab6-b395-4459-9449-fd3460403fca
+
+  495764: # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29550
+    url_poster: https://api.mediux.pro/assets/72766da2-2295-4f95-b3d2-3069e3fb1564
+    url_background: https://api.mediux.pro/assets/a2e78bee-7801-4baa-af5b-4d9460cfa6a6
+
+  565770: # Blue Beetle (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29617
+    url_poster: https://api.mediux.pro/assets/6721c1c5-70dd-416a-b25d-35dbaefb72a8
+    url_background: https://api.mediux.pro/assets/cd9749a8-abdc-4cfd-ab5d-388d431747b7
+
+  436969: # The Suicide Squad (2021) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29618
+    url_poster: https://api.mediux.pro/assets/82058ba2-c1d8-41a9-861a-bcb7270dbe0b
+    url_background: https://api.mediux.pro/assets/c9db9a03-4602-4acc-b6be-a2f69ebc4a58
+
+  594767: # Shazam! Fury of the Gods (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29555
+    url_poster: https://api.mediux.pro/assets/45a6ab79-b7cd-4fc5-a8f3-97fb4cf92fff
+    url_background: https://api.mediux.pro/assets/59188852-d03f-4dc4-a111-bf23e5cbacf4
+
+  298618: # The Flash (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29619
+    url_poster: https://api.mediux.pro/assets/7377d495-e07c-499f-99d3-8cc58f6e8a9e
+    url_background: https://api.mediux.pro/assets/c4f0df38-7277-4e91-b8ff-9d868959f9f6
+
+  572802: # Aquaman and the Lost Kingdom (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29551
+    url_poster: https://api.mediux.pro/assets/75daedc6-c838-4c3c-8377-13beefbf712a
+    url_background: https://api.mediux.pro/assets/290b0c92-c63f-4bbe-badf-5aa6a600dc75
+
+  436270: # Black Adam (2022) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29620
+    url_poster: https://api.mediux.pro/assets/6a546f85-fff0-4e22-a99a-e5d845c4541a
+    url_background: https://api.mediux.pro/assets/14ff3bec-7d11-4691-b678-bb0816d54e09
+
+  414906: # The Batman (2022) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29621
+    url_poster: https://api.mediux.pro/assets/da81489c-8306-466e-bf4b-2b3230a21406
+    url_background: https://api.mediux.pro/assets/86466527-c583-454e-acfa-1afcda0bc8f6

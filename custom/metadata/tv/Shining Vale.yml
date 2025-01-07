@@ -1,0 +1,9 @@
+metadata:
+  349342: # TVDB id for Shining Vale. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27823
+    url_poster: https://api.mediux.pro/assets/7858a3f6-595c-4c5f-a441-319c7b6f9027
+    url_background: https://api.mediux.pro/assets/74c83264-deb4-4874-ad86-b28ef19fe723
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3eb4b11d-9817-4f08-989b-876d8da4c623
+      2:
+        url_poster: https://api.mediux.pro/assets/d8b344c3-aba9-44bf-82a7-5ba3da82dda8

@@ -1,16 +1,20 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/7750
+metadata:
   "Warehouse 13":
     year: 2009
     title: "Warehouse 13"
-    url_poster: https://theposterdb.com/api/assets/44224
-    Seasons:
+    url_poster: https://api.mediux.pro/assets/2f34fc42-ba75-4717-92bf-e46791ad20d0
+    url_background: https://api.mediux.pro/assets/e9452dfb-21d3-4ad1-83c2-2a4956723679
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/7597eb21-be8d-48d8-97bf-31a4c482769f
       1:
-        url_poster: https://theposterdb.com/api/assets/393460
+        url_poster: https://api.mediux.pro/assets/e7d1d064-b427-4eba-a308-0363ca1cbd94
       2:
-        url_poster: https://theposterdb.com/api/assets/393461
+        url_poster: https://api.mediux.pro/assets/52b7a407-e1d5-416c-89f4-943a34d06c03
       3:
-        url_poster: https://theposterdb.com/api/assets/393462
+        url_poster: https://api.mediux.pro/assets/ff02db05-422d-40b7-ade9-c21122a876d9
       4:
-        url_poster: https://theposterdb.com/api/assets/393463
+        url_poster: https://api.mediux.pro/assets/148225a4-e9a4-424b-8173-1a187f40252a
       5:
-        url_poster: https://theposterdb.com/api/assets/393464
+        url_poster: https://api.mediux.pro/assets/4321946b-dac8-4277-91ee-9ce147180a91

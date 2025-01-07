@@ -1,10 +1,14 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27219
+metadata:
   "Frasier (2023)":
     year: 2023
     match:
       mapping_id: 425711
     title: "Fraiser (2023)"
-    url_poster: https://theposterdb.com/api/assets/440140
-    Seasons:
+    url_poster: https://api.mediux.pro/assets/9fec52a2-f8de-45ef-a251-e29afc47c3e2
+    url_background: https://api.mediux.pro/assets/5c3a5439-ef59-4a31-8079-b1318e807ab8
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/440141
+        url_poster: https://api.mediux.pro/assets/14c80b57-f680-4d1b-8925-9dd86db4b57e
+      2:
+        url_poster: https://api.mediux.pro/assets/67382ad5-ac32-40fd-8a27-c379f9d5f427

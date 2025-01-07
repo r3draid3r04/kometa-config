@@ -1,0 +1,17 @@
+metadata:
+  82339: # TVDB id for Leverage. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26902
+    url_poster: https://api.mediux.pro/assets/847299a1-77bb-4013-bc2d-9c2495e3cee6
+    url_background: https://api.mediux.pro/assets/f0d959e6-c743-4b92-ad30-fa8372147662
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/3422dfb3-d22a-4e4d-b2d7-adca8f313efa
+      1:
+        url_poster: https://api.mediux.pro/assets/1c08d934-0c00-436a-9a37-0463441fd043
+      2:
+        url_poster: https://api.mediux.pro/assets/0251c6cd-7a51-4c38-94f6-aa501f003fbc
+      3:
+        url_poster: https://api.mediux.pro/assets/c757c5ad-f181-4627-980a-fac75b092221
+      4:
+        url_poster: https://api.mediux.pro/assets/0e8e7690-8d10-46f9-9d38-8f46988d11d7
+      5:
+        url_poster: https://api.mediux.pro/assets/0e3a34da-39cf-4fd4-91da-b1ed36e19113

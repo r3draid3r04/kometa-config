@@ -1,8 +1,26 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Lessons in Chemistry":
-    year: 2023
-    title: "Lessons in Chemistry"
-    url_poster: https://theposterdb.com/api/assets/420496
-    Seasons:
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27122
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/26443
+metadata:
+  395685:
+    url_poster: https://api.mediux.pro/assets/5b799529-c45e-436f-904f-38f28a0200f6
+    url_background: https://api.mediux.pro/assets/86f93889-e5ae-4129-9149-a179fad64509
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/428023
+        url_poster: https://api.mediux.pro/assets/f776ef52-6d25-4a19-b1b8-0ba6575c78b6
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b06865ca-9ef3-454c-9b14-5047c77d49aa
+          2:
+            url_poster: https://api.mediux.pro/assets/fca9badb-a6b0-4cb4-aa81-a24a79605114
+          3:
+            url_poster: https://api.mediux.pro/assets/08af7245-a155-420b-97c2-14856f599aaf
+          4:
+            url_poster: https://api.mediux.pro/assets/0c5e6227-6ce1-47d0-a69f-92422aa58fa1
+          5:
+            url_poster: https://api.mediux.pro/assets/856e6229-02e0-4b8f-be3c-1f0c222144af
+          6:
+            url_poster: https://api.mediux.pro/assets/670808c0-c0cc-4901-be8b-4c2ebcf67bf6
+          7:
+            url_poster: https://api.mediux.pro/assets/6dbc437b-2acb-4821-b86f-4f131e86e6df
+          8:
+            url_poster: https://api.mediux.pro/assets/8fccba62-da44-48b0-9165-0e4a58ff6ccb

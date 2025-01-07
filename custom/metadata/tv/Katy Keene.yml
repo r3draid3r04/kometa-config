@@ -1,8 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Katy Keene":
-    year: 2020
-    title: "Katy Keene"
-    url_poster: https://theposterdb.com/api/assets/50713
-    Seasons:
+metadata:
+  360898: # TVDB id for Katy Keene. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27123
+    url_poster: https://api.mediux.pro/assets/72ed8792-68be-425d-9f75-edbc9a3e1c22
+    url_background: https://api.mediux.pro/assets/17c67938-9b52-426f-8e68-8b950e3d104f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/442949
+        url_poster: https://api.mediux.pro/assets/f9b14ab6-c46f-47da-a78e-e71271481ffa
+

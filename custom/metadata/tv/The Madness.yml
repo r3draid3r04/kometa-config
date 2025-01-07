@@ -1,0 +1,7 @@
+metadata:
+  429600: # TVDB id for The Madness. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28964
+    url_poster: https://api.mediux.pro/assets/25232647-3693-4b7e-a5d2-d88356d53d25
+    url_background: https://api.mediux.pro/assets/2d6a12ec-b26f-4de3-8da3-5ca954ac884a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b6b08d74-a95c-4536-b2d4-51c9f8198b41

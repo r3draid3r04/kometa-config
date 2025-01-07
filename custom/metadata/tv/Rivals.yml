@@ -1,0 +1,7 @@
+metadata:
+  429920: # TVDB id for Rivals. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26898
+    url_poster: https://api.mediux.pro/assets/adcd80ed-b8fb-4abf-bdbd-1e45a14370fa
+    url_background: https://api.mediux.pro/assets/522d0b31-40ed-40b9-b1b3-78e36a015026
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4c6d1aa0-6e80-46de-8c02-6436633c2c86

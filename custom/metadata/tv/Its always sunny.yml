@@ -1,38 +1,37 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "It's Always Sunny in Philadelphia":
-    year: 2005
-    title: "It's Always Sunny in Philadelphia"
-    url_poster: https://theposterdb.com/api/assets/368753
-    Seasons:
+metadata:
+  75805: # TVDB id for It's Always Sunny in Philadelphia. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27070
+    url_poster: https://api.mediux.pro/assets/d6fbc77e-bc53-4aa9-8415-02c653056b37
+    url_background: https://api.mediux.pro/assets/9db33d69-0d80-436f-a15a-4280f0d59f9e
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/442807
+        url_poster: https://api.mediux.pro/assets/e4cd7d20-c170-428a-99e8-7570e3411182
       2:
-        url_poster: https://theposterdb.com/api/assets/442808
+        url_poster: https://api.mediux.pro/assets/43efa3f5-a954-4fa7-84cf-be55b237ed09
       3:
-        url_poster: https://theposterdb.com/api/assets/442809
+        url_poster: https://api.mediux.pro/assets/11bc0fc7-5c5b-42db-a824-22135cada4a1
       4:
-        url_poster: https://theposterdb.com/api/assets/442810
+        url_poster: https://api.mediux.pro/assets/458bfa51-3d16-462a-9d3d-2bb734cedfa0
       5:
-        url_poster: https://theposterdb.com/api/assets/442811
+        url_poster: https://api.mediux.pro/assets/9c53fd78-00c3-4c35-8123-2b6dd2f2730b
       6:
-        url_poster: https://theposterdb.com/api/assets/442812
+        url_poster: https://api.mediux.pro/assets/6c052b99-0012-44f4-83b2-21eff8034ddd
       7:
-        url_poster: https://theposterdb.com/api/assets/442813
+        url_poster: https://api.mediux.pro/assets/2e194489-fa1d-4413-9ac5-25fbabe2697c
       8:
-        url_poster: https://theposterdb.com/api/assets/442814
+        url_poster: https://api.mediux.pro/assets/d7a800ea-974c-45b2-8660-3a178a620e11
       9:
-        url_poster: https://theposterdb.com/api/assets/442815
+        url_poster: https://api.mediux.pro/assets/d831af22-e97c-4c3c-8238-f7e22c72546e
       10:
-        url_poster: https://theposterdb.com/api/assets/442816
+        url_poster: https://api.mediux.pro/assets/d39531ab-38fb-43a8-93d4-2a56e6dfaa7f
       11:
-        url_poster: https://theposterdb.com/api/assets/442817
+        url_poster: https://api.mediux.pro/assets/78f8b9ff-5f3c-494f-95fe-418862810cc2
       12:
-        url_poster: https://theposterdb.com/api/assets/442819
+        url_poster: https://api.mediux.pro/assets/0dbac457-0fb4-4fc9-82a7-f27148de161c
       13:
-        url_poster: https://theposterdb.com/api/assets/442820
+        url_poster: https://api.mediux.pro/assets/166401c8-78f6-4d0a-a4fd-d40bb2bfbacf
       14:
-        url_poster: https://theposterdb.com/api/assets/442821
+        url_poster: https://api.mediux.pro/assets/9b2a8644-050c-4e2d-ba8a-994a1a42bd83
       15:
-        url_poster: https://theposterdb.com/api/assets/442822
+        url_poster: https://api.mediux.pro/assets/8b2685a8-a4e0-41ba-9795-84af16be3893
       16:
-        url_poster: https://theposterdb.com/api/assets/442823
+        url_poster: https://api.mediux.pro/assets/5f5be882-6f9b-447d-a89b-7d4b60e27494

@@ -76,6 +76,7 @@ templates:
       list_days: <<list_days_watched>>
       list_size: <<list_size_watched>>
       list_buffer: 20
+    url_poster: https://theposterdb.com/api/assets/535541
 
 collections:
   Plex Popular:

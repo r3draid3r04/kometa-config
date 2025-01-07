@@ -1,11 +1,12 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Silo":
-    year: 2023
-    title: "Silo"
-    url_poster: https://theposterdb.com/api/assets/358133
-    Seasons:
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27825
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/6427
+metadata:
+  403245:
+    url_poster: https://api.mediux.pro/assets/8feb5396-30ad-42bc-89c9-91fa46d5407c
+    url_background: https://api.mediux.pro/assets/6af6956e-05e9-46dd-8929-a282023ddbd5
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/368067
+        url_poster: https://api.mediux.pro/assets/42dd337c-10f0-420c-bdbd-619de971b7db
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/eecda650-6d16-48fd-ba2f-9c982f5e2b77
@@ -27,3 +28,5 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
             url_poster: https://api.mediux.pro/assets/f68556e6-1b13-473b-a566-86875e4e83b2
           10:
             url_poster: https://api.mediux.pro/assets/d3727b82-c694-4b07-ab6f-516073bae763
+      2:
+        url_poster: https://api.mediux.pro/assets/6a35a97c-3ea5-4c12-a194-591e753d383e

@@ -1,10 +1,39 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The White Lotus":
-    year: 2021
-    title: "The White Lotus"
-    url_poster: https://theposterdb.com/api/assets/162860
-    Seasons:
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27276
+# Title Cards by willtong93 on MediUX. https://mediux.pro/sets/7047
+metadata:     
+  390430:
+    url_poster: https://api.mediux.pro/assets/26327a20-b94b-4a27-b044-1e2828c350fc
+    url_background: https://api.mediux.pro/assets/81ee2a7a-55b2-4a0a-a347-e70dd7ce4c07
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/408370
+        url_poster: https://api.mediux.pro/assets/e8138d8e-c8bd-4a7f-b5ec-6d1b5acb2d87
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/831bd0a2-ec1b-4e31-995f-e1e280162d92
+          2:
+            url_poster: https://api.mediux.pro/assets/f725fd1d-ca6d-49bf-83ed-d24a6dce840a
+          3:
+            url_poster: https://api.mediux.pro/assets/81dce481-8686-47c9-9c7c-5ee01b0bd512
+          4:
+            url_poster: https://api.mediux.pro/assets/0ee70566-0cd7-45ae-9ec5-4f9faec65855
+          5:
+            url_poster: https://api.mediux.pro/assets/610da686-a70c-42ca-b220-07844f4f2e2c
+          6:
+            url_poster: https://api.mediux.pro/assets/c8efffa9-cb03-4ef1-a124-4bc1ee8eb580
       2:
-        url_poster: https://theposterdb.com/api/assets/408371
+        url_poster: https://api.mediux.pro/assets/873a599d-7500-451d-8417-0e04339a562e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/85c1564d-e1e9-4ace-ae3c-5f808a4fe21e
+          2:
+            url_poster: https://api.mediux.pro/assets/4701086f-1124-43e4-96cc-a893c56335ae
+          3:
+            url_poster: https://api.mediux.pro/assets/99da09a9-e360-4e1e-aa48-5eb64fa4462f
+          4:
+            url_poster: https://api.mediux.pro/assets/df7f6a26-1d3d-476a-a4c0-28cea3e23e2d
+          5:
+            url_poster: https://api.mediux.pro/assets/6cea8ba4-7f23-4905-8151-2821803af5e4
+          6:
+            url_poster: https://api.mediux.pro/assets/fb6ccb2f-ed37-4c6d-8b40-09f903030720
+          7:
+            url_poster: https://api.mediux.pro/assets/d00b44af-8a0d-4172-aa12-8fb64e4abd7a

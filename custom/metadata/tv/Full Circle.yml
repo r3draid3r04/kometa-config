@@ -1,8 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Full Circle (2023)":
-    year: 2023
-    title: "Full Circle (2023)"
-    url_poster: https://theposterdb.com/api/assets/380624
-    Seasons:
+metadata:
+  409142: # TVDB id for Full Circle. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27044
+    url_poster: https://api.mediux.pro/assets/0ee61657-5001-4f18-a780-e5bb76bb2fb5
+    url_background: https://api.mediux.pro/assets/c7c9ab29-396d-4f83-b4bc-0ea82814d530
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/439634
+        url_poster: https://api.mediux.pro/assets/2eda4566-704c-4670-8b09-a3c21d5ff1cf
+

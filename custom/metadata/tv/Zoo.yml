@@ -1,13 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Zoo":
-    year: 2015
-    title: "Zoo"
-    url_poster: https://theposterdb.com/api/assets/416643
-    file_background: "config/assets/tv/Zoo (2015)/background.png"
-    Seasons:
+metadata:
+  283318: # TVDB id for Zoo. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27497
+    url_poster: https://api.mediux.pro/assets/c80314c0-b3f5-4a86-bb35-274ececc10ec
+    url_background: https://api.mediux.pro/assets/534ce37b-fd32-4a17-827d-665d6b693eea
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/416644
+        url_poster: https://api.mediux.pro/assets/15b562a0-f34d-434e-8ec3-0cc25c46e16f
       2:
-        url_poster: https://theposterdb.com/api/assets/416645
+        url_poster: https://api.mediux.pro/assets/d456efae-2b55-418e-9018-5e51d0dd932b
       3:
-        url_poster: https://theposterdb.com/api/assets/416646
+        url_poster: https://api.mediux.pro/assets/3a51de15-ba8f-452f-9847-b03ee69aaa15

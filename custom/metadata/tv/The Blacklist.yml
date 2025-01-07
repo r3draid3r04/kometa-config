@@ -3,6 +3,8 @@
 metadata:
   "The Blacklist":
     year: 2013
+    match:
+      mapping_id: 266189
     title: "The Blacklist"
     url_poster: https://api.mediux.pro/assets/aef6e90c-3e65-4c1a-9c77-4340bde57552
     url_background: https://api.mediux.pro/assets/441c385b-fae0-4f91-985d-539bf6c4db62

@@ -1,0 +1,7 @@
+metadata:
+  434779: # TVDB id for Poppa's House. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27810
+    url_poster: https://api.mediux.pro/assets/999c1c3a-16f2-4df3-b1be-75ea721ea92c
+    url_background: https://api.mediux.pro/assets/2cbdc982-a9c7-4cee-a5da-dac4dffd0e66
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/120a3417-7f88-4e9a-8807-36b980088863

@@ -1,0 +1,9 @@
+metadata:
+  402166: # TVDB id for Leverage: Redemption. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26899
+    url_poster: https://api.mediux.pro/assets/6240c660-9a3d-43e0-beb9-76285e5dfa68
+    url_background: https://api.mediux.pro/assets/6850e7cb-b656-474e-869b-b1c808e6bdfa
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/31f4fe17-79a3-4537-ab3b-9eedb636e946
+      2:
+        url_poster: https://api.mediux.pro/assets/d14aee5b-0f35-4dc9-92ff-50ff898de748

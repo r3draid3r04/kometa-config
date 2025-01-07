@@ -1,0 +1,7 @@
+metadata:
+  370112: # TVDB id for Mare of Easttown. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28548
+    url_poster: https://api.mediux.pro/assets/828ba991-11fc-4dd0-86eb-a8bc637bd0a9
+    url_background: https://api.mediux.pro/assets/5e36d04e-0f0f-4fff-8421-4d5551432506
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a0cc928d-7320-416f-88f2-3045f8b5d3a9

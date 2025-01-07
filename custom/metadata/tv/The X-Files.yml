@@ -1,11 +1,17 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27098
+metadata:
   "The X-Files":
     year: 1993
+    match:
+      mapping_id: 77398
     title: "The X-Files"
-    url_poster: https://theposterdb.com/api/assets/36352
-    Seasons:
+    url_poster: https://api.mediux.pro/assets/cd36a4a5-6d86-4b1e-a1fa-28abad839524
+    url_background: https://api.mediux.pro/assets/85c9869d-9c66-4adf-8747-a8e1c71ed580
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b87102cf-7417-4f05-a240-61c9274f19bf
       1:
-        url_poster: https://theposterdb.com/api/assets/133137
+        url_poster: https://api.mediux.pro/assets/93f5f51c-7e28-4c08-8b9d-92378c105445
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/f4d6cca6-1a8d-485f-adb8-728437594370
@@ -56,7 +62,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           24:
             url_poster: https://api.mediux.pro/assets/980a2621-5635-47a0-8da6-65293d2e3d30
       2:
-        url_poster: https://theposterdb.com/api/assets/133138
+        url_poster: https://api.mediux.pro/assets/cf93bd08-5979-4daf-ae3e-4f23f95d6a0d
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/260d4294-a91c-46d0-bf40-b5f77c9d15a8
@@ -109,7 +115,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           25:
             url_poster: https://api.mediux.pro/assets/1c5d9495-8255-4e6a-8ab3-8da428f13a27
       3:
-        url_poster: https://theposterdb.com/api/assets/133139
+        url_poster: https://api.mediux.pro/assets/78652576-2ff2-490b-b91d-e8756f563e1a
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/36c10036-078f-4cc9-9859-aa5e1635d6c4
@@ -160,7 +166,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           24:
             url_poster: https://api.mediux.pro/assets/17b0b162-e242-4067-899f-e2eab65c647f
       4:
-        url_poster: https://theposterdb.com/api/assets/133140
+        url_poster: https://api.mediux.pro/assets/7f1977ae-3a96-41fd-a828-04c8f770dbe3
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/87a5bd82-cc35-4615-9e62-e94814c9ce93
@@ -211,7 +217,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           24:
             url_poster: https://api.mediux.pro/assets/4c257dff-5520-4b39-b01a-b87969e38f12
       5:
-        url_poster: https://theposterdb.com/api/assets/133141
+        url_poster: https://api.mediux.pro/assets/afc480bd-6b80-41db-92f2-220d90200cb7
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8495e0ba-8b22-401c-9c40-f5aea529b185
@@ -254,7 +260,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           20:
             url_poster: https://api.mediux.pro/assets/345911f0-cfee-4d6c-a7f2-59f3a4cbf370
       6:
-        url_poster: https://theposterdb.com/api/assets/133142
+        url_poster: https://api.mediux.pro/assets/fa20a3d7-63dd-4975-ae5a-963a69a5bc47
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0a6aed6f-171c-42b9-9467-b352e87dc866
@@ -301,7 +307,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           22:
             url_poster: https://api.mediux.pro/assets/0bc06b04-2eeb-471e-beb4-5b4f807a3585
       7:
-        url_poster: https://theposterdb.com/api/assets/133143
+        url_poster: https://api.mediux.pro/assets/377fce15-dffa-4b0f-90df-93788eb47c45
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a8c98762-cdb3-4402-8095-2d4002285f4d
@@ -348,7 +354,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           22:
             url_poster: https://api.mediux.pro/assets/11da92c3-d7a4-4d1e-8430-217b306fd5a6
       8:
-        url_poster: https://theposterdb.com/api/assets/133144
+        url_poster: https://api.mediux.pro/assets/4af3cd58-c92a-4a33-8838-e899d2d085b3
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/49aff0a9-f6e8-45b4-92cd-29aa5788d50b
@@ -393,7 +399,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           21:
             url_poster: https://api.mediux.pro/assets/b8ae5947-deaf-468b-a75a-ec4e2e36cfd0
       9:
-        url_poster: https://theposterdb.com/api/assets/156077
+        url_poster: https://api.mediux.pro/assets/48435623-5419-4df8-92d9-4246d59413d5
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0999d95a-71b8-4008-84f9-ca3347faaa09
@@ -436,7 +442,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           20:
             url_poster: https://api.mediux.pro/assets/d24a54ef-bc5f-4793-9c18-8c5835fd82c2
       10:
-        url_poster: https://theposterdb.com/api/assets/133146
+        url_poster: https://api.mediux.pro/assets/e2901676-75e7-4194-9325-9d523af05008
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c7799694-da25-4d19-9d36-4494fea305b4
@@ -451,7 +457,7 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
           6:
             url_poster: https://api.mediux.pro/assets/036e4cfb-ce23-4cc3-80a0-9c6cf434b016
       11:
-        url_poster: https://theposterdb.com/api/assets/133147
+        url_poster: https://api.mediux.pro/assets/e5e46be7-3763-409a-85a8-e6024a17cc12
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/7680f420-bfe0-464c-8f56-c1984dec5752

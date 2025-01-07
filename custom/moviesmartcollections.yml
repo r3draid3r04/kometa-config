@@ -4,9 +4,16 @@
 #########################################################################
 collections:
   "4K HDR":
-    file_poster: "config/assets/movies/4K HDR/poster.jpg"
+    file_poster: "config/assets/movies/4K HDR/poster.png"
     smart_filter:
       all:
         hdr: true
         resolution: 4k
       sort_by: release.desc
+
+  Christopher Nolan:
+    smart_filter:
+      all:
+        director: tmdb
+    tmdb_person: https://www.themoviedb.org/person/525-christopher-nolan
+    url_poster: https://theposterdb.com/api/assets/521031

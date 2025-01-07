@@ -1,0 +1,7 @@
+metadata:
+  371610: # TVDB id for V Wars. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27609
+    url_poster: https://api.mediux.pro/assets/0b90eadf-f32f-47d0-b170-ab370cbdba49
+    url_background: https://api.mediux.pro/assets/0071fae2-a00f-432b-9edb-f154f5db67a2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5210dfec-0ef4-4d91-b203-a9fa24e2d535

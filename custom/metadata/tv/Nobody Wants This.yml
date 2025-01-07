@@ -1,10 +1,7 @@
-# Posters by SwaffelSmurf on MediUX. https://mediux.pro/sets/25684
 metadata:
-  "Nobody Wants This":
-    year: 2024
-    title: "Nobody Wants This"
-    url_poster: https://api.mediux.pro/assets/1acd70a8-5b5e-4464-a133-ff5b0705c8ab
-    url_background: https://api.mediux.pro/assets/d9fa12ba-18e9-44fd-924a-47f5063212a2
+  450093: # TVDB id for Nobody Wants This. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28195
+    url_poster: https://api.mediux.pro/assets/3ffe9758-bbf6-4f8d-962c-403dee5db56b
+    url_background: https://api.mediux.pro/assets/51d4c0ec-45e3-4dd9-9ed3-fb226664e177
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/0a3df8d7-520c-44d3-b39f-4cfb20d6eb2d
+        url_poster: https://api.mediux.pro/assets/1f4e1312-f776-4c92-b6d3-9caedb865b23

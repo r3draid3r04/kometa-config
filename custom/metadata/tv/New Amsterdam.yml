@@ -1,16 +1,16 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "New Amsterdam (2018)":
-    year: 2018
-    title: "New Amsterdam (2018)"
-    url_poster: https://theposterdb.com/api/assets/43287
-    Seasons:
+# TVDB id for New Amsterdam. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27474
+metadata:
+  349272:
+    url_poster: https://api.mediux.pro/assets/6bf5f975-de9d-4657-b10e-01b005ef7e6a
+    url_background: https://api.mediux.pro/assets/53bbea1a-8c69-4014-a853-92d25b55d15f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/310493
+        url_poster: https://api.mediux.pro/assets/40833f54-822e-4950-a915-8f0220b21269
       2:
-        url_poster: https://theposterdb.com/api/assets/310494
+        url_poster: https://api.mediux.pro/assets/12678208-b86c-4e36-b71a-7c8c287f2a30
       3:
-        url_poster: https://theposterdb.com/api/assets/310495
+        url_poster: https://api.mediux.pro/assets/8e72ca99-94a2-40c1-8227-1574bff412de
       4:
-        url_poster: https://theposterdb.com/api/assets/310496
+        url_poster: https://api.mediux.pro/assets/4e137e91-9cd8-4432-93eb-a92a70f62230
       5:
-        url_poster: https://theposterdb.com/api/assets/310497
+        url_poster: https://api.mediux.pro/assets/751c89fe-2185-4e07-8535-636c23c8fb18

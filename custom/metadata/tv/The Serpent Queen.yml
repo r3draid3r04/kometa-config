@@ -1,0 +1,9 @@
+metadata:
+  396325: # TVDB id for The Serpent Queen. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28094
+    url_poster: https://api.mediux.pro/assets/519f75cb-46bb-4ce1-930e-659e9c99a5d3
+    url_background: https://api.mediux.pro/assets/68708b55-dc84-441b-a266-eb6f5f13b810
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5643bd38-0a11-493b-aeb7-5f1d9393c1ef
+      2:
+        url_poster: https://api.mediux.pro/assets/0383dc6e-ee76-496d-acde-eeb87622d763

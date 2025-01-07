@@ -1,0 +1,9 @@
+metadata:
+  321219: # TVDB id for Superior Donuts. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27824
+    url_poster: https://api.mediux.pro/assets/d0e80d75-beea-43ae-a523-d7e892555fff
+    url_background: https://api.mediux.pro/assets/2d18c5d1-a596-4a1f-b3cf-75010cea2019
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/842fa8f8-b052-41c8-9846-b83d60281d92
+      2:
+        url_poster: https://api.mediux.pro/assets/69cf813e-d19c-48d3-8766-c676fe15179c

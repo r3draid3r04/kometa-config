@@ -1,9 +1,9 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Swarm":
-    year: 2023
-    title: "The Swarm"
-    url_poster: https://theposterdb.com/api/assets/402004
-    file_background: "config/assets/tv/The Swarm (2023)/background.png"
-    Seasons:
-      1:
-        file_poster: "config/assets/tv/The Swarm (2023)/Season01.png"
+# metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+#   "The Swarm":
+#     year: 2023
+#     title: "The Swarm"
+#     url_poster: https://theposterdb.com/api/assets/402004
+#     file_background: "config/assets/tv/The Swarm (2023)/background.png"
+#     Seasons:
+#       1:
+#         file_poster: "config/assets/tv/The Swarm (2023)/Season01.png"

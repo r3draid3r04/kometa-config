@@ -1,0 +1,7 @@
+metadata:
+  413526: # TVDB id for Treason. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28718
+    url_poster: https://api.mediux.pro/assets/2df2a4b0-e6ea-4b39-918f-bd7b95b68e05
+    url_background: https://api.mediux.pro/assets/29b8dcde-b17c-4073-83bf-732335d26ff0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9dbf302d-bb54-44b2-a268-519cb5fbc235

@@ -1,0 +1,7 @@
+metadata:
+  438580: # TVDB id for Territory. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27670
+    url_poster: https://api.mediux.pro/assets/ecef6f4e-1894-4e60-87c9-c9cb0e400e4b
+    url_background: https://api.mediux.pro/assets/43f232c4-d391-4039-af0b-ee5860386b6d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8929657e-6831-41da-9825-72733c1758cd

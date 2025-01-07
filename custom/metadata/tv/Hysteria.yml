@@ -1,0 +1,7 @@
+metadata:
+  423158: # TVDB id for Hysteria!. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27717
+    url_poster: https://api.mediux.pro/assets/7bf10734-658d-4ee8-8805-08affcc073f8
+    url_background: https://api.mediux.pro/assets/61421094-293d-46f7-a4a3-203358a9f4c5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/92d0cbe2-58b1-4cb7-9d48-e399ec82826c

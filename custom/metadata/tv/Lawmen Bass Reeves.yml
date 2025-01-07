@@ -1,11 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Lawmen: Bass Reeves":
-    year: 2023
-    title: "Lawmen: Bass Reeves"
-    url_poster: https://theposterdb.com/api/assets/427964
-    Seasons:
+metadata:
+  416503: # TVDB id for Lawmen: Bass Reeves. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28116
+    url_poster: https://api.mediux.pro/assets/7125bc9c-e188-43dd-b5a7-3d80fdbb0506
+    url_background: https://api.mediux.pro/assets/197cef08-7b6b-440b-99f3-ca674c9e1c3f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/428022
+        url_poster: https://api.mediux.pro/assets/9834fa3f-e7c7-4324-be4e-e2fd8572cdca
+
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a83c85c7-a173-4ddc-823c-66d9a03bed6b

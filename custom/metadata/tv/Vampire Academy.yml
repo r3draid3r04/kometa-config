@@ -1,0 +1,7 @@
+metadata:
+  403187: # TVDB id for Vampire Academy. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27610
+    url_poster: https://api.mediux.pro/assets/d93b025c-965a-478f-a944-88c5fc7b1fae
+    url_background: https://api.mediux.pro/assets/378012b7-dc53-486e-b007-e811efd40c49
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8cd203ed-98bb-4cd5-94c3-ab215099e57d

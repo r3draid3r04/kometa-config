@@ -1,0 +1,9 @@
+metadata:
+  349661: # TVDB id for The Purge. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28119
+    url_poster: https://api.mediux.pro/assets/9f8b4a19-c86a-4736-83d9-b9f3fc4d3f50
+    url_background: https://api.mediux.pro/assets/0e4fc944-93f9-4961-b4d4-7b90bb6104cb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/43a8cef8-31c7-4f5b-a78c-8104c5cdd7b4
+      2:
+        url_poster: https://api.mediux.pro/assets/18c0e11e-8446-4125-bb49-7b246b9576e3

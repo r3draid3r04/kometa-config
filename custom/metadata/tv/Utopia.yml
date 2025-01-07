@@ -1,0 +1,7 @@
+metadata:
+  361002: # TVDB id for Utopia. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28117
+    url_poster: https://api.mediux.pro/assets/2d2efabd-2766-41d7-af37-145e5063d51d
+    url_background: https://api.mediux.pro/assets/7302e16f-a45d-4f11-b5d8-841cc78d92f2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a67a69b1-151a-4484-bb20-e829307d0b5b

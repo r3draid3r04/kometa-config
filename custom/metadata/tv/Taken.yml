@@ -1,0 +1,9 @@
+metadata:
+  78224: # TVDB id for Taken. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27748
+    url_poster: https://api.mediux.pro/assets/cb26a2c3-9d9d-4fa5-a789-2d04a436fd29
+    url_background: https://api.mediux.pro/assets/a9a6764f-cf62-440d-b9f6-226a9f4ef6ca
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/6a022c5f-960b-4129-8def-0d889f96c5f2
+      1:
+        url_poster: https://api.mediux.pro/assets/6f5767be-08f7-4f3e-a97e-551d56b41d98

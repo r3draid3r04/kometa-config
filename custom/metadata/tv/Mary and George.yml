@@ -1,0 +1,7 @@
+metadata:
+  426131: # TVDB id for Mary & George. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28543
+    url_poster: https://api.mediux.pro/assets/199234a4-9af1-4e35-b8ce-6640ea388f44
+    url_background: https://api.mediux.pro/assets/fee461f3-d0fe-4285-af1e-4484f3afa26e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/49c2f3e7-aedb-40b9-8553-bef906694942

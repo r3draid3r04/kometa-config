@@ -1,0 +1,9 @@
+metadata:
+  350401: # TVDB id for Project Blue Book. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27603
+    url_poster: https://api.mediux.pro/assets/2155a855-2028-4acc-9910-e71f906585d0
+    url_background: https://api.mediux.pro/assets/624fb64f-1f30-4461-820b-bc942c95d160
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1ec09d31-e13d-421c-8296-a915225a9f1b
+      2:
+        url_poster: https://api.mediux.pro/assets/170acbe0-69ab-4df9-a5ff-35c3832bc9bc

@@ -1,8 +1,6 @@
 # Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/11328
 metadata:
-  "Based on a True Story":
-    year: 2023
-    title: "Based on a True Story"
+  418934: # TVDB id for Based on a True Story. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/11328
     url_poster: https://api.mediux.pro/assets/f9b2c0d7-0077-46da-8a70-79608b3904cb
     url_background: https://api.mediux.pro/assets/9a050d92-0391-43cc-ae15-683f8b2c6e71
     seasons:
@@ -25,3 +23,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b9adcf14-d3de-4ab8-a4c5-0036e167bdff
           8:
             url_poster: https://api.mediux.pro/assets/90dc7c34-58b6-4c16-a49b-18ba6f3896db
+      2:
+        url_poster: https://api.mediux.pro/assets/056373b0-6849-46e7-a95e-c9d34825351a

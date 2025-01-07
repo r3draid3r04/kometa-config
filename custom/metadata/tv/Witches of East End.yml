@@ -1,0 +1,9 @@
+metadata:
+  267259: # TVDB id for Witches of East End. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27671
+    url_poster: https://api.mediux.pro/assets/0b19b23d-d544-4de5-a19b-ec6182dec606
+    url_background: https://api.mediux.pro/assets/217b8bf4-6b5f-4cb0-b66c-69754727b42b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/41c590c2-6cc1-4f0a-bbf1-973acf3b4674
+      2:
+        url_poster: https://api.mediux.pro/assets/fa4d94b5-dc64-4795-8c7e-42a1e77ffee7

@@ -1,0 +1,13 @@
+metadata:
+  363673: # TVDB id for Nancy Drew. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26934
+    url_poster: https://api.mediux.pro/assets/a03f205e-7a76-4537-90d6-87c8fbeb7504
+    url_background: https://api.mediux.pro/assets/5a7c8e67-ff69-47f4-ab44-fcf30245066a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7c4f13a3-3d8a-4d66-ad44-7049c159dace
+      2:
+        url_poster: https://api.mediux.pro/assets/cfcda8f2-b351-4c20-9646-992a1baa4ee6
+      3:
+        url_poster: https://api.mediux.pro/assets/ae54205e-1fba-43a1-b2ce-1bd36cbcc70a
+      4:
+        url_poster: https://api.mediux.pro/assets/01684b2f-98fa-4931-a147-05ef2db0448b

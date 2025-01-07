@@ -1,0 +1,11 @@
+metadata:
+  81114: # TVDB id for The Border. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27212
+    url_poster: https://api.mediux.pro/assets/f0f5121d-5cc8-4008-b6cb-81c5a5e31179
+    url_background: https://api.mediux.pro/assets/4a183ecc-0478-49c5-94ad-a9f5026771b9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8269582d-b840-47bb-a97c-5dbb92a9eb93
+      2:
+        url_poster: https://api.mediux.pro/assets/4b9ed8a7-b7c6-422e-a86e-b5ffc587ca88
+      3:
+        url_poster: https://api.mediux.pro/assets/0c74a49a-3297-4c1c-a4f9-6496e4ec5a4c

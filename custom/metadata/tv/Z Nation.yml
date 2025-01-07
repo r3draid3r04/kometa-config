@@ -1,0 +1,17 @@
+metadata:
+  280494: # TVDB id for Z Nation. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27736
+    url_poster: https://api.mediux.pro/assets/d9ffc83a-ff8e-4e98-9f38-b76a403e386d
+    url_background: https://api.mediux.pro/assets/dc1138ef-baa0-4c29-b22b-e5c6860834fa
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/9839c0cc-f2a9-4017-9b42-aa8c7593c13f
+      1:
+        url_poster: https://api.mediux.pro/assets/b7c579d6-3392-4a24-a294-7adcc6c8d832
+      2:
+        url_poster: https://api.mediux.pro/assets/705ffeb2-5234-437c-8d1f-de31c3034fbb
+      3:
+        url_poster: https://api.mediux.pro/assets/a65913e5-dee3-4f61-bcd1-0bcb85e2a6fa
+      4:
+        url_poster: https://api.mediux.pro/assets/e7e6a702-ef26-4007-be5e-359e74860df8
+      5:
+        url_poster: https://api.mediux.pro/assets/912a3f49-04c4-41cb-8e33-6253a90dcc18

@@ -1,0 +1,21 @@
+metadata:
+  328687: # TVDB id for S.W.A.T.. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27081
+    url_poster: https://api.mediux.pro/assets/dfb3a154-ad7b-4c0c-a2bb-76fe37413d93
+    url_background: https://api.mediux.pro/assets/d4752ef7-b658-452f-9d13-82772cf9e4f5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/39d470b5-ba1f-408d-b9c8-2357e4749c8b
+      2:
+        url_poster: https://api.mediux.pro/assets/6ca4af30-bfe0-4e69-b1da-a3e67f0ecd0a
+      3:
+        url_poster: https://api.mediux.pro/assets/23102c7f-1430-41c7-80d8-f725c13300e6
+      4:
+        url_poster: https://api.mediux.pro/assets/d4901f6d-2b1e-43b8-bc37-b381b892cb54
+      5:
+        url_poster: https://api.mediux.pro/assets/5dc8d6ad-e2c4-4d10-a232-89c037bccda7
+      6:
+        url_poster: https://api.mediux.pro/assets/f03682bf-6127-40c2-9466-a63d1e209997
+      7:
+        url_poster: https://api.mediux.pro/assets/fabcf74a-d788-4ef5-8b31-144eee6fd642
+      8:
+        url_poster: https://api.mediux.pro/assets/e9193a45-fd7b-40b5-8d47-60c93efefa88

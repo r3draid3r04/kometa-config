@@ -1,7 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Wilderness (2023)":
-    year: 2023
-    match:
-      mapping_id: 421387
-    title: "Wilderness (2023)"
-    url_poster: https://theposterdb.com/api/assets/410426
+metadata:
+  421387: # TVDB id for Wilderness. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27997
+    url_poster: https://api.mediux.pro/assets/b6b76c74-54e9-4bc8-8316-ed8d45abcf25
+    url_background: https://api.mediux.pro/assets/137f7d03-4ba1-4a25-a92c-1cdc00f56696
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fb45548b-edf7-48ce-bc45-54ebf5667277
+

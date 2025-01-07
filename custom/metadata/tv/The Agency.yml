@@ -1,0 +1,7 @@
+metadata:
+  430769: # TVDB id for The Agency. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28956
+    url_poster: https://api.mediux.pro/assets/43f8f2b0-a4c5-402e-a3df-2a63441c38f5
+    url_background: https://api.mediux.pro/assets/23749928-05cb-49be-b6fb-6a0e37c22301
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/103cd0b1-5df1-44de-9ae6-7d5fc38098f4

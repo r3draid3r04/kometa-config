@@ -9,3 +9,359 @@ metadata:
     url_poster: https://api.mediux.pro/assets/be7fd718-89d7-48ab-9a7f-36e347299c5f
     url_background: https://api.mediux.pro/assets/ba9dedee-822a-4cd9-8a32-eb21e22c84cc
     label: "Family Friendly"
+
+  11688: # The Emperor's New Groove (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/26860
+    url_poster: https://api.mediux.pro/assets/e58a8389-9f3a-4200-9f63-203ca828e748
+    label: "Family Friendly"
+
+  13417: # Kronk's New Groove (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26860
+    url_poster: https://api.mediux.pro/assets/4cd01969-279e-4e3c-ab4c-807f786ff92f
+    label: "Family Friendly"
+
+  1022796: # Wish (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/26859
+    url_poster: https://api.mediux.pro/assets/6254e030-bd0c-4d02-b6b9-24f01a5474a9
+    label: "Family Friendly"
+
+  877269: # Strange World (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26858
+    url_poster: https://api.mediux.pro/assets/f7af8f46-6dab-43a7-ac44-0cb0537a6a52
+    label: "Family Friendly"
+
+  568124: # Encanto (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/26857
+    url_poster: https://api.mediux.pro/assets/56f92e67-e7ce-43aa-810c-8e4bb1062083
+    label: "Family Friendly"
+
+  527774: # Raya and the Last Dragon (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/26856
+    url_poster: https://api.mediux.pro/assets/d9b54fa4-e7f2-4928-9b42-ae4c04a26f3b
+    label: "Family Friendly"
+
+  269149: # Zootopia (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/26855
+    url_poster: https://api.mediux.pro/assets/a3fec880-af15-49bc-b131-b3c72ade70e2
+    label: "Family Friendly"
+
+  13053: # Bolt (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/26854
+    url_poster: https://api.mediux.pro/assets/57886b2c-21d0-4f75-ad44-b55701c3a386
+    label: "Family Friendly"
+
+  1267: # Meet the Robinsons (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26853
+    url_poster: https://api.mediux.pro/assets/287e285f-56de-4e81-b538-290228853486
+    label: "Family Friendly"
+
+  38757: # Tangled (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/26852
+    url_poster: https://api.mediux.pro/assets/92484afb-02b8-495c-9886-1b23649c7506
+    label: "Family Friendly"
+
+  177572: # Big Hero 6 (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/26851
+    url_poster: https://api.mediux.pro/assets/f3d1be45-30d0-47ba-9455-c0d02d5bf6f5
+    label: "Family Friendly"
+
+  9982: # Chicken Little (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26850
+    url_poster: https://api.mediux.pro/assets/2c1aebe5-1c57-4f1b-9927-74fb0ac8bb51
+    label: "Family Friendly"
+
+  13700: # Home on the Range (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26847
+    url_poster: https://api.mediux.pro/assets/9b4ec79b-2bc8-412b-b7ee-be143b7adaaf
+    label: "Family Friendly"
+
+  9016: # Treasure Planet (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26845
+    url_poster: https://api.mediux.pro/assets/25cb5c75-2341-40a3-80bf-44bcf0b18995
+    label: "Family Friendly"
+
+  277834: # Moana (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/26843
+    url_poster: https://api.mediux.pro/assets/fe9acd9d-b834-4df9-9475-b597b7b3cf5a
+    label: "Family Friendly"
+
+  1241982: # Moana 2 (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/26843
+    url_poster: https://api.mediux.pro/assets/02deaec2-4151-4a4c-9b43-4cf525367161
+    label: "Family Friendly"
+
+  10009: # Brother Bear (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26838
+    url_poster: https://api.mediux.pro/assets/a9abd765-6542-4631-99e6-7a69bb13c827
+    label: "Family Friendly"
+
+  10010: # Brother Bear 2 (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/26838
+    url_poster: https://api.mediux.pro/assets/6d1a1d3f-bae0-44ab-ae95-bdbc25c5431e
+    label: "Family Friendly"
+
+  10674: # Mulan (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26837
+    url_poster: https://api.mediux.pro/assets/706bce7c-40d2-427a-abb3-2d0da62515ae
+    label: "Family Friendly"
+
+  12242: # Mulan II (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26837
+    url_poster: https://api.mediux.pro/assets/10fe1728-9729-433b-b9b7-627f5f5d35ec
+    label: "Family Friendly"
+
+  10865: # Atlantis: The Lost Empire (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26836
+    url_poster: https://api.mediux.pro/assets/e2c7a6a0-c307-488a-84d9-229c1e42898d
+    label: "Family Friendly"
+
+  8965: # Atlantis: Milo's Return (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26836
+    url_poster: https://api.mediux.pro/assets/8f989967-e463-432e-ae4d-e7cee55cc76d
+    label: "Family Friendly"
+
+  11224: # Cinderella (1950) Poster by willtong93 on MediUX. https://mediux.pro/sets/26835
+    url_poster: https://api.mediux.pro/assets/34f2ed16-0b33-47d2-9d4b-de368de98088
+    label: "Family Friendly"
+
+  14128: # Cinderella II: Dreams Come True (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26835
+    url_poster: https://api.mediux.pro/assets/1626b259-d724-44ee-a01d-d2981ff9108c
+    label: "Family Friendly"
+
+  16119: # Cinderella III: A Twist in Time (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26835
+    url_poster: https://api.mediux.pro/assets/f84a9600-e658-4777-a4b6-af5cc4bd39a7
+    label: "Family Friendly"
+
+  37135: # Tarzan (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26834
+    url_poster: https://api.mediux.pro/assets/3df376c7-4ebc-4037-9d57-648aa933f573
+    label: "Family Friendly"
+
+  13683: # Tarzan & Jane (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26834
+    url_poster: https://api.mediux.pro/assets/ee083df3-dfd6-400d-8e26-f2961bdf6196
+    label: "Family Friendly"
+
+  15657: # Tarzan II (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26834
+    url_poster: https://api.mediux.pro/assets/cc82c6fa-32bb-4994-b357-0ab75bc1d80b
+    label: "Family Friendly"
+
+  11544: # Lilo & Stitch (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26833
+    url_poster: https://api.mediux.pro/assets/30e2faa9-5cf9-4427-af15-986349ac591b
+    label: "Family Friendly"
+
+  15567: # Stitch! The Movie (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26833
+    url_poster: https://api.mediux.pro/assets/167b1913-cdd6-4292-ac32-4c4c040d2e78
+    label: "Family Friendly"
+
+  20760: # Lilo & Stitch 2: Stitch Has a Glitch (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26833
+    url_poster: https://api.mediux.pro/assets/a2804517-6d99-4fa9-88e6-17f46dd5fa63
+    label: "Family Friendly"
+
+  21316: # Leroy & Stitch (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/26833
+    url_poster: https://api.mediux.pro/assets/080ec2a2-2fb4-466d-9615-9c402c795c75
+    label: "Family Friendly"
+
+  82690: # Wreck-It Ralph (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26832
+    url_poster: https://api.mediux.pro/assets/7b2d657b-a6c5-4cd2-b70a-e0aee43c7889
+    label: "Family Friendly"
+
+  404368: # Ralph Breaks the Internet (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26832
+    url_poster: https://api.mediux.pro/assets/96ae75a8-37c7-4ba9-b479-e3fb24f96aa2
+    label: "Family Friendly"
+
+  8587: # The Lion King (1994) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
+    url_poster: https://api.mediux.pro/assets/66b84688-305a-409f-a43e-36da4528e10c
+    label: "Family Friendly"
+
+  9732: # The Lion King II: Simba's Pride (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
+    url_poster: https://api.mediux.pro/assets/f7178ff8-3d09-488a-9f7d-af1b6cb61f75
+    label: "Family Friendly"
+
+  11430: # The Lion King 1½ (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
+    url_poster: https://api.mediux.pro/assets/42eb273f-dd1e-4ef8-bc57-20390eba9f4b
+    label: "Family Friendly"
+
+  10144: # The Little Mermaid (1989) Poster by willtong93 on MediUX. https://mediux.pro/sets/26900
+    url_poster: https://api.mediux.pro/assets/efd43a68-a1a0-47da-bc8e-16f0c6f0d316
+    label: "Family Friendly"
+
+  10898: # The Little Mermaid II: Return to the Sea (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/26900
+    url_poster: https://api.mediux.pro/assets/1f55f8f0-6db2-4db9-93f3-acc5b101c151
+    label: "Family Friendly"
+
+  13676: # The Little Mermaid: Ariel's Beginning (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/26900
+    url_poster: https://api.mediux.pro/assets/a7fdfd33-7165-4ca1-8d4e-57c0cac4cdda
+    label: "Family Friendly"
+
+  812: # Aladdin (1992) Poster by willtong93 on MediUX. https://mediux.pro/sets/26919
+    url_poster: https://api.mediux.pro/assets/0ef0a6b8-a31f-4eb0-b109-c349da3dfb27
+    label: "Family Friendly"
+
+  15969: # The Return of Jafar (1994) Poster by willtong93 on MediUX. https://mediux.pro/sets/26919
+    url_poster: https://api.mediux.pro/assets/fcba2c36-db3a-4c2c-995a-1893b532d37b
+    label: "Family Friendly"
+
+  11238: # Aladdin and the King of Thieves (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/26919
+    url_poster: https://api.mediux.pro/assets/c8816b3c-a5b1-4707-89ee-43c9d88cd4a2
+    label: "Family Friendly"
+
+  15789: # A Goofy Movie (1995) Poster by willtong93 on MediUX. https://mediux.pro/sets/26917
+    url_poster: https://api.mediux.pro/assets/bc290463-a644-42e8-b133-f0dba9b578bd
+    label: "Family Friendly"
+
+  15653: # An Extremely Goofy Movie (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/26917
+    url_poster: https://api.mediux.pro/assets/5132a709-3eaa-451c-bd4d-a881d8e79081
+    label: "Family Friendly"
+
+  3170: # Bambi (1942) Poster by willtong93 on MediUX. https://mediux.pro/sets/26916
+    url_poster: https://api.mediux.pro/assets/a1f7ae5f-f89c-49ec-a3c9-86dddd125ce0
+    label: "Family Friendly"
+
+  13205: # Bambi II (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/26916
+    url_poster: https://api.mediux.pro/assets/dd2371ef-b575-41f4-a3d1-15b4b2c4734e
+    label: "Family Friendly"
+
+  11970: # Hercules (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/26955
+    url_poster: https://api.mediux.pro/assets/a1baa592-ffe0-4bb7-a326-cb5434e758ea
+    label: "Family Friendly"
+
+  153609: # Hercules: Zero to Hero (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26955
+    url_poster: https://api.mediux.pro/assets/38dfedf3-7c14-4007-bfcd-07901bd90f87
+    label: "Family Friendly"
+
+  10693: # Peter Pan (1953) Poster by willtong93 on MediUX. https://mediux.pro/sets/26954
+    url_poster: https://api.mediux.pro/assets/1d68644d-25ac-4a3e-b7f9-980447c46cfa
+    label: "Family Friendly"
+
+  16690: # Return to Never Land (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26954
+    url_poster: https://api.mediux.pro/assets/a32d86e0-d733-4e55-81a1-5d72431d1aa8
+    label: "Family Friendly"
+
+  10020: # Beauty and the Beast (1991) Poster by willtong93 on MediUX. https://mediux.pro/sets/26953
+    url_poster: https://api.mediux.pro/assets/1fd4cd8a-c016-41fd-b35a-faf0a5209e5e
+    label: "Family Friendly"
+
+  13313: # Beauty and the Beast: The Enchanted Christmas (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/26953
+    url_poster: https://api.mediux.pro/assets/82a45f7c-655c-4397-9dd2-25a4e48d1f12
+    label: "Family Friendly"
+
+  20235: # Belle's Magical World (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26953
+    url_poster: https://api.mediux.pro/assets/ac5e11e5-e20b-48f6-979b-fcd7a10cdb38
+    label: "Family Friendly"
+
+  10530: # Pocahontas (1995) Poster by willtong93 on MediUX. https://mediux.pro/sets/26952
+    url_poster: https://api.mediux.pro/assets/5f55660d-c6d5-4cdc-b1a8-ae7f128b286c
+    label: "Family Friendly"
+
+  13761: # Pocahontas II: Journey to a New World (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26952
+    url_poster: https://api.mediux.pro/assets/3902b0bd-7486-4996-8b67-1ecca816a138
+    label: "Family Friendly"
+
+  9325: # The Jungle Book (1967) Poster by willtong93 on MediUX. https://mediux.pro/sets/26951
+    url_poster: https://api.mediux.pro/assets/360e1e93-317e-4d64-a7a2-29e276c39359
+    label: "Family Friendly"
+
+  14873: # The Jungle Book 2 (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26951
+    url_poster: https://api.mediux.pro/assets/69988f0d-b664-4c68-92c5-b337e1d645de
+    label: "Family Friendly"
+
+  10545: # The Hunchback of Notre Dame (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/26950
+    url_poster: https://api.mediux.pro/assets/1920c1fa-844c-42f8-a065-eeeff0d1b393
+    label: "Family Friendly"
+
+  12448: # The Hunchback of Notre Dame II (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26950
+    url_poster: https://api.mediux.pro/assets/5fa0ab01-e0c6-47a8-9f76-b0a30ddb56c4
+    label: "Family Friendly"
+
+  15947: # The Three Caballeros (1944) Poster by willtong93 on MediUX. https://mediux.pro/sets/27200
+    url_poster: https://api.mediux.pro/assets/0726e4e8-5306-46c3-b2b5-6aae79464e58
+    label: "Family Friendly"
+
+  9078: # The Sword in the Stone (1963) Poster by willtong93 on MediUX. https://mediux.pro/sets/27199
+    url_poster: https://api.mediux.pro/assets/991e00e2-6575-4574-8615-ce81d6b4ce59
+    label: "Family Friendly"
+
+  9994: # The Great Mouse Detective (1986) Poster by willtong93 on MediUX. https://mediux.pro/sets/27198
+    url_poster: https://api.mediux.pro/assets/eb4b06c6-e0cf-4609-a026-19d295bda111
+    label: "Family Friendly"
+
+  10957: # The Black Cauldron (1985) Poster by willtong93 on MediUX. https://mediux.pro/sets/27197
+    url_poster: https://api.mediux.pro/assets/2937c234-64ac-45ba-844f-c10b95bd27ae
+    label: "Family Friendly"
+
+  10112: # The Aristocats (1970) Poster by willtong93 on MediUX. https://mediux.pro/sets/27196
+    url_poster: https://api.mediux.pro/assets/cf50283a-42f8-42de-adae-8a0b1402b242
+    label: "Family Friendly"
+
+  408: # Snow White and the Seven Dwarfs (1937) Poster by willtong93 on MediUX. https://mediux.pro/sets/27194
+    url_poster: https://api.mediux.pro/assets/98f8d593-2da9-446c-b189-64344c233f5c
+    label: "Family Friendly"
+
+  10882: # Sleeping Beauty (1959) Poster by willtong93 on MediUX. https://mediux.pro/sets/27193
+    url_poster: https://api.mediux.pro/assets/1cd44afe-3faf-4c2a-9bf9-e61760078322
+    label: "Family Friendly"
+
+  14906: # Saludos Amigos (1942) Poster by willtong93 on MediUX. https://mediux.pro/sets/27192
+    url_poster: https://api.mediux.pro/assets/6265b1fb-b3a3-4e38-a0b8-056b61e66dae
+    label: "Family Friendly"
+
+  11886: # Robin Hood (1973) Poster by willtong93 on MediUX. https://mediux.pro/sets/27191
+    url_poster: https://api.mediux.pro/assets/06bb2eb3-b8e9-4e5e-bbf8-0e2280c84a24
+    label: "Family Friendly"
+
+  10895: # Pinocchio (1940) Poster by willtong93 on MediUX. https://mediux.pro/sets/27189
+    url_poster: https://api.mediux.pro/assets/1dea1b93-5df7-4b17-b068-07e64f86d4d7
+    label: "Family Friendly"
+
+  12233: # Oliver & Company (1988) Poster by willtong93 on MediUX. https://mediux.pro/sets/27187
+    url_poster: https://api.mediux.pro/assets/eb2aee5f-01c3-47ea-bb31-116b8ce99364
+    label: "Family Friendly"
+
+  15400: # Mickey's Once Upon a Christmas (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/27186
+    url_poster: https://api.mediux.pro/assets/50e1c8ab-3dba-48d4-bc03-540ada194b58
+    label: "Family Friendly"
+
+  21448: # Mickey's Magical Christmas: Snowed in at the House of Mouse (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/27185
+    url_poster: https://api.mediux.pro/assets/6cdd4c02-7de1-40fb-ba77-fdf19b17b887
+    label: "Family Friendly"
+
+  14813: # Mickey's Christmas Carol (1983) Poster by willtong93 on MediUX. https://mediux.pro/sets/27183
+    url_poster: https://api.mediux.pro/assets/b9db15f8-d849-43c9-8255-28de2bf9598a
+    label: "Family Friendly"
+
+  21385: # Mickey, Donald, Goofy: The Three Musketeers (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/27182
+    url_poster: https://api.mediux.pro/assets/252e91f3-ae63-4bab-a61c-76c492e549b1
+    label: "Family Friendly"
+
+  11360: # Dumbo (1941) Poster by willtong93 on MediUX. https://mediux.pro/sets/27178
+    url_poster: https://api.mediux.pro/assets/df5cd6dd-c04a-4e71-a81e-16871e825017
+    label: "Family Friendly"
+
+  12092: # Alice in Wonderland (1951) Poster by willtong93 on MediUX. https://mediux.pro/sets/27175
+    url_poster: https://api.mediux.pro/assets/1abc3849-dc67-4912-9df3-c59eaabfc491
+    label: "Family Friendly"
+
+  10567: # Dinosaur (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/27174
+    url_poster: https://api.mediux.pro/assets/f22aef8c-547f-47e8-a206-23837c283b97
+    label: "Family Friendly"
+
+  10198: # The Princess and the Frog (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/27173
+    url_poster: https://api.mediux.pro/assets/7e46b5e7-50da-48de-a677-893566aa89d0
+    label: "Family Friendly"
+
+  756: # Fantasia (1940) Poster by willtong93 on MediUX. https://mediux.pro/sets/27172
+    url_poster: https://api.mediux.pro/assets/3f77b309-cf65-4bf4-9c64-8a801f746bc4
+    label: "Family Friendly"
+
+  49948: # Fantasia 2000 (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/27172
+    url_poster: https://api.mediux.pro/assets/27e55e66-f45d-4011-b4e2-32092d244729
+    label: "Family Friendly"
+
+  11319: # The Rescuers (1977) Poster by willtong93 on MediUX. https://mediux.pro/sets/27171
+    url_poster: https://api.mediux.pro/assets/07ffd66f-4288-4a5e-82e4-c588f0ad6a2c
+    label: "Family Friendly"
+
+  11135: # The Rescuers Down Under (1990) Poster by willtong93 on MediUX. https://mediux.pro/sets/27171
+    url_poster: https://api.mediux.pro/assets/51ae03de-333f-40a5-ab75-e5d222747a0d
+    label: "Family Friendly"
+
+  10340: # Lady and the Tramp (1955) Poster by willtong93 on MediUX. https://mediux.pro/sets/27170
+    url_poster: https://api.mediux.pro/assets/6c8aec07-89e8-4f0d-a971-83f80121b12d
+    label: "Family Friendly"
+
+  18269: # Lady and the Tramp II: Scamp's Adventure (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/27170
+    url_poster: https://api.mediux.pro/assets/f0ac9a09-0d3c-4be4-a34c-1a207284fd5c
+    label: "Family Friendly"
+
+  12230: # One Hundred and One Dalmatians (1961) Poster by willtong93 on MediUX. https://mediux.pro/sets/27169
+    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
+    label: "Family Friendly"
+
+  13654: # 101 Dalmatians II: Patch's London Adventure (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/27169
+    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
+    label: "Family Friendly"
+
+  10948: # The Fox and the Hound (1981) Poster by willtong93 on MediUX. https://mediux.pro/sets/27167
+    url_poster: https://api.mediux.pro/assets/e94e742d-a274-4609-9690-52735b50f15b
+    label: "Family Friendly"
+
+  9948: # The Fox and the Hound 2 (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/27167
+    url_poster: https://api.mediux.pro/assets/00ef9b3c-999c-43ab-aa01-d1507dd58af2
+    label: "Family Friendly"

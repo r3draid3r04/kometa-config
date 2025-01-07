@@ -1,5 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Rig (2023)":
-    year: 2023
-    title: "The Rig (2023)"
-    url_poster: https://theposterdb.com/api/assets/308282
+metadata:
+  399194: # TVDB id for The Rig. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28963
+    url_poster: https://api.mediux.pro/assets/83782079-6b2f-44cb-93c4-3fc1a7cb1a6f
+    url_background: https://api.mediux.pro/assets/fcd72b5d-f5d8-4411-97a6-5a057f92b2c0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b23e3a51-ea27-4b22-9290-bfd9c932f791
+      2:
+        url_poster: https://api.mediux.pro/assets/c44a9ec6-78f2-4a3e-9bb1-bd0d082ea077
+
+

@@ -1,12 +1,12 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Bill Engvall Show":
-    year: 2007
-    title: "The Bill Engvall Show"
-    file_poster: "config/assets/tv/The Bill Engvall Show (2007)/poster.png"
-    Seasons:
+metadata:
+  80434: # TVDB id for The Bill Engvall Show. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27065
+    url_poster: https://api.mediux.pro/assets/affccd62-e001-4a21-8422-5126d212f1a9
+    url_background: https://api.mediux.pro/assets/1998894e-02cc-4a98-aab6-19457ff6cabe
+    seasons:
       1:
-        file_poster: "config/assets/tv/The Bill Engvall Show (2007)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/77bbe8f1-025a-4494-9781-0e28e2bb2cd6
       2:
-        file_poster: "config/assets/tv/The Bill Engvall Show (2007)/Season02.png"
+        url_poster: https://api.mediux.pro/assets/23c84c79-d9d6-4614-849f-eede2367e0f8
       3:
-        file_poster: "config/assets/tv/The Bill Engvall Show (2007)/Season03.png"
+        url_poster: https://api.mediux.pro/assets/ce04f794-f24c-4e54-ab7b-83930a5f6f0b
+

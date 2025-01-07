@@ -1,8 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Star Wars: Young Jedi Adventures":
-    year: 2023
-    title: "Star Wars: Young Jedi Adventures"
-    url_poster: https://theposterdb.com/api/assets/389408
-    Seasons:
-      1:
-        file_poster: "config/assets/tv/Star Wars Young Jedi Adventures (2023)/Season01.png"
+# metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+#   "Star Wars: Young Jedi Adventures":
+#     year: 2023
+#     title: "Star Wars: Young Jedi Adventures"
+#     url_poster: https://theposterdb.com/api/assets/389408
+#     Seasons:
+#       1:
+#         file_poster: "config/assets/tv/Star Wars Young Jedi Adventures (2023)/Season01.png"

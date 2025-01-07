@@ -1,8 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Kennedy":
-    year: 2023
-    title: "Kennedy"
-    url_poster: https://theposterdb.com/api/assets/434231
-    Seasons:
+metadata:
+  441269: # TVDB id for Kennedy. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27996
+    url_poster: https://api.mediux.pro/assets/c66de5db-dc7e-460b-80a0-a2d47cebb5f5
+    url_background: https://api.mediux.pro/assets/caf8629c-01c6-437a-82df-c67011ee4c6f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/434232
+        url_poster: https://api.mediux.pro/assets/754611f3-4cd2-4c85-9c6f-fa765dde5197

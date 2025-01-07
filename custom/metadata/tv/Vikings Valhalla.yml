@@ -1,0 +1,11 @@
+metadata:
+  372700: # TVDB id for Vikings: Valhalla. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27741
+    url_poster: https://api.mediux.pro/assets/f12324b1-bb79-4b2d-9872-7a76c5630735
+    url_background: https://api.mediux.pro/assets/6da41983-1e18-4593-a2d3-30e91cd6cdca
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/266c1a39-7886-40a0-aeef-e7c63ca129d3
+      2:
+        url_poster: https://api.mediux.pro/assets/80a52e61-4d98-4300-8543-36837685218f
+      3:
+        url_poster: https://api.mediux.pro/assets/76028efa-c074-4e1e-b2dc-792115f01081

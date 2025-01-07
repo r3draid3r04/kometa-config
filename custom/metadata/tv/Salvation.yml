@@ -1,11 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Salvation":
-    year: 2017
-    title: "Salvation"
-    url_poster: https://theposterdb.com/api/assets/37337
-    file_background: "config/assets/tv/Salvation (2017)/background.png"
-    Seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/233863
-      2:
-        url_poster: https://theposterdb.com/api/assets/233864
+# metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+#   "Salvation":
+#     year: 2017
+#     title: "Salvation"
+#     url_poster: https://theposterdb.com/api/assets/37337
+#     file_background: "config/assets/tv/Salvation (2017)/background.png"
+#     Seasons:
+#       1:
+#         url_poster: https://theposterdb.com/api/assets/233863
+#       2:
+#         url_poster: https://theposterdb.com/api/assets/233864

@@ -1,9 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The New Pope":
-    year: 2020
-    title: "The New Pope"
-    url_poster: https://theposterdb.com/api/assets/118721
-    file_background: "config/assets/tv/The New Pope (2020)/background.png"
-    Seasons:
+metadata:
+  376058: # TVDB id for The New Pope. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27667
+    url_poster: https://api.mediux.pro/assets/0777056b-8a96-4c83-a58a-31edaeddceaf
+    url_background: https://api.mediux.pro/assets/014e6fa1-27be-4ab0-8c6b-707b5847a90d
+    seasons:
       1:
-        file_poster: "config/assets/tv/The New Pope (2020)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/ea953522-944c-4400-b4d8-e59051d26772

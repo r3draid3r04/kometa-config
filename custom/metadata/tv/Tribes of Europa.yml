@@ -1,0 +1,7 @@
+metadata:
+  385320: # TVDB id for Tribes of Europa. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27747
+    url_poster: https://api.mediux.pro/assets/d860724e-afa6-439c-8daa-f54ed1a7c0d3
+    url_background: https://api.mediux.pro/assets/d2c52a7a-18c8-4de9-be98-b5473b4cec25
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ec71d23b-469e-4757-93d0-07e6281d0e2a

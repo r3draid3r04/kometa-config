@@ -1,8 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Last Thing He Told Me":
-    year: 2023
-    title: "The Last Thing He Told Me"
-    url_poster: https://theposterdb.com/api/assets/365149
-    Seasons:
+metadata:
+  406686: # TVDB id for The Last Thing He Told Me. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28120
+    url_poster: https://api.mediux.pro/assets/501d9a24-cbe6-470c-a89b-632e6e79496d
+    url_background: https://api.mediux.pro/assets/c8629faf-0180-44ae-ae2b-47c795baa7b6
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/368068
+        url_poster: https://api.mediux.pro/assets/0e1af10c-0e55-4bb2-97c9-7bdf6d2d77b5
+

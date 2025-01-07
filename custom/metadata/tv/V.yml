@@ -1,0 +1,11 @@
+metadata:
+  94971: # TVDB id for V. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27629
+    url_poster: https://api.mediux.pro/assets/e3241077-834f-4e32-a508-2b3263f35e85
+    url_background: https://api.mediux.pro/assets/a9c58e4e-3ecc-40ab-a221-b08ac964f22f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/64092b2e-3576-4699-9312-9ba5669e8ed0
+      1:
+        url_poster: https://api.mediux.pro/assets/55e733b9-76d2-4d51-aa5e-0c137dbf9aac
+      2:
+        url_poster: https://api.mediux.pro/assets/8db75f0a-270c-46d1-9415-7100ee237a78

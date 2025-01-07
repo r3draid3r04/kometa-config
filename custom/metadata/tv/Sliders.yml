@@ -1,16 +1,17 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Sliders":
-    year: 1995
-    title: "Sliders"
-    url_poster: https://theposterdb.com/api/assets/43677
-    Seasons:
+metadata:
+  76557: # TVDB id for Sliders. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27217
+    url_poster: https://api.mediux.pro/assets/98e78d2b-0257-4bff-aad9-6d94fce9081c
+    url_background: https://api.mediux.pro/assets/bb9f8c75-8f41-47c4-b87b-c309d469c36a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/5d72095c-32f1-4f68-8e97-47c736670ab5
       1:
-        file_poster: "config/assets/tv/Sliders (1995)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/7e57bcb6-d5e6-404a-9b5b-cf6c196cfca4
       2:
-        file_poster: "config/assets/tv/Sliders (1995)/Season02.png"
+        url_poster: https://api.mediux.pro/assets/0009e404-3b94-4226-9c27-368a60417c2b
       3:
-        file_poster: "config/assets/tv/Sliders (1995)/Season03.png"
+        url_poster: https://api.mediux.pro/assets/858e45e9-fa6a-4fae-98ff-6bd8237fd93f
       4:
-        file_poster: "config/assets/tv/Sliders (1995)/Season04.png"
+        url_poster: https://api.mediux.pro/assets/126512d0-0aa4-4a27-8a89-358aa005d634
       5:
-        file_poster: "config/assets/tv/Sliders (1995)/Season05.png"
+        url_poster: https://api.mediux.pro/assets/3196aa91-cc63-4752-ad22-e5c9c149eb39

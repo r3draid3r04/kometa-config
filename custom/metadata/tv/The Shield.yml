@@ -1,20 +1,20 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Shield":
-    year: 2002
-    title: "The Shield"
-    url_poster: https://theposterdb.com/api/assets/37505
-    Seasons:
-      1:
-        file_poster: "config/assets/tv/The Shield (2002)/Season01.png"
-      2:
-        file_poster: "config/assets/tv/The Shield (2002)/Season02.png"
-      3:
-        file_poster: "config/assets/tv/The Shield (2002)/Season03.png"
-      4:
-        file_poster: "config/assets/tv/The Shield (2002)/Season04.png"
-      5:
-        file_poster: "config/assets/tv/The Shield (2002)/Season05.png"
-      6:
-        file_poster: "config/assets/tv/The Shield (2002)/Season06.png"
-      7:
-        file_poster: "config/assets/tv/The Shield (2002)/Season07.png"
+# metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+#   "The Shield":
+#     year: 2002
+#     title: "The Shield"
+#     url_poster: https://theposterdb.com/api/assets/37505
+#     Seasons:
+#       1:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season01.png"
+#       2:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season02.png"
+#       3:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season03.png"
+#       4:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season04.png"
+#       5:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season05.png"
+#       6:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season06.png"
+#       7:
+#         file_poster: "config/assets/tv/The Shield (2002)/Season07.png"

@@ -1,0 +1,19 @@
+metadata:
+  82283: # TVDB id for True Blood. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27822
+    url_poster: https://api.mediux.pro/assets/b92b19d7-8db2-444a-a6cd-66fa71c3c26c
+    url_background: https://api.mediux.pro/assets/066cc510-9068-4339-bb2c-dba41124f1ff
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e3271058-707b-49fc-9d78-ff5680822882
+      2:
+        url_poster: https://api.mediux.pro/assets/1a431e87-8ee4-4025-895b-2bafe1221d72
+      3:
+        url_poster: https://api.mediux.pro/assets/9f849e7b-3cb2-4b72-b931-06c027da4f5f
+      4:
+        url_poster: https://api.mediux.pro/assets/0bac9e0d-67f5-47ae-8d45-f856012ce239
+      5:
+        url_poster: https://api.mediux.pro/assets/9cc6f55e-19fd-474b-9bb3-28bee5ca8f53
+      6:
+        url_poster: https://api.mediux.pro/assets/02bc1135-e422-4779-ab1a-d9b13eb854fc
+      7:
+        url_poster: https://api.mediux.pro/assets/40e49dfe-2bcb-422d-89d0-8355896ea292

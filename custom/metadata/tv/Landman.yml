@@ -1,0 +1,7 @@
+metadata:
+  397424: # TVDB id for Landman. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28092
+    url_poster: https://api.mediux.pro/assets/ab1364a7-dcd3-41ad-b6cf-70bb5a8cc8be
+    url_background: https://api.mediux.pro/assets/d1488ae3-a619-4def-96f5-59049da95283
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/76ddd574-5de2-4b37-a56f-b532738ac31c

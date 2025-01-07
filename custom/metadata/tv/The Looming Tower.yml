@@ -1,0 +1,7 @@
+metadata:
+  331821: # TVDB id for The Looming Tower. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28546
+    url_poster: https://api.mediux.pro/assets/f1057545-cb5f-4bd8-a786-93830f9b7ac6
+    url_background: https://api.mediux.pro/assets/13a3f8b5-3861-4f06-ad95-fc1a01413862
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/46c48b54-7252-48c4-ad2f-f654f7d953e3

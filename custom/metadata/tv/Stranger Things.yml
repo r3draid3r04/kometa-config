@@ -1,14 +1,13 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Stranger Things":
-    year: 2016
-    title: "Stranger Things"
-    url_poster: https://theposterdb.com/api/assets/34505
-    Seasons:
+metadata:
+  305288: # TVDB id for Stranger Things. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27273
+    url_poster: https://api.mediux.pro/assets/848ed20a-78c6-40c4-bc63-f54773dc4381
+    url_background: https://api.mediux.pro/assets/ee821f29-b3a9-4db5-bb16-c29415782879
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/368906
+        url_poster: https://api.mediux.pro/assets/dec530c8-14d4-4a84-a44d-ac6f92cb2e12
       2:
-        url_poster: https://theposterdb.com/api/assets/368907
+        url_poster: https://api.mediux.pro/assets/85f1ab8e-9fd0-4568-856b-a893edc82f77
       3:
-        url_poster: https://theposterdb.com/api/assets/368908
+        url_poster: https://api.mediux.pro/assets/da1e8454-3c61-40a1-8910-ac9e38bcbd41
       4:
-        url_poster: https://theposterdb.com/api/assets/368909
+        url_poster: https://api.mediux.pro/assets/bef16992-27cb-411d-8798-74d69f2a87c5

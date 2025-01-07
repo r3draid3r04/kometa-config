@@ -1,0 +1,19 @@
+metadata:
+  278125: # TVDB id for NCIS: New Orleans. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26932
+    url_poster: https://api.mediux.pro/assets/e2ce0a8d-f451-45de-8430-383ff28ea05b
+    url_background: https://api.mediux.pro/assets/733ff83a-860d-4130-bac4-7575e05bcf43
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/85f0f96b-60ba-4a53-82b4-2cd71448562c
+      2:
+        url_poster: https://api.mediux.pro/assets/bec9665d-471b-4ef0-9c64-393422bfa16f
+      3:
+        url_poster: https://api.mediux.pro/assets/0409a727-60ad-4d0f-8da6-16c4cbbddbc9
+      4:
+        url_poster: https://api.mediux.pro/assets/4b095ef8-c3a6-4b65-aa4f-ebd81b9d1943
+      5:
+        url_poster: https://api.mediux.pro/assets/662e7b3a-989f-431d-a5fc-830c85ea50dd
+      6:
+        url_poster: https://api.mediux.pro/assets/15b60a58-d804-4cf0-b88e-688ffc490282
+      7:
+        url_poster: https://api.mediux.pro/assets/accf1dbe-6e86-47b0-89f9-69fe1f41dbfe

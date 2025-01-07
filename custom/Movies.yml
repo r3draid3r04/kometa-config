@@ -12,6 +12,25 @@ templates:
     url_poster: <<poster>>
     sync_mode: sync
     collection_order: release
+  CollectionBackground:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    url_poster: <<poster>>
+    url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+  CollectionNoPoster:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+    collection_order: release
+
 
 collections:
   Addams Family:
@@ -44,11 +63,11 @@ collections:
     template: {name: Collection, collection: 420, poster: https://theposterdb.com/api/assets/66173}
     sort_title: Chronicles of Narnia
   The Chronicles of Riddick:
-    template: {name: Collection, collection: 2794, poster: https://theposterdb.com/api/assets/66282}
+    template: {name: CollectionBackground, collection: 2794, poster: https://api.mediux.pro/assets/c07b4d05-9e30-418e-b58e-36ae2476686b, background: https://api.mediux.pro/assets/2f7e7551-f193-4e66-bf73-b7cf325f3e45}
     sort_title: Chronicles of Riddick
   Cloverfield:
     template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls021933730/
+    imdb_list: https://www.imdb.com/list/ls595672518/
     url_poster: https://theposterdb.com/api/assets/66280
     summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of three films, viral marketing websites linking the films together, and a tie-in manga to the first film titled Cloverfield/Kishin (2008), all set in a shared fictional universe referred to as the "Cloververse". The franchise as a whole deals with creatures from other dimensions attacking Earth throughout various decades, all as a repercussion of an experiment by an astronaut team aboard the Cloverfield Station in outer-space. Each film depicts the reality-altering effects of their study, which was meant to find a new energy source replacing the planet's depleted resources, only to open portals for assault from various beasts from deep space.
   The Crow:
@@ -62,11 +81,11 @@ collections:
   Death Race:
     template: {name: Collection, collection: 86116, poster: https://theposterdb.com/api/assets/313881}
   Die Hard:
-    template: {name: Collection, collection: 1570, poster: https://theposterdb.com/api/assets/69782}
+    template: {name: CollectionBackground, collection: 1570, poster: https://api.mediux.pro/assets/d4882059-ca4a-42aa-88f1-ee25c6ad4df5, background: https://api.mediux.pro/assets/36f6f92b-8c57-4628-97d2-6e8b0c73aed6}
   Dirty Harry:
     template: {name: Collection, collection: 10456, poster: https://theposterdb.com/api/assets/293474}
   Divergent:
-    template: {name: Collection, collection: 283579, poster: https://theposterdb.com/api/assets/68422}
+    template: {name: CollectionBackground, collection: 283579, poster: https://api.mediux.pro/assets/91931bad-184a-4c2c-ba8c-10a6501249a4, background: https://api.mediux.pro/assets/4feae0b9-5339-4dc5-9164-b8c96016aacf}
   Ernest..:
     template: {name: Collection, collection: 330555, poster: https://theposterdb.com/api/assets/313994}
   Escape Plan:
@@ -105,7 +124,7 @@ collections:
   Hannibal:
     template: {name: Collection, collection: 9743, movie: 11454, poster: https://theposterdb.com/api/assets/313995}
   Harry Potter:
-    template: {name: Collection, collection: 1241, poster: https://theposterdb.com/api/assets/69531}
+    template: {name: CollectionBackground, collection: 1241, poster: https://api.mediux.pro/assets/ea3157c9-e1c8-4b11-b9d2-a618616a298e, background: https://api.mediux.pro/assets/7a80fadc-d991-4cfc-89f2-a410c43e2340}
   Hellraiser:
     template: {name: Collection, collection: 8917, poster: https://theposterdb.com/api/assets/161045}
   The Hobbit:
@@ -155,7 +174,7 @@ collections:
   Mortal Kombat:
     template: {name: Collection, collection: 9818, movie: "664767, 460465", poster: https://theposterdb.com/api/assets/293495}
   The Mummy:
-    template: {name: Collection, collection: 1733, poster: https://theposterdb.com/api/assets/68824}
+    template: {name: CollectionBackground, collection: 1733, poster: https://api.mediux.pro/assets/115cc16b-93f1-487c-aa8f-2bc77033ba7c, background: https://api.mediux.pro/assets/4febced4-65f0-4242-b035-52c4e602fea2}
   Pet Sematary:
     template: {name: Collection, collection: 10789, movie: 157433, poster: https://theposterdb.com/api/assets/314004}
   Phantasm:
@@ -163,7 +182,7 @@ collections:
   Piranha:
     template: {name: Collection, collection: "212279, 104830", poster: https://theposterdb.com/api/assets/161300}
   Pirates of the Caribbean:
-    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/69625}
+    template: {name: CollectionBackground, collection: 295, poster: https://api.mediux.pro/assets/d873dfec-1198-4a55-8856-68716c0a5788, background: https://api.mediux.pro/assets/4bb19b44-8db1-48e7-bc18-61426bcf0931}
   Planet of the Apes:
     template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/98662}
   Police Academy:
@@ -231,14 +250,14 @@ collections:
   Fantastic Beasts:
     template: {name: Collection, collection: 435259, poster: https://theposterdb.com/api/assets/67777}
   Ice Age:
-    template: {name: Collection, collection: 8354}
+    template: {name: Collection, collection: 8354, poster: https://theposterdb.com/api/assets/5374}
   John Wick:
     template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/67327}
   The Karate Kid:
-    template: {name: Collection, collection: 8580}
+    template: {name: Collection, collection: 8580, poster: https://theposterdb.com/api/assets/24081}
     sort_title: Karate Kid
   Men in Black:
-    template: {name: Collection, collection: 86055}
+    template: {name: Collection, collection: 86055, poster: https://theposterdb.com/api/assets/67140}
   Middle Earth:
     template: {name: Collection, collection: "119, 121938", poster: https://theposterdb.com/api/assets/67802}
     summary: "A collection of movies and shows set in J.R.R. Tolkien's Middle Earth."
@@ -320,15 +339,15 @@ collections:
   Paranormal Activity:
     template: {name: Collection, collection: 41437, poster: https://theposterdb.com/api/assets/68494}
   Anchorman:
-    template: {name: Collection, collection: 93791}
+    template: {name: Collection, collection: 93791, poster: https://theposterdb.com/api/assets/17931}
   Batman:
-    template: {name: Collection, collection: 120794, poster: https://theposterdb.com/api/assets/65952}
+    template: {name: Collection, collection: 120794, poster: https://api.mediux.pro/assets/1780ebab-ceaf-4947-af68-ad674752a1a1}
   Bridget Jones:
     template: {name: Collection, collection: 8936, poster: https://theposterdb.com/api/assets/293468}
   Bring It On:
     template: {name: Collection, collection: 430186, poster: https://theposterdb.com/api/assets/293470}
   Charlie's Angels:
-    template: {name: Collection, collection: 86029, movie: 458897}
+    template: {name: Collection, collection: 86029, movie: 458897, poster: https://api.mediux.pro/assets/60c47627-e32e-4854-86b1-91a18cc1e302}
   Creed:
     template: {name: Collection, collection: 553717, poster: https://theposterdb.com/api/assets/66281}
   Despicable Me:
@@ -338,7 +357,7 @@ collections:
   Hellboy:
     template: {name: Collection, collection: 17235, poster: https://theposterdb.com/api/assets/68700}
   Highlander:
-    template: {name: Collection, collection: 8050}
+    template: {name: Collection, collection: 8050, poster: https://theposterdb.com/api/assets/189434}
   Jack Ryan:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls070771796/
@@ -417,7 +436,9 @@ collections:
   Zorro:
     template: {name: Collection, collection: 1657, poster: https://theposterdb.com/api/assets/315419}
   Street Fighter:
-    template: {name: Collection, collection: 190435, movie: "687354, 11667", poster: https://theposterdb.com/api/assets/186979}
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls595647523/
+    url_poster: https://theposterdb.com/api/assets/186979
   Sister Act:
     template: {name: Collection, collection: 103573, poster: https://theposterdb.com/api/assets/315410}
   Sicario:
@@ -427,7 +448,7 @@ collections:
   The Santa Clause:
     template: {name: Collection, collection: 53159, poster: https://theposterdb.com/api/assets/314006}
   Now You See Me:
-    template: {name: Collection, collection: 382685, poster: https://theposterdb.com/api/assets/314003}
+    template: {name: CollectionBackground, collection: 382685, poster: https://api.mediux.pro/assets/3a7350fa-ecb7-4f85-8c39-68b5688ec43d, background: https://api.mediux.pro/assets/76c0fd81-ea4d-49b0-b6eb-8cfbe24f8cbd}
   The Mask:
     template: {name: Collection, collection: 43072, poster: https://theposterdb.com/api/assets/314011}
   Major League:
@@ -512,3 +533,28 @@ collections:
     imdb_list: https://www.imdb.com/list/ls542554796/
     url_poster: https://theposterdb.com/api/assets/236446
     summary: A collection of heist Movies
+  Musicals:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls028390287/
+    url_poster: https://theposterdb.com/api/assets/69218
+    summary: A collection of Musicals
+  Netflix Originals:
+    template: {name: CollectionNoPoster}
+    imdb_list: https://www.imdb.com/list/ls093350982/
+    summary: All Netflix Original Feature Films
+  Amazon Prime Originals:
+    template: {name: CollectionNoPoster}
+    imdb_list: https://www.imdb.com/list/ls560474512/
+    summary: All Amazon Prime Original Feature Films
+  Hulu Originals:
+    template: {name: CollectionNoPoster}
+    imdb_list: https://www.imdb.com/list/ls561329482/
+    summary: All Hulu Original Feature Films
+  AppleTV Originals:
+    template: {name: CollectionNoPoster}
+    imdb_list: https://www.imdb.com/list/ls595629412/
+    summary: All AppleTV Original Feature Films
+  World War II:
+    template: {name: CollectionNoPoster}
+    imdb_list: https://www.imdb.com/list/ls059324807/
+    summary: A Collection of World War II Feature Films

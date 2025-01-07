@@ -1,12 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Quantico":
-    year: 2015
-    title: "Quantico"
-    url_poster: https://theposterdb.com/api/assets/45467
-    Seasons:
+metadata:
+  295515: # TVDB id for Quantico. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28063
+    url_poster: https://api.mediux.pro/assets/0eeff981-bc78-4852-b57a-4e1df08eaf1c
+    url_background: https://api.mediux.pro/assets/78fff4d1-1873-4a42-9d1c-d10b1710403a
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/237493
+        url_poster: https://api.mediux.pro/assets/b2ae2082-f1da-4c49-bcfc-dcf2e3e98927
       2:
-        url_poster: https://theposterdb.com/api/assets/237494
+        url_poster: https://api.mediux.pro/assets/425dc152-69d3-4e8e-8be5-a195a0f555dd
       3:
-        url_poster: https://theposterdb.com/api/assets/237495
+        url_poster: https://api.mediux.pro/assets/e04cda88-344d-4859-a846-45fc0227d995

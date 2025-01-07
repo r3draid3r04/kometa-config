@@ -1,16 +1,16 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Merlin":
-    year: 2008
-    title: "Merlin"
-    url_poster: https://theposterdb.com/api/assets/44327
-    Seasons:
+metadata:
+  83123: # TVDB id for Merlin. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27051
+    url_poster: https://api.mediux.pro/assets/09068133-ce85-4116-a416-c6cb464f5ac8
+    url_background: https://api.mediux.pro/assets/023be247-7ee3-464c-9c7d-a0c7321406fd
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/404210
+        url_poster: https://api.mediux.pro/assets/ead34cd9-bab0-4fbc-82ae-d79b7f354ffd
       2:
-        url_poster: https://theposterdb.com/api/assets/404211
+        url_poster: https://api.mediux.pro/assets/29e207f9-1325-4e9d-9f99-2fea461ecaf9
       3:
-        url_poster: https://theposterdb.com/api/assets/404212
+        url_poster: https://api.mediux.pro/assets/718ea9f1-8c7f-4a31-ae7c-2c6c0562b34c
       4:
-        url_poster: https://theposterdb.com/api/assets/404213
+        url_poster: https://api.mediux.pro/assets/deafdab4-e0b3-4ae8-ba11-29732f1aaf86
       5:
-        url_poster: https://theposterdb.com/api/assets/404214
+        url_poster: https://api.mediux.pro/assets/4a11c495-622e-4960-abec-f0ec8c7af607
+

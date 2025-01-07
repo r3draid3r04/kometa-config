@@ -1,8 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Invasion":
-    year: 2005
-    title: "Invasion"
-    url_poster: https://theposterdb.com/api/assets/98671
-    Seasons:
+metadata:
+  75588: # TVDB id for Invasion. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27069
+    url_poster: https://api.mediux.pro/assets/49123386-6415-44e2-ad91-8092dbbf3113
+    url_background: https://api.mediux.pro/assets/3433b956-7816-402c-a757-cfa164f73140
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/442794
+        url_poster: https://api.mediux.pro/assets/e645f8a9-13bf-439c-b4d7-1b953019e4e3

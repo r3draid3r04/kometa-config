@@ -1,9 +1,28 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Willow":
-    year: 2022
-    title: "Willow"
-    url_poster: https://theposterdb.com/api/assets/293595
-    Seasons:
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/27607
+# Title cards by Koltom on MediUX. https://mediux.pro/sets/834
+metadata:
+  393192:
+    url_poster: https://api.mediux.pro/assets/5b95511f-91a9-47fa-b660-71467a7eaf73
+    url_background: https://api.mediux.pro/assets/8cfe650e-ea45-43cb-bc69-0476a9883d55
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/293596
+        url_poster: https://api.mediux.pro/assets/9f3b997a-0da2-4580-a325-4183da3c1fe1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/3b16372e-49e0-4062-bad7-b9be6ae030da
+          2:
+            url_poster: https://api.mediux.pro/assets/a6c1e1ec-315c-44d8-85ba-066894427d6a
+          3:
+            url_poster: https://api.mediux.pro/assets/5108e008-fca8-46cd-873f-e4698359e470
+          4:
+            url_poster: https://api.mediux.pro/assets/83ee823a-7c2e-41a2-a045-91967745520b
+          5:
+            url_poster: https://api.mediux.pro/assets/851d1fb7-1123-4707-b06b-e20544ddaeab
+          6:
+            url_poster: https://api.mediux.pro/assets/307c08c2-9f98-45a1-be74-3ee1aad38a85
+          7:
+            url_poster: https://api.mediux.pro/assets/6e0d072a-657c-46be-ab19-9dcb368b49ae
+          8:
+            url_poster: https://api.mediux.pro/assets/809631b0-cdde-4e24-a4b2-f3cd5eeb6484
+
 

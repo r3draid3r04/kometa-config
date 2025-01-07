@@ -1,0 +1,9 @@
+metadata:
+  414682: # TVDB id for The Santa Clauses. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27800
+    url_poster: https://api.mediux.pro/assets/fbfac8e1-9492-469b-a97f-5d3c7d67af3f
+    url_background: https://api.mediux.pro/assets/09901d2c-662b-4ae2-b3aa-a8f9363b8dc9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f029ae8d-55fd-477c-b9c6-359adfc0d767
+      2:
+        url_poster: https://api.mediux.pro/assets/0e8dd0b8-0567-4a14-afe3-cf77cbc70937

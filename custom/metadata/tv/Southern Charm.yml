@@ -1,0 +1,25 @@
+metadata:
+  278266: # TVDB id for Southern Charm. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28721
+    url_poster: https://api.mediux.pro/assets/3f9190b3-0eff-4efd-8a85-dac066a0cedf
+    url_background: https://api.mediux.pro/assets/25de32f5-38ac-48b3-be6a-59feb6967bf9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4db68576-fa35-4944-bc22-5d3df8b3144e
+      2:
+        url_poster: https://api.mediux.pro/assets/60d933e4-05b7-4c1f-81e4-3e6f02f3ea03
+      3:
+        url_poster: https://api.mediux.pro/assets/cb292dfa-5c36-4730-a8ed-fb29bf52e1e2
+      4:
+        url_poster: https://api.mediux.pro/assets/e8f4bc23-bc9c-4612-adf9-fe7c8ad18aab
+      5:
+        url_poster: https://api.mediux.pro/assets/99d0dd83-207e-4ca0-9227-ea2a8ad73399
+      6:
+        url_poster: https://api.mediux.pro/assets/6ce1e7b1-a4ae-42fd-9568-ce55a86a716e
+      7:
+        url_poster: https://api.mediux.pro/assets/110b6160-a43c-4749-8127-3bca9310716e
+      8:
+        url_poster: https://api.mediux.pro/assets/4f4581e4-98d5-45f7-8977-abadc2f25e09
+      9:
+        url_poster: https://api.mediux.pro/assets/356334e9-0b25-437d-82dc-1bbae7a684e5
+      10:
+        url_poster: https://api.mediux.pro/assets/8333be99-9392-48ea-81e5-dab7961a0520

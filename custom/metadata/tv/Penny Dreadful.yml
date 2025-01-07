@@ -1,13 +1,12 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Penny Dreadful":
-    year: 2014
-    title: "Penny Dreadful"
-    url_poster: https://theposterdb.com/api/assets/43301
-    Seasons:
+metadata:
+  265766: # TVDB id for Penny Dreadful. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28065
+    url_poster: https://api.mediux.pro/assets/17196015-4743-4953-b77a-b0ab2ee8e677
+    url_background: https://api.mediux.pro/assets/d4f307fb-9f11-4d98-aa54-6ac38e6b76f9
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/95593
+        url_poster: https://api.mediux.pro/assets/81def22f-850f-4eb5-a619-8c82ed342dcf
       2:
-        url_poster: https://theposterdb.com/api/assets/95594
+        url_poster: https://api.mediux.pro/assets/d1d5e692-5448-4b3e-8543-0e3a8faa978b
       3:
-        url_poster: https://theposterdb.com/api/assets/95595
+        url_poster: https://api.mediux.pro/assets/dad9e6b2-a1e9-4266-9e70-916fced1c8b7
 

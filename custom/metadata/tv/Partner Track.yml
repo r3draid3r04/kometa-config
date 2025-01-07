@@ -1,0 +1,7 @@
+metadata:
+  409985: # TVDB id for Partner Track. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27756
+    url_poster: https://api.mediux.pro/assets/ce32e9ef-5e35-41ca-8fce-b570733fdeba
+    url_background: https://api.mediux.pro/assets/2820f7a7-482d-49ec-bb9a-785d88de51b9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a92519ad-72a2-4069-8155-710963321197

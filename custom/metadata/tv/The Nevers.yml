@@ -1,10 +1,9 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Nevers":
-    year: 2021
-    title: "The Nevers"
-    url_poster: https://theposterdb.com/api/assets/144983
-    Seasons:
+metadata:
+  364315: # TVDB id for The Nevers. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28196
+    url_poster: https://api.mediux.pro/assets/35b8f68c-a6b5-4246-aac1-62ded2def61b
+    url_background: https://api.mediux.pro/assets/4ccb8b10-b0bf-4653-a19b-3cf1695e8a64
+    seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/406339
+        url_poster: https://api.mediux.pro/assets/320b390b-8bf8-45dd-a543-8a7287495a8f
       1:
-        url_poster: https://theposterdb.com/api/assets/406340
+        url_poster: https://api.mediux.pro/assets/473f8392-9dc5-446c-a02e-2fa0444ffa8b

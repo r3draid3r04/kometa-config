@@ -1,0 +1,13 @@
+metadata:
+  274897: # TVDB id for Salem. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28076
+    url_poster: https://api.mediux.pro/assets/6bdccfa5-04b6-4571-8fbe-72778fa76cf1
+    url_background: https://api.mediux.pro/assets/1c9c4628-a4c5-4fca-942d-4c89fae1333d
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/dae8e96d-01b8-433b-ad55-085a6f569ebe
+      1:
+        url_poster: https://api.mediux.pro/assets/24221380-8a22-4349-9d3b-99e55352f9b7
+      2:
+        url_poster: https://api.mediux.pro/assets/b281673f-d1f0-49cb-afa6-20b79db48805
+      3:
+        url_poster: https://api.mediux.pro/assets/c58ea76f-4092-44bb-b6b3-82551f174cb3

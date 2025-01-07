@@ -1,9 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "The Young Pope":
-    year: 2016
-    title: "The Young Pope"
-    url_poster: https://theposterdb.com/api/assets/118719
-    file_background: "config/assets/tv/The Young Pope (2016)/background.png"
-    Seasons:
+metadata:
+  313969: # TVDB id for The Young Pope. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27666
+    url_poster: https://api.mediux.pro/assets/0de545a3-7c82-42d4-bb69-8b35230512d0
+    url_background: https://api.mediux.pro/assets/2afc9a87-f088-4422-8b79-5378950c9ac6
+    seasons:
       1:
-        file_poster: "config/assets/tv/The Young Pope (2016)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/4282ed27-7f28-421b-83c2-df026d7a9b09
+

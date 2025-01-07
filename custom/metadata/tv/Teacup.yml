@@ -1,0 +1,7 @@
+metadata:
+  446180: # TVDB id for Teacup. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26869
+    url_poster: https://api.mediux.pro/assets/de35aa39-ca68-48c7-8ef7-d1760a38fe4b
+    url_background: https://api.mediux.pro/assets/e7b3e3c2-0127-45fa-8a95-d7fd6484ac39
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f3c3e799-c885-424b-8160-73868944a1ea

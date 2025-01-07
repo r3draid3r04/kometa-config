@@ -1,0 +1,19 @@
+metadata:
+  280706: # TVDB id for Younger. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27493
+    url_poster: https://api.mediux.pro/assets/3cc375c8-48ab-4ecb-923f-dedd01aba90e
+    url_background: https://api.mediux.pro/assets/f213d280-52da-481a-a22e-1970a9b03964
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/58dce539-64a7-446e-87fa-0f5bf96e96bc
+      2:
+        url_poster: https://api.mediux.pro/assets/56d5d135-59a3-472f-825c-dc1481f91958
+      3:
+        url_poster: https://api.mediux.pro/assets/d3789ad1-d64d-4b7c-8c72-e1a8a0c27f1a
+      4:
+        url_poster: https://api.mediux.pro/assets/84af27c5-516d-4f5b-9dd2-eac093271ab0
+      5:
+        url_poster: https://api.mediux.pro/assets/3432601d-8f19-4074-bf85-97b5df100199
+      6:
+        url_poster: https://api.mediux.pro/assets/d4e5cb6b-6a91-41ab-8d5f-af8e05d7740b
+      7:
+        url_poster: https://api.mediux.pro/assets/11d0b12c-4ad8-4ee5-bc85-a35c85bda6dd

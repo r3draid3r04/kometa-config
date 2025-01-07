@@ -1,0 +1,7 @@
+metadata:
+  435916: # TVDB id for St. Denis Medical. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28144
+    url_poster: https://api.mediux.pro/assets/1de998de-697f-4a1a-b00b-86f0eececb0f
+    url_background: https://api.mediux.pro/assets/024f91e8-670f-4308-9c38-21d0a9f9b3bd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/308dbb4d-937d-4867-ad33-60f97660707e

@@ -1,22 +1,21 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Royal Pains":
-    year: 2009
-    title: "Royal Pains"
-    url_poster: https://theposterdb.com/api/assets/45688
-    Seasons:
+metadata:
+  92411: # TVDB id for Royal Pains. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28095
+    url_poster: https://api.mediux.pro/assets/f6f1e0d7-ae63-4e59-9cdb-5ef64d01c890
+    url_background: https://api.mediux.pro/assets/c5490c41-5b59-4ac2-b143-18a4400ac2ea
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/372943
+        url_poster: https://api.mediux.pro/assets/acef80dc-6dd5-477e-a277-0cfb0e1c66ae
       2:
-        url_poster: https://theposterdb.com/api/assets/372944
+        url_poster: https://api.mediux.pro/assets/8cb1149e-6e0a-47b6-8ef5-a325fd25b1bd
       3:
-        url_poster: https://theposterdb.com/api/assets/372945
+        url_poster: https://api.mediux.pro/assets/5cb68ba8-22c9-45a8-af60-345c15628a82
       4:
-        url_poster: https://theposterdb.com/api/assets/372946
+        url_poster: https://api.mediux.pro/assets/2661f136-dfda-4187-a2c3-855d1dde3803
       5:
-        url_poster: https://theposterdb.com/api/assets/372947
+        url_poster: https://api.mediux.pro/assets/62def0cc-ed27-481f-8c3a-257152e7d602
       6:
-        url_poster: https://theposterdb.com/api/assets/372948
+        url_poster: https://api.mediux.pro/assets/f3f0c18a-c315-4627-a625-5618d127301f
       7:
-        url_poster: https://theposterdb.com/api/assets/372949
+        url_poster: https://api.mediux.pro/assets/6a436295-8b2b-44d0-bd50-67a7111f5a12
       8:
-        url_poster: https://theposterdb.com/api/assets/372950
+        url_poster: https://api.mediux.pro/assets/7c7b08da-db1e-48d7-a3d7-5cceb969a4fb

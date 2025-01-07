@@ -1,5 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Waco: The Aftermath":
-    year: 2023
-    title: "Waco: The Aftermath"
-    url_poster: https://theposterdb.com/api/assets/352333
+metadata:
+  418489: # TVDB id for Waco: The Aftermath. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27657
+    url_poster: https://api.mediux.pro/assets/15dcd886-ec19-40e8-a936-fcbe15239684
+    url_background: https://api.mediux.pro/assets/5984566f-20dc-4dc7-bacd-7d8a22f56cbb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/516b83ef-5585-4dda-a661-1b1a7be9abfc
+

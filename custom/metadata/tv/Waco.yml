@@ -1,0 +1,7 @@
+metadata:
+  337749: # TVDB id for Waco. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27658
+    url_poster: https://api.mediux.pro/assets/b2ea5c82-4b88-4891-9e58-649bbb426ba3
+    url_background: https://api.mediux.pro/assets/42352b53-a474-4117-90c5-4e65051907f9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/40d07689-d1e7-4ab4-8c02-8e260d4ada55

@@ -5,4 +5,15 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/a32da865-fbdf-45af-83b8-d4d323ef5896
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/bebe29e3-8703-4eb4-b714-c42f58628190
+          2:
+            url_poster: https://api.mediux.pro/assets/cdc0695c-3527-4c4e-acbd-83e85f1ad217
+          3:
+            url_poster: https://api.mediux.pro/assets/295a7f34-fd27-4681-9872-2288914f30cd
+          4:
+            url_poster: https://api.mediux.pro/assets/025803cc-4de8-4685-b1df-cc47c13a0418
+          5:
+            url_poster: https://api.mediux.pro/assets/6ff3217c-95dc-4d83-89ae-3a7f6bbf13bc
 

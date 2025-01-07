@@ -1,5 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "White House Plumbers":
-    year: 2023
-    title: "White House Plumbers"
-    url_poster: https://theposterdb.com/api/assets/365150
+metadata:
+  401845: # TVDB id for White House Plumbers. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27656
+    url_poster: https://api.mediux.pro/assets/b8f6a247-5686-4b8a-820d-128056f0002f
+    url_background: https://api.mediux.pro/assets/f9f08060-0b72-4208-8513-476d7be513cd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f20a0653-5bad-4981-9322-ab0d19fa22b6
+

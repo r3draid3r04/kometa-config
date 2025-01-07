@@ -10,10 +10,11 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movie>>
     url_poster: <<poster>>
+    url_background: <<background>>
     sync_mode: sync
     collection_order: alpha
 
 collections:
   "Star Wars":
-    template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/68500}
+    template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://api.mediux.pro/assets/bdb2ff80-7680-48af-964a-c71e5f5cd386, background: https://api.mediux.pro/assets/49db3b0c-2337-4aa4-bb6e-0f858a21f7a5}
     summary: "The Complete Saga Of Star Wars"

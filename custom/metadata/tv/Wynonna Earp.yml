@@ -1,15 +1,14 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Wynonna Earp":
-    year: 2016
-    title: "Wynonna Earp"
-    url_poster: https://theposterdb.com/api/assets/84411
-    Seasons:
+metadata:
+  305582: # TVDB id for Wynonna Earp. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27498
+    url_poster: https://api.mediux.pro/assets/cd9316d0-8e06-4071-9782-a4ce988e6091
+    url_background: https://api.mediux.pro/assets/f8005f03-dd08-421e-b5fc-3766cec32c7f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/147708
+        url_poster: https://api.mediux.pro/assets/e89faee7-dca5-4982-90f9-c86409aa9b00
       2:
-        url_poster: https://theposterdb.com/api/assets/147709
+        url_poster: https://api.mediux.pro/assets/aaef16bc-b185-4596-b6e0-bed79d5bfa4f
       3:
-        url_poster: https://theposterdb.com/api/assets/147710
+        url_poster: https://api.mediux.pro/assets/0e076982-c970-4fcd-80d3-676ad6a089ac
       4:
-        url_poster: https://theposterdb.com/api/assets/147711
+        url_poster: https://api.mediux.pro/assets/82e2895e-46b1-4f48-a2cc-15698ab5dc39
 

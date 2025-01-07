@@ -1,0 +1,21 @@
+metadata:
+  78490: # TVDB id for Monk. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28731
+    url_poster: https://api.mediux.pro/assets/cc377032-9e5f-44ed-9d32-7f5edfccd281
+    url_background: https://api.mediux.pro/assets/87c02ffd-ca44-4a9e-acee-cd5f3fbbbe4e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c3e4e82d-b7d7-4d8b-8306-7cfe5c51af38
+      2:
+        url_poster: https://api.mediux.pro/assets/c3cdaae6-8d83-44aa-ac71-3dd83bdb6431
+      3:
+        url_poster: https://api.mediux.pro/assets/4b98925e-45fd-43c1-ba57-c8eff7f8e572
+      4:
+        url_poster: https://api.mediux.pro/assets/71175a1e-e17f-40b3-a43e-7f3c2ad5b0ba
+      5:
+        url_poster: https://api.mediux.pro/assets/f5452b2f-d921-48ae-a45f-515e993b7f3a
+      6:
+        url_poster: https://api.mediux.pro/assets/a4762452-913a-44e7-8f25-e5ecf1679db8
+      7:
+        url_poster: https://api.mediux.pro/assets/373b8e1b-8965-48b0-b764-1f7d96265767
+      8:
+        url_poster: https://api.mediux.pro/assets/e278a2a5-956b-4835-aed3-66a8ecfa2f34

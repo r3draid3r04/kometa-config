@@ -1,5 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "XO, Kitty":
-    year: 2023
-    title: "XO, Kitty"
-    url_poster: https://theposterdb.com/api/assets/365157
+metadata:
+  412285: # TVDB id for XO, Kitty. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27604
+    url_poster: https://api.mediux.pro/assets/4f58d5cd-9389-4654-97e4-98478ad53e31
+    url_background: https://api.mediux.pro/assets/023d878b-9415-4ad9-a759-e331df19fe99
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3d40722f-8211-40ea-893d-d1d02131e8c0
+

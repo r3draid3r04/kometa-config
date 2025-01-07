@@ -1,0 +1,9 @@
+metadata:
+  377719: # TVDB id for Tribal. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27735
+    url_poster: https://api.mediux.pro/assets/0bdec9dd-5ff8-4db8-9280-803f368fbcc5
+    url_background: https://api.mediux.pro/assets/0a1c0e18-1740-4dcc-996e-73802e78e597
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2c6e9aa1-b266-42bf-8e10-080567487bcb
+      2:
+        url_poster: https://api.mediux.pro/assets/1e89a5ef-fd2a-4ed2-9015-08420402869b

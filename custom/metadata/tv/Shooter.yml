@@ -1,12 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Shooter":
-    year: 2016
-    title: "Shooter"
-    url_poster: https://theposterdb.com/api/assets/285448
-    Seasons:
+metadata:
+  311900: # TVDB id for Shooter. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28194
+    url_poster: https://api.mediux.pro/assets/ba1c46fb-5bd1-4a32-9f09-bf319998de15
+    url_background: https://api.mediux.pro/assets/75a4c336-d1aa-4f19-8344-67506074128e
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/380937
+        url_poster: https://api.mediux.pro/assets/8734ab4d-2901-454e-8f53-91bf0d2bc5e9
       2:
-        url_poster: https://theposterdb.com/api/assets/380938
+        url_poster: https://api.mediux.pro/assets/3e0af6c4-d6ad-4f0d-a59c-29827136f401
       3:
-        url_poster: https://theposterdb.com/api/assets/380939
+        url_poster: https://api.mediux.pro/assets/811831b9-e0eb-48e6-95fb-0ecb17d1f1d7

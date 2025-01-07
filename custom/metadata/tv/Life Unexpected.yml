@@ -1,0 +1,9 @@
+metadata:
+  95511: # TVDB id for Life Unexpected. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28055
+    url_poster: https://api.mediux.pro/assets/2ad019ac-6dea-410e-a7d7-de04c4bf5136
+    url_background: https://api.mediux.pro/assets/fc3255f0-bf13-42d7-81cd-c854a66de613
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4430048c-2243-4a82-b16c-f531c7f69976
+      2:
+        url_poster: https://api.mediux.pro/assets/9aae14d0-78e5-4255-874d-ba368066f7a8

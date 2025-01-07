@@ -1,17 +1,15 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Luther":
-    year: 2010
-    title: "Luther"
-    url_poster: https://theposterdb.com/api/assets/43519
-    file_background: "config/assets/tv/Luther (2010)/background.png"
-    Seasons:
+metadata:
+  159591: # TVDB id for Luther. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27049
+    url_poster: https://api.mediux.pro/assets/c0a7ad9b-11fb-42d4-adcd-8fa1d23f371c
+    url_background: https://api.mediux.pro/assets/86bd11d2-9661-4683-8de0-f7c4e2c7b598
+    seasons:
       1:
-        file_poster: "config/assets/tv/Luther (2010)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/b52b3740-4f91-41f1-a636-41458fd23a2e
       2:
-        file_poster: "config/assets/tv/Luther (2010)/Season02.png"
+        url_poster: https://api.mediux.pro/assets/7723cdfa-62d1-4a54-a3fc-87a497f296ed
       3:
-        file_poster: "config/assets/tv/Luther (2010)/Season03.png"
+        url_poster: https://api.mediux.pro/assets/377c2f2a-8dc2-4c38-972f-b1960f1fbb49
       4:
-        file_poster: "config/assets/tv/Luther (2010)/Season04.png"
+        url_poster: https://api.mediux.pro/assets/d94e06ea-33ee-4221-82fc-a612376b9414
       5:
-        file_poster: "config/assets/tv/Luther (2010)/Season05.png"
+        url_poster: https://api.mediux.pro/assets/bc4f172c-35d7-428e-9b65-69e45168688f

@@ -1,0 +1,9 @@
+metadata:
+  315323: # TVDB id for One Mississippi. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28060
+    url_poster: https://api.mediux.pro/assets/42d8d94e-cda0-48f2-b033-f56c0515b378
+    url_background: https://api.mediux.pro/assets/48b1c6a7-73b4-4d46-8b6e-cb7c64af759c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/97f489a8-402a-4764-82cd-7dba5fe0de6d
+      2:
+        url_poster: https://api.mediux.pro/assets/e39e65bf-8e2b-4218-8922-af7c3323ae36

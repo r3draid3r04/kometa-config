@@ -1,0 +1,7 @@
+metadata:
+  441315: # TVDB id for Black Doves. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27995
+    url_poster: https://api.mediux.pro/assets/7c17d3a0-0d81-4a14-b405-cef95a1f1f0f
+    url_background: https://api.mediux.pro/assets/fc51eedb-beca-44d1-899f-ff4d7f108071
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb5b58cf-ff57-4577-9429-6e952334e80c

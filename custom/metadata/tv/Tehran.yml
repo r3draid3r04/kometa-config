@@ -1,10 +1,11 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Tehran":
-    year: 2020
-    title: "Tehran"
-    url_poster: https://theposterdb.com/api/assets/233075
-    Seasons:
+metadata:
+  380010: # TVDB id for Tehran. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27818
+    url_poster: https://api.mediux.pro/assets/612faa3f-2db0-4239-89b0-5c14c4bfc53b
+    url_background: https://api.mediux.pro/assets/2777cc83-105a-421c-91cd-0b7fcc1cf805
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/382225
+        url_poster: https://api.mediux.pro/assets/d50fd50e-cfd1-4e72-bedd-1b5b6206a3ac
       2:
-        url_poster: https://theposterdb.com/api/assets/382226
+        url_poster: https://api.mediux.pro/assets/61d0fa9c-2fc8-43ba-b167-cbabdb3828bb
+      3:
+        url_poster: https://api.mediux.pro/assets/b180f47c-b1a8-4201-8eb3-b1d7096b2a10

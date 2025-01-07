@@ -1,0 +1,12 @@
+metadata:
+  421288: # TVDB id for Before. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26884
+    url_poster: https://api.mediux.pro/assets/bcc26711-d943-491b-8057-9cc80c6576be
+    url_background: https://api.mediux.pro/assets/36d93e49-b974-4dfd-bafb-788598f01700
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ce444deb-1d8f-4328-bfe1-a53118c8137c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2751f644-dfcd-4285-a442-38139fd20c08
+          2:
+            url_poster: https://api.mediux.pro/assets/90d460b0-cf37-4dc9-8ecc-225910605dfb

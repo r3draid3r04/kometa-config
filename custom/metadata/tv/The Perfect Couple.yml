@@ -1,10 +1,7 @@
-# Posters by SwaffelSmurf on MediUX. https://mediux.pro/sets/25029
 metadata:
-  "The Perfect Couple":
-    year: 2024
-    title: "The Perfect Couple"
-    url_poster: https://api.mediux.pro/assets/936dcb63-947c-4668-aff5-edb17f0059b8
-    url_background: https://api.mediux.pro/assets/fcb41738-a9a1-40c5-a652-29f3b767164f
+  432782: # TVDB id for The Perfect Couple. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27998
+    url_poster: https://api.mediux.pro/assets/42b244f5-770c-4ae7-bf5a-d09b6c9d1fca
+    url_background: https://api.mediux.pro/assets/475d9389-c844-4024-8a1a-8320d75b41cc
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/d9418cfd-a2ba-4730-aa90-124ec63a3058
+        url_poster: https://api.mediux.pro/assets/64d87e77-1e22-4e21-8dda-4aed0444ef09

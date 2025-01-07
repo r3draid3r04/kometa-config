@@ -1,0 +1,7 @@
+metadata:
+  446744: # TVDB id for Curfew. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26867
+    url_poster: https://api.mediux.pro/assets/2c8808b7-26cb-482b-9540-d3a61c48490b
+    url_background: https://api.mediux.pro/assets/b9a789db-3f1d-4762-b21a-d05325917858
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ad59bf1f-b6c3-48d2-a2cf-c8d8e2ff3749

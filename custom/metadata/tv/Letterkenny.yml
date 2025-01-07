@@ -1,0 +1,31 @@
+metadata:
+  302938: # TVDB id for Letterkenny. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27716
+    url_poster: https://api.mediux.pro/assets/9332c25b-0604-4741-a1b9-605bcf5abb01
+    url_background: https://api.mediux.pro/assets/005d4bd5-12ea-4435-ae74-f7747a44a924
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/0abfb252-e9aa-4e51-a24d-ec706d6105ab
+      1:
+        url_poster: https://api.mediux.pro/assets/75b4b2e3-8cca-4894-8ac2-252c7ede5ea4
+      2:
+        url_poster: https://api.mediux.pro/assets/f1cb4499-8741-4940-9392-80ad398913a5
+      3:
+        url_poster: https://api.mediux.pro/assets/0c1cea63-29a9-4b44-b2a9-8ca1d682a4d5
+      4:
+        url_poster: https://api.mediux.pro/assets/08e24a05-775f-4a22-b0b1-f3a9d5355c87
+      5:
+        url_poster: https://api.mediux.pro/assets/8771cbc2-198d-49b9-b360-512c92f8ea59
+      6:
+        url_poster: https://api.mediux.pro/assets/f209fa8f-d5dd-46b8-8f57-b6afba5ffb35
+      7:
+        url_poster: https://api.mediux.pro/assets/bc14533f-6a28-408b-8420-62720de06468
+      8:
+        url_poster: https://api.mediux.pro/assets/dd2ce1c4-948c-47ee-95a1-fa5dee42e6b9
+      9:
+        url_poster: https://api.mediux.pro/assets/d1604344-7816-40ec-aeff-652e0f270b37
+      10:
+        url_poster: https://api.mediux.pro/assets/558bae0e-830b-46b5-8281-40a39808087a
+      11:
+        url_poster: https://api.mediux.pro/assets/cffa9334-0275-4b48-be0d-0566cd868f71
+      12:
+        url_poster: https://api.mediux.pro/assets/5cae3735-d85f-4598-88f5-22dd9b5e95f0

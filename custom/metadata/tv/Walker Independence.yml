@@ -1,9 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Walker Independence":
-    year: 2022
-    title: "Walker Independence"
-    url_poster: https://theposterdb.com/api/assets/274097
-    file_background: "config/assets/tv/Walker Independence (2022)/background.png"
-    Seasons:
+metadata:
+  420060: # TVDB id for Walker Independence. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/7742
+    url_poster: https://api.mediux.pro/assets/7b5cde68-7d00-4ab9-a190-e66f782d7476
+    url_background: https://api.mediux.pro/assets/3dea9880-7ece-4f4d-87b5-d4de016c9526
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/335366
+        url_poster: https://api.mediux.pro/assets/94a7db3a-aaee-4c9d-a53d-dc6a0b6cac9a
+

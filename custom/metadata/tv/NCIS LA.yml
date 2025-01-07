@@ -1,0 +1,35 @@
+metadata:
+  95441: # TVDB id for NCIS: Los Angeles. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26933
+    url_poster: https://api.mediux.pro/assets/31dc62d8-a496-4af6-857d-2313f6e13435
+    url_background: https://api.mediux.pro/assets/b5cb070a-575e-41e4-a140-cac49af19f65
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a49b35da-e046-4cd7-b640-eda9915ddf31
+      1:
+        url_poster: https://api.mediux.pro/assets/85036b15-67b4-46e2-9e57-8826e87cfe29
+      2:
+        url_poster: https://api.mediux.pro/assets/de70da7f-f398-4944-bb2d-100ab681ba23
+      3:
+        url_poster: https://api.mediux.pro/assets/bf63370d-5be7-4291-b9c1-bde19336a3d8
+      4:
+        url_poster: https://api.mediux.pro/assets/cf91c1f8-c009-4f3b-9be5-f9f77b492bd3
+      5:
+        url_poster: https://api.mediux.pro/assets/0f20b420-c9fb-4b85-bb85-97f4b7b45b44
+      6:
+        url_poster: https://api.mediux.pro/assets/c4dad931-5cb0-4d00-8afc-173c4d4b514a
+      7:
+        url_poster: https://api.mediux.pro/assets/c0ad8bf7-5e24-48d4-ad70-6b99c5dd8665
+      8:
+        url_poster: https://api.mediux.pro/assets/c258e54a-b558-4a23-9971-75814275c32c
+      9:
+        url_poster: https://api.mediux.pro/assets/40bef297-7972-4462-bf96-5e64a8c5eece
+      10:
+        url_poster: https://api.mediux.pro/assets/3cf93fd0-399b-4edd-bb0c-7259a7b73d6a
+      11:
+        url_poster: https://api.mediux.pro/assets/a32843b3-0e59-48d0-890a-227beabbf00f
+      12:
+        url_poster: https://api.mediux.pro/assets/9507fda1-ef9c-4044-a374-7d8189a00309
+      13:
+        url_poster: https://api.mediux.pro/assets/3765a7ff-f715-4797-a80f-0ce0b8220d2f
+      14:
+        url_poster: https://api.mediux.pro/assets/800e5dc0-c751-4a4c-8a08-ef0b946c5b47

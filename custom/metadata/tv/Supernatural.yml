@@ -1,36 +1,37 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Supernatural":
-    year: 2005
-    title: "Supernatural"
-    url_poster: https://theposterdb.com/api/assets/35406
-    Seasons:
+metadata:
+  78901: # TVDB id for Supernatural. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27259
+    url_poster: https://api.mediux.pro/assets/1fa4c929-0cac-47a0-9a37-95a638e111a4
+    url_background: https://api.mediux.pro/assets/867273ce-4601-47e9-b870-32612344a0e2
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a5b564d5-c76a-4481-8e89-783e91079c3e
       1:
-        url_poster: https://theposterdb.com/api/assets/335325
+        url_poster: https://api.mediux.pro/assets/f907f437-4e9e-4c7e-83b7-a86baea5ba28
       2:
-        url_poster: https://theposterdb.com/api/assets/335326
+        url_poster: https://api.mediux.pro/assets/55da99d3-0b20-4982-b492-f633a5f8f54b
       3:
-        url_poster: https://theposterdb.com/api/assets/335327
+        url_poster: https://api.mediux.pro/assets/8ad562ce-0989-46d1-985b-55ca03ee57d3
       4:
-        url_poster: https://theposterdb.com/api/assets/335328
+        url_poster: https://api.mediux.pro/assets/3d089a6d-b60c-4af2-929c-2166d6536a6f
       5:
-        url_poster: https://theposterdb.com/api/assets/335329
+        url_poster: https://api.mediux.pro/assets/217548a6-42ce-4be7-a017-5bd4677ba9a1
       6:
-        url_poster: https://theposterdb.com/api/assets/335330
+        url_poster: https://api.mediux.pro/assets/46cb268d-5d1e-4c7a-be34-bea3bb2617ae
       7:
-        url_poster: https://theposterdb.com/api/assets/335331
+        url_poster: https://api.mediux.pro/assets/323b4fef-058c-4c78-8333-06a00329882f
       8:
-        url_poster: https://theposterdb.com/api/assets/335332
+        url_poster: https://api.mediux.pro/assets/b0b43c7b-fb24-4886-a3cc-b394e3b229ee
       9:
-        url_poster: https://theposterdb.com/api/assets/335333
+        url_poster: https://api.mediux.pro/assets/b928d809-6a62-4d98-a8ba-d6453fd45755
       10:
-        url_poster: https://theposterdb.com/api/assets/335334
+        url_poster: https://api.mediux.pro/assets/78d9c5fa-b27d-4357-b60a-f180095fca57
       11:
-        url_poster: https://theposterdb.com/api/assets/335335
+        url_poster: https://api.mediux.pro/assets/cfba3de3-a992-41ab-a131-7588a04e6402
       12:
-        url_poster: https://theposterdb.com/api/assets/335336
+        url_poster: https://api.mediux.pro/assets/9f17af8d-548a-48a1-a7a4-7117492a50a3
       13:
-        url_poster: https://theposterdb.com/api/assets/335337
+        url_poster: https://api.mediux.pro/assets/be3abe38-a854-42f6-9da0-7fe30ca7008e
       14:
-        url_poster: https://theposterdb.com/api/assets/335338
+        url_poster: https://api.mediux.pro/assets/9a98816a-fd10-497b-8f96-48df7011ec02
       15:
-        url_poster: https://theposterdb.com/api/assets/335339
+        url_poster: https://api.mediux.pro/assets/23b70b37-a021-4e08-bc93-90b6a814aac1

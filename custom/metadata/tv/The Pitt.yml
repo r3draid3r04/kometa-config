@@ -1,0 +1,7 @@
+metadata:
+  448176: # TVDB id for The Pitt. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/29336
+    url_poster: https://api.mediux.pro/assets/78e165b3-23c2-40f8-b52e-295e6926c053
+    url_background: https://api.mediux.pro/assets/4178eb37-41de-41a5-9b42-e31d9703da8f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c3c3b7dd-7633-4d4f-9511-070e30182aff

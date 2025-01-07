@@ -1,0 +1,7 @@
+metadata:
+  78906: # TVDB id for Surface. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27261
+    url_poster: https://api.mediux.pro/assets/a1d30702-27e9-4298-b2a9-4aa832a70e31
+    url_background: https://api.mediux.pro/assets/e1810b5c-1aee-48f5-9fd5-9f21e52ee9d5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b6731331-892c-4ed8-8d50-6c9a794c875e

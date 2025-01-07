@@ -1,0 +1,7 @@
+metadata:
+  425840: # TVDB id for Nautilus. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27757
+    url_poster: https://api.mediux.pro/assets/b1fd72d6-b109-4653-96d7-a207447156e9
+    url_background: https://api.mediux.pro/assets/7892aa96-f380-41f6-8686-f06ba3bc69d8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/509669f5-c752-45ca-b033-00671b9b94f7

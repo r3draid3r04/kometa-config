@@ -1,0 +1,9 @@
+metadata:
+  350553: # TVDB id for Homecoming. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27047
+    url_poster: https://api.mediux.pro/assets/e56c671f-537a-49de-9bc8-1d5d1aa26e6e
+    url_background: https://api.mediux.pro/assets/01199d11-15db-476f-91f4-c0578cb8b076
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/544d5979-88e6-47e8-9891-3a5dd255d85c
+      2:
+        url_poster: https://api.mediux.pro/assets/66e37116-9cc3-4572-939c-a3dbbe1e2493

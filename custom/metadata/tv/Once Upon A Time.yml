@@ -1,23 +1,21 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Once Upon a Time (2011)":
-    year: 2011
-    title: "Once Upon a Time (2011)"
-    url_poster: https://theposterdb.com/api/assets/34616
-    Seasons:
-      #0:
-      #  file_poster: "config/assets/tv/Once Upon a Time (2011)/Season00.png"
+metadata:
+  248835: # TVDB id for Once Upon a Time. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27215
+    url_poster: https://api.mediux.pro/assets/abff76eb-3f4c-440c-8a80-f5cba5d6bd79
+    url_background: https://api.mediux.pro/assets/3d6e6a75-192a-4de5-8a44-2936faa272e9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/134aa76b-0a7c-4faf-b96d-27e2183adef9
       1:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season01.png"
+        url_poster: https://api.mediux.pro/assets/8b242660-c3de-4cc7-87b0-f821cdbbde16
       2:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season02.png"
+        url_poster: https://api.mediux.pro/assets/6dbada78-4082-4783-96e1-b13eae5c88a6
       3:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season03.png"
+        url_poster: https://api.mediux.pro/assets/f39bae80-11d3-4dad-aae3-d4d9a02d5ff3
       4:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season04.png"
+        url_poster: https://api.mediux.pro/assets/3e033367-2680-40c7-9dbe-3b4b52406322
       5:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season05.png"
+        url_poster: https://api.mediux.pro/assets/4fb512fa-0ea3-489c-a170-7c85574619b4
       6:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season06.png"
+        url_poster: https://api.mediux.pro/assets/af90fec2-5fa9-4206-b9e7-738265d4e757
       7:
-        file_poster: "config/assets/tv/Once Upon a Time (2011)/Season07.png"
-
+        url_poster: https://api.mediux.pro/assets/de2275ff-affd-4eb4-ab76-5f8377917761

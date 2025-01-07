@@ -1,8 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Rabbit Hole":
-    year: 2023
-    title: "Rabbit Hole"
-    url_poster: https://theposterdb.com/api/assets/341484
-    Seasons:
+metadata:
+  415584: # TVDB id for Rabbit Hole. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28224
+    url_poster: https://api.mediux.pro/assets/e73e2079-a8d9-4e2a-a817-bb60d74af3c1
+    url_background: https://api.mediux.pro/assets/d036c7f9-e3d2-4852-acfb-f31ef40e3806
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/368064
+        url_poster: https://api.mediux.pro/assets/7c24662b-e766-47c2-9451-b2e346e314bc

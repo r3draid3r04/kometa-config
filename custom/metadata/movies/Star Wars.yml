@@ -1,0 +1,82 @@
+metadata:
+
+  11: # Star Wars (1977) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    sort_title: "Star Wars: 4"
+    url_poster: https://api.mediux.pro/assets/99da959b-1e8a-4e43-8d7f-e7adf5d14d0d
+    url_background: https://api.mediux.pro/assets/254ca5c5-7307-4602-9ed6-8cbe8ce7b039
+
+  1891: # The Empire Strikes Back (1980) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode V - The Empire Strikes Back"
+    year: 1980
+    sort_title: "Star Wars: 5"
+    url_poster: https://api.mediux.pro/assets/bd7eb33e-bf71-40ad-a1df-391f619cf638
+    url_background: https://api.mediux.pro/assets/bd8bd9ae-9eec-4eea-aee4-10f077842846
+
+  1892: # Return of the Jedi (1983) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode VI - Return of the Jedi"
+    year: 1983
+    sort_title: "Star Wars: 6"
+    url_poster: https://api.mediux.pro/assets/e3b41427-2d4c-4d5f-ad2e-d31bb5dd60b8
+    url_background: https://api.mediux.pro/assets/775118fd-f601-4aac-bfd3-f2aa8e412bd0
+
+  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode I - The Phantom Menace"
+    year: 1999
+    sort_title: "Star Wars: 1"
+    url_poster: https://api.mediux.pro/assets/9b00b527-a657-41c7-a8eb-be1280baa776
+    url_background: https://api.mediux.pro/assets/38de43cc-9bfe-4a09-96ed-5a845520a48f
+
+  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode II - Attack of the Clones"
+    year: 2002
+    sort_title: "Star Wars: 2"
+    url_poster: https://api.mediux.pro/assets/e1e8e37a-6384-41b9-9206-02e28b4547d4
+    url_background: https://api.mediux.pro/assets/6ec87677-a715-4482-a89f-53ec75894e73
+
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode III - Revenge of the Sith"
+    year: 2005
+    sort_title: "Star Wars: 3"
+    url_poster: https://api.mediux.pro/assets/57dd606e-c002-4066-ae9b-271f25a304f7
+    url_background: https://api.mediux.pro/assets/26a6ea54-2037-47e1-a5c7-aa3d64806e81
+
+  140607: # Star Wars: The Force Awakens (2015) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode VII - The Force Awakens"
+    year: 2015
+    sort_title: "Star Wars: 7"
+    url_poster: https://api.mediux.pro/assets/1b4bc113-3781-4013-9c8f-dddac38b2b8a
+    url_background: https://api.mediux.pro/assets/26a0c7f0-007d-4a83-bd06-80b81162e075
+
+  181808: # Star Wars: The Last Jedi (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode VIII - The Last Jedi"
+    year: 2017
+    sort_title: "Star Wars: 8"
+    url_poster: https://api.mediux.pro/assets/3a0c13d6-81aa-4196-babb-1729386773f4
+    url_background: https://api.mediux.pro/assets/ca8b4c1e-7a13-4645-bd50-1262a9a7b27b
+
+  181812: # Star Wars: The Rise of Skywalker (2019) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29001
+    title: "Star Wars: Episode IX - The Rise of Skywalker"
+    year: 2019
+    sort_title: "Star Wars: 9"
+    url_poster: https://api.mediux.pro/assets/f149019d-6a9a-4347-90d3-d1f7fb6cbd84
+    url_background: https://api.mediux.pro/assets/0fccd003-c63f-4542-999e-f7b1f3ed79c0
+
+  "Star Wars: The Clone Wars":
+    title: "Star Wars: The Clone Wars"
+    year: 2008
+    sort_title: "Star Wars: 2.5"
+    url_poster: https://theposterdb.com/api/assets/8797
+
+  "Solo: A Star Wars Story":
+    title: "Solo: A Star Wars Story"
+    year: 2018
+    sort_title: "Star Wars: 3.3"
+    url_poster: https://theposterdb.com/api/assets/8801
+
+  "Rogue One: A Star Wars Story":
+    title: "Rogue One: A Star Wars Story"
+    year: 2016
+    sort_title: "Star Wars: 3.9"
+    url_poster: https://theposterdb.com/api/assets/8799

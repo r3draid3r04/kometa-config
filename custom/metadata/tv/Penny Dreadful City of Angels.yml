@@ -1,8 +1,7 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Penny Dreadful: City of Angels":
-    year: 2020
-    title: "Penny Dreadful: City of Angels"
-    url_poster: https://theposterdb.com/api/assets/67101
-    Seasons:
+metadata:
+  360892: # TVDB id for Penny Dreadful: City of Angels. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28071
+    url_poster: https://api.mediux.pro/assets/0f7d28f7-df5a-47d4-b9f5-04544d6fab75
+    url_background: https://api.mediux.pro/assets/eb03b7cf-5d1f-4fad-b9bd-29ea97535b7a
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/99794
+        url_poster: https://api.mediux.pro/assets/030b6bc5-0aa8-48ca-aaaf-af70c0e5ecb0

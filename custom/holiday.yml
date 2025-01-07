@@ -60,7 +60,7 @@ collections:
       - name: separator off
         separator: seasonal
 
-  Independence Day:
+  Fourth of July:
     template:
       - name: Holiday
         season: independence
@@ -80,7 +80,7 @@ collections:
     imdb_list: 
       - https://www.imdb.com/list/ls062665509/
       - https://www.imdb.com/list/ls051733651/
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/seasonal/<<season>>.jpg
+    url_poster: https://theposterdb.com/api/assets/408530
 
   Valentine's Day:
     template:
@@ -92,7 +92,7 @@ collections:
       - https://www.imdb.com/list/ls000094398/
       - https://www.imdb.com/list/ls057783436/
       - https://www.imdb.com/list/ls064427905/
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/seasonal/<<season>>.jpg
+    url_poster: https://theposterdb.com/api/assets/219483
 
   St. Patrick's Day:
     template:
@@ -101,7 +101,7 @@ collections:
         schedule_patrick: range(03/01-03/18)
       - name: shared
     imdb_list: https://www.imdb.com/list/ls063934595/
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/seasonal/<<season>>.jpg
+    url_poster: https://theposterdb.com/api/assets/408520
 
   Thanksgiving:
     collection_name: Thanksgiving
@@ -143,6 +143,7 @@ collections:
     imdb_list: 
       - https://www.imdb.com/list/ls000096828/
       - https://www.imdb.com/list/ls566723605/
+      - https://www.imdb.com/list/ls047553841/
     url_poster: https://theposterdb.com/api/assets/69443
 
   New Year's Day:
@@ -152,4 +153,4 @@ collections:
         schedule_years: range(12/26-01/04)
       - name: shared
     imdb_list: https://www.imdb.com/list/ls066838460/
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/seasonal/<<season>>.jpg
+    url_poster: https://theposterdb.com/api/assets/408570

@@ -1,0 +1,7 @@
+metadata:
+  410488: # TVDB id for Wolf Pack. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27577
+    url_poster: https://api.mediux.pro/assets/af48b4e8-31cb-46b5-a37a-519e1540de6f
+    url_background: https://api.mediux.pro/assets/c37447c8-6641-4403-94f1-4b27f75dc158
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/619f3a48-53c1-4fae-bad1-8ac370d8f754

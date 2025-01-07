@@ -1,0 +1,11 @@
+metadata:
+  320450: # TVDB id for Santa Clarita Diet. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28549
+    url_poster: https://api.mediux.pro/assets/3d881c21-07e1-4696-a534-8dabd47ae38b
+    url_background: https://api.mediux.pro/assets/7fe182d3-9725-4a4b-bf9d-8a92f43edb07
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/86f51150-5085-475d-aa12-3dc982099bb1
+      2:
+        url_poster: https://api.mediux.pro/assets/37c1d810-a7aa-4495-b254-21c72e5c95bc
+      3:
+        url_poster: https://api.mediux.pro/assets/6b9df847-b18d-46cc-95c1-02ea5cc3cf45

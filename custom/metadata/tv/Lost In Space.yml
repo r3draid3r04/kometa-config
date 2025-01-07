@@ -1,0 +1,13 @@
+metadata:
+  343253: # TVDB id for Lost in Space. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27214
+    url_poster: https://api.mediux.pro/assets/ad075e8a-856f-4d13-841c-670e73addfe5
+    url_background: https://api.mediux.pro/assets/ed26c4dc-df99-4bf2-ba9b-9956b5296017
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/80f65b09-de4c-4878-a940-fe63d61a40d3
+      1:
+        url_poster: https://api.mediux.pro/assets/205d64d8-8e7e-402f-b650-d0cc7c879dc6
+      2:
+        url_poster: https://api.mediux.pro/assets/3e8795f0-5611-47c5-bbfd-c327deafceba
+      3:
+        url_poster: https://api.mediux.pro/assets/d3e42e6c-7a15-4cf9-8b55-9a72f383e27f

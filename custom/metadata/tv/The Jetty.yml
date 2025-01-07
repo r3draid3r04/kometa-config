@@ -1,0 +1,7 @@
+metadata:
+  438707: # TVDB id for The Jetty. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28547
+    url_poster: https://api.mediux.pro/assets/a8ca0560-5519-4bda-b471-7d0854593ff6
+    url_background: https://api.mediux.pro/assets/50133839-2e5e-4f0f-ab88-bdaf9e307e6a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ba3f890f-a679-4593-a56a-b738e8e64be6

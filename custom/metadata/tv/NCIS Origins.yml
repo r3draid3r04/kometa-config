@@ -1,0 +1,7 @@
+metadata:
+  444350: # TVDB id for NCIS: Origins. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26885
+    url_poster: https://api.mediux.pro/assets/374cfb27-0b40-4dd9-9035-f218cfe9a3ee
+    url_background: https://api.mediux.pro/assets/27893731-31c3-4c74-90c8-d36294805c73
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8f06c40b-2d10-4c3e-9d01-bd35fb5a7bb4

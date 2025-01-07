@@ -1,9 +1,7 @@
 # Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/22231
 # Title cards by willtong93 on MediUX. https://mediux.pro/sets/13156
 metadata:
-  "The Diplomat":
-    year: 2023
-    title: "The Diplomat"
+  415239:
     url_poster: https://api.mediux.pro/assets/ae889981-760d-4f1a-b775-c3c8adc99de4
     url_background: https://api.mediux.pro/assets/151e1a53-1d0f-4abf-8db2-5aa53dad9656
     seasons:
@@ -26,4 +24,18 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4f68fd53-f789-4e78-9770-ab09180492ad
           8:
             url_poster: https://api.mediux.pro/assets/bc377337-0d98-4aab-ba70-6576081cfc53
-
+      2:
+        url_poster: https://api.mediux.pro/assets/53aed011-65e0-425b-aa53-c25ade7a70e2
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8395168e-5467-4f32-baa4-31c222caeb00
+          2:
+            url_poster: https://api.mediux.pro/assets/46a43047-865b-4af1-aa8d-29eede7f9aff
+          3:
+            url_poster: https://api.mediux.pro/assets/c54a87f6-1752-4ae9-94c0-319ed110b123
+          4:
+            url_poster: https://api.mediux.pro/assets/0dbd3aad-727a-487b-9cb1-096681b36caf
+          5:
+            url_poster: https://api.mediux.pro/assets/10dfee98-1db0-43a8-ab85-419e218fda31
+          6:
+            url_poster: https://api.mediux.pro/assets/00ea7648-487e-417b-b085-4d0d4edb1228

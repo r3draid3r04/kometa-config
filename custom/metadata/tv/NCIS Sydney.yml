@@ -1,8 +1,10 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
+# Posters by r3draid3r04 on MediUX. https://mediux.pro/sets/26930
+metadata:
   "NCIS: Sydney":
     year: 2023
     title: "NCIS: Sydney"
-    url_poster: https://theposterdb.com/api/assets/432231
-    Seasons:
+    url_poster: https://api.mediux.pro/assets/0043451e-d903-40a0-8da8-0b3ab8e13af9
+    url_background: https://api.mediux.pro/assets/796cbc92-cc52-48d9-b7f3-65bb12f6cd3c
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/432232
+        url_poster: https://api.mediux.pro/assets/615f7adb-6b7e-4030-a288-6b8aedc66bc2

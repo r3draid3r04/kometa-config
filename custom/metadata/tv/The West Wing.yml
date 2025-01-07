@@ -1,0 +1,21 @@
+metadata:
+  72521: # TVDB id for The West Wing. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28757
+    url_poster: https://api.mediux.pro/assets/57310b7c-07e5-4a77-a38c-4a4c59c9e1a7
+    url_background: https://api.mediux.pro/assets/ee2c33d3-c1d7-4f6a-8cfa-eded68e6388a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/ae0c04df-84f0-4d68-ae57-2f35eb830460
+      1:
+        url_poster: https://api.mediux.pro/assets/418e5094-82b5-4772-838c-451df0b53f8f
+      2:
+        url_poster: https://api.mediux.pro/assets/f95af0f2-19b7-48b2-82a9-c00209685ce5
+      3:
+        url_poster: https://api.mediux.pro/assets/b37a2704-a10b-4311-9600-0968a1ac6196
+      4:
+        url_poster: https://api.mediux.pro/assets/ba44d4b5-6e6d-4f27-9ee8-eb45d8c67e8e
+      5:
+        url_poster: https://api.mediux.pro/assets/edad9d1a-ec07-4140-b1bb-39a6c624c971
+      6:
+        url_poster: https://api.mediux.pro/assets/2601966b-9b5d-4071-a9aa-3351e6606201
+      7:
+        url_poster: https://api.mediux.pro/assets/c3403817-e974-4d86-8d02-da7d8d7438a1

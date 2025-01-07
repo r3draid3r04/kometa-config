@@ -1,0 +1,11 @@
+metadata:
+  311790: # TVDB id for Lethal Weapon. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27819
+    url_poster: https://api.mediux.pro/assets/a9d89871-5c57-4d73-9326-7966aee3dcff
+    url_background: https://api.mediux.pro/assets/6743d515-7667-4ac3-b643-1edb6cd87713
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b0973cd8-8f9e-40ac-b484-e6148b965005
+      2:
+        url_poster: https://api.mediux.pro/assets/7aa4b825-8e20-4ca7-aeee-2f04402cd4e9
+      3:
+        url_poster: https://api.mediux.pro/assets/e1cbf229-d126-4149-9e94-708d9895a0a5

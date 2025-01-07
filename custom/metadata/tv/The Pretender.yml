@@ -1,0 +1,13 @@
+metadata:
+  70704: # TVDB id for The Pretender. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27630
+    url_poster: https://api.mediux.pro/assets/63248a1b-0232-4cdb-8246-ffe0fda5f87c
+    url_background: https://api.mediux.pro/assets/9d137cce-39c1-447a-b9cf-983515b865df
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9b3d3d70-48e3-4d96-869a-a231012c8ea6
+      2:
+        url_poster: https://api.mediux.pro/assets/aa187cc7-9180-4253-b785-95232f93bb77
+      3:
+        url_poster: https://api.mediux.pro/assets/b2019f71-75f2-4b5c-bd49-64966ad596e9
+      4:
+        url_poster: https://api.mediux.pro/assets/e14ec6fd-82ce-4b9f-8c16-fef61a9d1ee1

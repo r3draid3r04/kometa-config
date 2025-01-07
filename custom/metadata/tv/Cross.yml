@@ -1,0 +1,24 @@
+metadata:
+  426501: # TVDB id for Cross. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28141
+    url_poster: https://api.mediux.pro/assets/8a715fcf-0682-4c0b-a96b-fcc80df4f316
+    url_background: https://api.mediux.pro/assets/9d6f458d-e051-482f-8493-57670026c1e2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9fbc7614-b25f-4ce1-bedd-1bd9fc6d239e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/45df03c6-5852-4cd3-8e97-7642a00d5660
+          2:
+            url_poster: https://api.mediux.pro/assets/152ad21b-e240-4638-a48f-b9472a1a39d6
+          3:
+            url_poster: https://api.mediux.pro/assets/d3398b3e-ab41-42d4-85c4-ecf7c5d9c870
+          4:
+            url_poster: https://api.mediux.pro/assets/503a9dc5-1109-4b7d-b3c4-3be25608f1d4
+          5:
+            url_poster: https://api.mediux.pro/assets/f5759d16-177a-4196-a373-efa7b9a71f1d
+          6:
+            url_poster: https://api.mediux.pro/assets/44df4dc9-5ecc-45db-96a9-47c4da2f5496
+          7:
+            url_poster: https://api.mediux.pro/assets/f7077310-4f48-4568-abdd-0cb1ff0e01ae
+          8:
+            url_poster: https://api.mediux.pro/assets/9de53eb1-664e-48ce-bfca-b8e28034f40d

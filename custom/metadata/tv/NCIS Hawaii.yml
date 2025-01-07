@@ -1,0 +1,11 @@
+metadata:
+  401630: # TVDB id for NCIS: Hawai'i. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26931
+    url_poster: https://api.mediux.pro/assets/5cf1a49f-1346-43f9-a581-d0900fdd94bd
+    url_background: https://api.mediux.pro/assets/2a837efd-30d7-439b-ad91-c5d685eb2cd9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d7173bf8-de41-488f-be46-e6585929d2a2
+      2:
+        url_poster: https://api.mediux.pro/assets/0a1b7efb-22e9-4804-87fb-2ffcdda2d57c
+      3:
+        url_poster: https://api.mediux.pro/assets/591fa813-49fd-494b-9ce7-189e1056e1af

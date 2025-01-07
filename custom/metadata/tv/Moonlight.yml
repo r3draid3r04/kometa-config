@@ -1,8 +1,8 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Moonlight":
-    year: 2007
-    title: "Moonlight"
-    url_poster: https://theposterdb.com/api/assets/47737
-    Seasons:
+metadata:
+  80512: # TVDB id for Moonlight. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27272
+    url_poster: https://api.mediux.pro/assets/16fd915a-2640-411b-b460-96173857340a
+    url_background: https://api.mediux.pro/assets/95d54793-38a7-4db2-a21b-e9ffb8d87148
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/380969
+        url_poster: https://api.mediux.pro/assets/1cd3d9aa-e7ea-4e4e-8a9b-f069af700be1
+

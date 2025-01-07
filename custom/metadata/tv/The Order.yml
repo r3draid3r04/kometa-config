@@ -2,9 +2,10 @@ metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
   "The Order":
     year: 2019
     title: "The Order"
-    url_poster: https://theposterdb.com/api/assets/44154
-    Seasons:
+    url_poster: https://api.mediux.pro/assets/67c63b87-56d6-404d-bfc9-4d357b12a4f5
+    url_background: https://api.mediux.pro/assets/7b09e95c-3260-401b-a486-ecbb4bcdc79f
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/368912
+        url_poster: https://api.mediux.pro/assets/1fa28e1d-7563-42f9-9ca2-5ae153350780
       2:
-        url_poster: https://theposterdb.com/api/assets/368913
+        url_poster: https://api.mediux.pro/assets/cef41e6e-c099-4f42-a393-d3ddcd22602b

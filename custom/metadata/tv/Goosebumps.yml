@@ -1,9 +1,9 @@
-metadata:     #Posters found here https://theposterdb.com/user/r3draid3r04
-  "Goosebumps (2023)":
-    year: 2023
-    title: "Goosebumps (2023)"
-    url_poster: https://theposterdb.com/api/assets/419747
-    file_background: "config/assets/tv/Goosebumps (2023)/background.png"
-    Seasons:
+metadata:
+  415840: # TVDB id for Goosebumps. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27045
+    url_poster: https://api.mediux.pro/assets/7c85dad3-6b40-4120-aefa-f7d950383457
+    url_background: https://api.mediux.pro/assets/0020c9eb-5bf2-4292-979a-1a029d68ff56
+    seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/419748
+        url_poster: https://api.mediux.pro/assets/4fd5ceb5-702f-40a5-bc70-58cf12dc8517
+      2:
+        url_poster: https://api.mediux.pro/assets/21a6edf4-dae6-484d-a6d2-1d933aafc479
